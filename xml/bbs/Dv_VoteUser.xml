@@ -1,0 +1,3591 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<ID>1</ID>
+
+	<VoteID>1</VoteID>
+
+	<UserID>19</UserID>
+
+	<VoteDate>10/29/04, 7:09:12 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>2</ID>
+
+	<VoteID>2</VoteID>
+
+	<UserID>19</UserID>
+
+	<VoteDate>10/30/04, 3:38:53 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>3</ID>
+
+	<VoteID>3</VoteID>
+
+	<UserID>6</UserID>
+
+	<VoteDate>10/30/04, 4:08:11 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>4</ID>
+
+	<VoteID>3</VoteID>
+
+	<UserID>1</UserID>
+
+	<VoteDate>10/30/04, 4:16:22 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>5</ID>
+
+	<VoteID>3</VoteID>
+
+	<UserID>19</UserID>
+
+	<VoteDate>10/30/04, 4:17:43 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>6</ID>
+
+	<VoteID>3</VoteID>
+
+	<UserID>10</UserID>
+
+	<VoteDate>10/30/04, 4:17:57 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>7</ID>
+
+	<VoteID>2</VoteID>
+
+	<UserID>10</UserID>
+
+	<VoteDate>10/30/04, 4:21:56 PM</VoteDate>
+
+	<VoteOption>1,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>8</ID>
+
+	<VoteID>2</VoteID>
+
+	<UserID>26</UserID>
+
+	<VoteDate>10/30/04, 5:01:58 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>9</ID>
+
+	<VoteID>3</VoteID>
+
+	<UserID>20</UserID>
+
+	<VoteDate>10/30/04, 6:06:52 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>10</ID>
+
+	<VoteID>2</VoteID>
+
+	<UserID>21</UserID>
+
+	<VoteDate>10/30/04, 10:07:48 PM</VoteDate>
+
+	<VoteOption>1,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>11</ID>
+
+	<VoteID>3</VoteID>
+
+	<UserID>21</UserID>
+
+	<VoteDate>10/30/04, 11:21:17 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>12</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>5</UserID>
+
+	<VoteDate>10/31/04, 8:29:31 AM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>13</ID>
+
+	<VoteID>3</VoteID>
+
+	<UserID>5</UserID>
+
+	<VoteDate>10/31/04, 8:30:01 AM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>14</ID>
+
+	<VoteID>5</VoteID>
+
+	<UserID>5</UserID>
+
+	<VoteDate>10/31/04, 8:36:50 AM</VoteDate>
+
+	<VoteOption>6</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>18</ID>
+
+	<VoteID>5</VoteID>
+
+	<UserID>10</UserID>
+
+	<VoteDate>10/31/04, 12:16:59 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>19</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>10</UserID>
+
+	<VoteDate>10/31/04, 12:21:14 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>21</ID>
+
+	<VoteID>7</VoteID>
+
+	<UserID>10</UserID>
+
+	<VoteDate>10/31/04, 1:08:15 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>23</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>18</UserID>
+
+	<VoteDate>10/31/04, 1:37:51 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>24</ID>
+
+	<VoteID>5</VoteID>
+
+	<UserID>18</UserID>
+
+	<VoteDate>10/31/04, 1:41:08 PM</VoteDate>
+
+	<VoteOption>8</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>25</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>35</UserID>
+
+	<VoteDate>10/31/04, 4:22:56 PM</VoteDate>
+
+	<VoteOption>6</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>27</ID>
+
+	<VoteID>5</VoteID>
+
+	<UserID>20</UserID>
+
+	<VoteDate>10/31/04, 6:55:30 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>28</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>20</UserID>
+
+	<VoteDate>10/31/04, 6:56:56 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>29</ID>
+
+	<VoteID>8</VoteID>
+
+	<UserID>20</UserID>
+
+	<VoteDate>10/31/04, 7:00:51 PM</VoteDate>
+
+	<VoteOption>2,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>30</ID>
+
+	<VoteID>5</VoteID>
+
+	<UserID>21</UserID>
+
+	<VoteDate>11/1/04, 10:24:33 AM</VoteDate>
+
+	<VoteOption>4</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>31</ID>
+
+	<VoteID>5</VoteID>
+
+	<UserID>17</UserID>
+
+	<VoteDate>11/1/04, 10:26:54 AM</VoteDate>
+
+	<VoteOption>8</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>32</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>19</UserID>
+
+	<VoteDate>11/1/04, 4:02:37 PM</VoteDate>
+
+	<VoteOption>3</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>33</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>6</UserID>
+
+	<VoteDate>11/2/04, 2:44:35 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>34</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>21</UserID>
+
+	<VoteDate>11/3/04, 4:16:46 PM</VoteDate>
+
+	<VoteOption>8</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>35</ID>
+
+	<VoteID>1</VoteID>
+
+	<UserID>21</UserID>
+
+	<VoteDate>11/3/04, 4:22:41 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>37</ID>
+
+	<VoteID>8</VoteID>
+
+	<UserID>35</UserID>
+
+	<VoteDate>11/4/04, 3:30:27 PM</VoteDate>
+
+	<VoteOption>1,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>38</ID>
+
+	<VoteID>8</VoteID>
+
+	<UserID>6</UserID>
+
+	<VoteDate>11/4/04, 3:39:11 PM</VoteDate>
+
+	<VoteOption>2,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>39</ID>
+
+	<VoteID>5</VoteID>
+
+	<UserID>6</UserID>
+
+	<VoteDate>11/4/04, 3:41:40 PM</VoteDate>
+
+	<VoteOption>3</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>42</ID>
+
+	<VoteID>8</VoteID>
+
+	<UserID>40</UserID>
+
+	<VoteDate>11/4/04, 3:54:29 PM</VoteDate>
+
+	<VoteOption>2,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>43</ID>
+
+	<VoteID>3</VoteID>
+
+	<UserID>40</UserID>
+
+	<VoteDate>11/4/04, 3:58:28 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>44</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>40</UserID>
+
+	<VoteDate>11/4/04, 4:04:24 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>45</ID>
+
+	<VoteID>7</VoteID>
+
+	<UserID>19</UserID>
+
+	<VoteDate>11/4/04, 5:34:43 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>46</ID>
+
+	<VoteID>8</VoteID>
+
+	<UserID>26</UserID>
+
+	<VoteDate>11/4/04, 8:09:21 PM</VoteDate>
+
+	<VoteOption>6,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>47</ID>
+
+	<VoteID>1</VoteID>
+
+	<UserID>26</UserID>
+
+	<VoteDate>11/4/04, 8:14:41 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>48</ID>
+
+	<VoteID>5</VoteID>
+
+	<UserID>19</UserID>
+
+	<VoteDate>11/5/04, 4:50:52 PM</VoteDate>
+
+	<VoteOption>7</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>49</ID>
+
+	<VoteID>8</VoteID>
+
+	<UserID>25</UserID>
+
+	<VoteDate>11/6/04, 9:14:38 PM</VoteDate>
+
+	<VoteOption>2,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>50</ID>
+
+	<VoteID>8</VoteID>
+
+	<UserID>52</UserID>
+
+	<VoteDate>11/6/04, 9:20:10 PM</VoteDate>
+
+	<VoteOption>2,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>51</ID>
+
+	<VoteID>5</VoteID>
+
+	<UserID>25</UserID>
+
+	<VoteDate>11/6/04, 9:33:47 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>52</ID>
+
+	<VoteID>8</VoteID>
+
+	<UserID>21</UserID>
+
+	<VoteDate>11/6/04, 10:18:26 PM</VoteDate>
+
+	<VoteOption>2,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>53</ID>
+
+	<VoteID>7</VoteID>
+
+	<UserID>21</UserID>
+
+	<VoteDate>11/6/04, 10:42:09 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>60</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>40</UserID>
+
+	<VoteDate>11/10/04, 6:14:18 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>61</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>55</UserID>
+
+	<VoteDate>11/10/04, 6:19:41 PM</VoteDate>
+
+	<VoteOption>6</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>62</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>56</UserID>
+
+	<VoteDate>11/10/04, 6:24:33 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>63</ID>
+
+	<VoteID>8</VoteID>
+
+	<UserID>5</UserID>
+
+	<VoteDate>11/11/04, 12:52:27 PM</VoteDate>
+
+	<VoteOption>1,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>64</ID>
+
+	<VoteID>5</VoteID>
+
+	<UserID>40</UserID>
+
+	<VoteDate>11/11/04, 3:25:36 PM</VoteDate>
+
+	<VoteOption>8</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>65</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>25</UserID>
+
+	<VoteDate>11/11/04, 3:28:12 PM</VoteDate>
+
+	<VoteOption>9</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>66</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>60</UserID>
+
+	<VoteDate>11/11/04, 3:32:01 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>67</ID>
+
+	<VoteID>5</VoteID>
+
+	<UserID>60</UserID>
+
+	<VoteDate>11/11/04, 3:33:04 PM</VoteDate>
+
+	<VoteOption>6</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>68</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>60</UserID>
+
+	<VoteDate>11/11/04, 3:56:18 PM</VoteDate>
+
+	<VoteOption>6</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>69</ID>
+
+	<VoteID>8</VoteID>
+
+	<UserID>60</UserID>
+
+	<VoteDate>11/11/04, 3:57:14 PM</VoteDate>
+
+	<VoteOption>2,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>70</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>41</UserID>
+
+	<VoteDate>11/11/04, 4:10:04 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>71</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>19</UserID>
+
+	<VoteDate>11/11/04, 4:27:30 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>72</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>39</UserID>
+
+	<VoteDate>11/11/04, 4:29:33 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>73</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>35</UserID>
+
+	<VoteDate>11/12/04, 12:35:38 AM</VoteDate>
+
+	<VoteOption>5</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>74</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>21</UserID>
+
+	<VoteDate>11/12/04, 5:39:52 PM</VoteDate>
+
+	<VoteOption>6</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>75</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>57</UserID>
+
+	<VoteDate>11/12/04, 8:56:17 PM</VoteDate>
+
+	<VoteOption>6</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>76</ID>
+
+	<VoteID>9</VoteID>
+
+	<UserID>16</UserID>
+
+	<VoteDate>11/16/04, 1:27:00 PM</VoteDate>
+
+	<VoteOption>3,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>77</ID>
+
+	<VoteID>8</VoteID>
+
+	<UserID>16</UserID>
+
+	<VoteDate>11/16/04, 1:33:28 PM</VoteDate>
+
+	<VoteOption>0,1,2,3,4,5,6,7,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>78</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>16</UserID>
+
+	<VoteDate>11/16/04, 2:23:22 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>79</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>83</UserID>
+
+	<VoteDate>11/20/04, 7:43:33 PM</VoteDate>
+
+	<VoteOption>3</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>80</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>86</UserID>
+
+	<VoteDate>11/20/04, 7:46:54 PM</VoteDate>
+
+	<VoteOption>3</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>81</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>84</UserID>
+
+	<VoteDate>11/20/04, 7:47:28 PM</VoteDate>
+
+	<VoteOption>3</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>82</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>87</UserID>
+
+	<VoteDate>11/20/04, 7:48:32 PM</VoteDate>
+
+	<VoteOption>3</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>83</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>88</UserID>
+
+	<VoteDate>11/20/04, 7:49:09 PM</VoteDate>
+
+	<VoteOption>3</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>84</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>89</UserID>
+
+	<VoteDate>11/20/04, 7:50:08 PM</VoteDate>
+
+	<VoteOption>3</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>85</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>90</UserID>
+
+	<VoteDate>11/20/04, 7:51:04 PM</VoteDate>
+
+	<VoteOption>3</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>86</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>91</UserID>
+
+	<VoteDate>11/20/04, 7:51:41 PM</VoteDate>
+
+	<VoteOption>3</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>87</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>92</UserID>
+
+	<VoteDate>11/20/04, 7:52:49 PM</VoteDate>
+
+	<VoteOption>3</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>88</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>93</UserID>
+
+	<VoteDate>11/20/04, 7:54:30 PM</VoteDate>
+
+	<VoteOption>3</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>89</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>22</UserID>
+
+	<VoteDate>11/20/04, 8:12:28 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>90</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>23</UserID>
+
+	<VoteDate>11/20/04, 8:25:35 PM</VoteDate>
+
+	<VoteOption>3</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>93</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>26</UserID>
+
+	<VoteDate>11/20/04, 9:26:32 PM</VoteDate>
+
+	<VoteOption>3</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>94</ID>
+
+	<VoteID>8</VoteID>
+
+	<UserID>1</UserID>
+
+	<VoteDate>11/20/04, 9:45:26 PM</VoteDate>
+
+	<VoteOption>1,2,6,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>95</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>61</UserID>
+
+	<VoteDate>11/20/04, 10:03:25 PM</VoteDate>
+
+	<VoteOption>5</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>96</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>46</UserID>
+
+	<VoteDate>11/20/04, 10:05:29 PM</VoteDate>
+
+	<VoteOption>3</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>97</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>97</UserID>
+
+	<VoteDate>11/21/04, 2:53:44 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>98</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>98</UserID>
+
+	<VoteDate>11/21/04, 2:56:02 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>99</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>99</UserID>
+
+	<VoteDate>11/21/04, 2:56:58 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>100</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>100</UserID>
+
+	<VoteDate>11/21/04, 2:57:46 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>101</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>101</UserID>
+
+	<VoteDate>11/21/04, 2:58:31 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>102</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>102</UserID>
+
+	<VoteDate>11/21/04, 2:59:17 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>103</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>103</UserID>
+
+	<VoteDate>11/21/04, 2:59:59 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>104</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>104</UserID>
+
+	<VoteDate>11/21/04, 3:00:45 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>105</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>105</UserID>
+
+	<VoteDate>11/21/04, 3:01:41 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>106</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>106</UserID>
+
+	<VoteDate>11/21/04, 3:02:22 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>107</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>108</UserID>
+
+	<VoteDate>11/21/04, 4:01:10 PM</VoteDate>
+
+	<VoteOption>8</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>108</ID>
+
+	<VoteID>8</VoteID>
+
+	<UserID>108</UserID>
+
+	<VoteDate>11/21/04, 4:11:22 PM</VoteDate>
+
+	<VoteOption>2,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>110</ID>
+
+	<VoteID>8</VoteID>
+
+	<UserID>46</UserID>
+
+	<VoteDate>11/21/04, 9:37:39 PM</VoteDate>
+
+	<VoteOption>2,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>111</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>95</UserID>
+
+	<VoteDate>11/21/04, 10:11:17 PM</VoteDate>
+
+	<VoteOption>9</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>112</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>109</UserID>
+
+	<VoteDate>11/23/04, 8:40:00 PM</VoteDate>
+
+	<VoteOption>2,3,4,7,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>113</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>35</UserID>
+
+	<VoteDate>11/24/04, 1:05:23 PM</VoteDate>
+
+	<VoteOption>0,1,5,6,8,9,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>114</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>62</UserID>
+
+	<VoteDate>11/25/04, 3:32:04 PM</VoteDate>
+
+	<VoteOption>1,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>115</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>62</UserID>
+
+	<VoteDate>11/25/04, 3:38:13 PM</VoteDate>
+
+	<VoteOption>7</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>116</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>41</UserID>
+
+	<VoteDate>11/25/04, 4:06:25 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>117</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>57</UserID>
+
+	<VoteDate>11/27/04, 1:20:12 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>118</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>26</UserID>
+
+	<VoteDate>11/27/04, 2:19:40 PM</VoteDate>
+
+	<VoteOption>7,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>119</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>123</UserID>
+
+	<VoteDate>11/27/04, 2:48:53 PM</VoteDate>
+
+	<VoteOption>0,3,7,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>120</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>63</UserID>
+
+	<VoteDate>11/27/04, 5:58:27 PM</VoteDate>
+
+	<VoteOption>5</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>121</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>70</UserID>
+
+	<VoteDate>11/28/04, 3:04:29 PM</VoteDate>
+
+	<VoteOption>8</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>122</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>127</UserID>
+
+	<VoteDate>11/28/04, 3:22:22 PM</VoteDate>
+
+	<VoteOption>7,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>123</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>111</UserID>
+
+	<VoteDate>12/2/04, 4:48:38 PM</VoteDate>
+
+	<VoteOption>7,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>124</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>129</UserID>
+
+	<VoteDate>12/3/04, 11:40:56 PM</VoteDate>
+
+	<VoteOption>2,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>125</ID>
+
+	<VoteID>13</VoteID>
+
+	<UserID>35</UserID>
+
+	<VoteDate>12/4/04, 9:24:45 PM</VoteDate>
+
+	<VoteOption>0,1,2,3,4,5,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>126</ID>
+
+	<VoteID>13</VoteID>
+
+	<UserID>16</UserID>
+
+	<VoteDate>12/4/04, 9:50:56 PM</VoteDate>
+
+	<VoteOption>0,1,2,3,4,5,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>127</ID>
+
+	<VoteID>13</VoteID>
+
+	<UserID>130</UserID>
+
+	<VoteDate>12/4/04, 10:28:47 PM</VoteDate>
+
+	<VoteOption>3,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>128</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>130</UserID>
+
+	<VoteDate>12/4/04, 10:34:32 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>129</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>40</UserID>
+
+	<VoteDate>12/5/04, 11:48:38 AM</VoteDate>
+
+	<VoteOption>7,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>130</ID>
+
+	<VoteID>13</VoteID>
+
+	<UserID>22</UserID>
+
+	<VoteDate>12/5/04, 11:52:46 AM</VoteDate>
+
+	<VoteOption>3,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>131</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>6</UserID>
+
+	<VoteDate>12/5/04, 6:19:44 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>132</ID>
+
+	<VoteID>14</VoteID>
+
+	<UserID>70</UserID>
+
+	<VoteDate>12/9/04, 9:01:06 AM</VoteDate>
+
+	<VoteOption>9,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>133</ID>
+
+	<VoteID>14</VoteID>
+
+	<UserID>39</UserID>
+
+	<VoteDate>12/9/04, 9:30:28 AM</VoteDate>
+
+	<VoteOption>6,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>134</ID>
+
+	<VoteID>14</VoteID>
+
+	<UserID>6</UserID>
+
+	<VoteDate>12/9/04, 3:31:09 PM</VoteDate>
+
+	<VoteOption>7,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>135</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>134</UserID>
+
+	<VoteDate>12/9/04, 4:07:08 PM</VoteDate>
+
+	<VoteOption>7,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>136</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>82</UserID>
+
+	<VoteDate>12/11/04, 6:47:46 PM</VoteDate>
+
+	<VoteOption>7,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>137</ID>
+
+	<VoteID>14</VoteID>
+
+	<UserID>82</UserID>
+
+	<VoteDate>12/11/04, 6:59:31 PM</VoteDate>
+
+	<VoteOption>9,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>138</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>136</UserID>
+
+	<VoteDate>12/11/04, 10:09:28 PM</VoteDate>
+
+	<VoteOption>3,5,6,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>139</ID>
+
+	<VoteID>15</VoteID>
+
+	<UserID>70</UserID>
+
+	<VoteDate>12/12/04, 12:21:09 AM</VoteDate>
+
+	<VoteOption>9</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>140</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>142</UserID>
+
+	<VoteDate>12/12/04, 11:32:35 AM</VoteDate>
+
+	<VoteOption>2,4,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>141</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>138</UserID>
+
+	<VoteDate>12/12/04, 11:33:51 AM</VoteDate>
+
+	<VoteOption>2,3,4,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>142</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>97</UserID>
+
+	<VoteDate>12/16/04, 3:20:48 PM</VoteDate>
+
+	<VoteOption>7,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>144</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>53</UserID>
+
+	<VoteDate>12/16/04, 3:30:29 PM</VoteDate>
+
+	<VoteOption>5</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>145</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>53</UserID>
+
+	<VoteDate>12/16/04, 3:34:33 PM</VoteDate>
+
+	<VoteOption>2,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>146</ID>
+
+	<VoteID>5</VoteID>
+
+	<UserID>152</UserID>
+
+	<VoteDate>12/16/04, 3:40:12 PM</VoteDate>
+
+	<VoteOption>8</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>148</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>52</UserID>
+
+	<VoteDate>12/16/04, 3:57:04 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>149</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>50</UserID>
+
+	<VoteDate>12/18/04, 6:14:31 PM</VoteDate>
+
+	<VoteOption>0,2,5,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>150</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>154</UserID>
+
+	<VoteDate>12/18/04, 8:54:54 PM</VoteDate>
+
+	<VoteOption>7,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>151</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>154</UserID>
+
+	<VoteDate>12/18/04, 11:47:41 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>152</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>46</UserID>
+
+	<VoteDate>12/19/04, 4:43:34 PM</VoteDate>
+
+	<VoteOption>6,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>153</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>113</UserID>
+
+	<VoteDate>12/21/04, 2:37:09 PM</VoteDate>
+
+	<VoteOption>3,4,5,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>154</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>167</UserID>
+
+	<VoteDate>12/21/04, 10:11:33 PM</VoteDate>
+
+	<VoteOption>7,8,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>155</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>168</UserID>
+
+	<VoteDate>12/21/04, 10:25:11 PM</VoteDate>
+
+	<VoteOption>8,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>156</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>169</UserID>
+
+	<VoteDate>12/21/04, 10:29:40 PM</VoteDate>
+
+	<VoteOption>7,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>157</ID>
+
+	<VoteID>5</VoteID>
+
+	<UserID>134</UserID>
+
+	<VoteDate>12/23/04, 3:35:48 PM</VoteDate>
+
+	<VoteOption>7</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>158</ID>
+
+	<VoteID>18</VoteID>
+
+	<UserID>5</UserID>
+
+	<VoteDate>12/23/04, 3:44:57 PM</VoteDate>
+
+	<VoteOption>0,2,3,4,5,7,9,10,11,15,17,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>159</ID>
+
+	<VoteID>18</VoteID>
+
+	<UserID>134</UserID>
+
+	<VoteDate>12/23/04, 3:44:58 PM</VoteDate>
+
+	<VoteOption>17,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>160</ID>
+
+	<VoteID>18</VoteID>
+
+	<UserID>173</UserID>
+
+	<VoteDate>12/23/04, 3:52:39 PM</VoteDate>
+
+	<VoteOption>9,17,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>161</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>173</UserID>
+
+	<VoteDate>12/23/04, 3:55:31 PM</VoteDate>
+
+	<VoteOption>2,4,9,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>162</ID>
+
+	<VoteID>18</VoteID>
+
+	<UserID>14</UserID>
+
+	<VoteDate>12/23/04, 4:01:07 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>163</ID>
+
+	<VoteID>18</VoteID>
+
+	<UserID>114</UserID>
+
+	<VoteDate>12/23/04, 4:06:10 PM</VoteDate>
+
+	<VoteOption>17,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>166</ID>
+
+	<VoteID>12</VoteID>
+
+	<UserID>114</UserID>
+
+	<VoteDate>12/23/04, 11:09:15 PM</VoteDate>
+
+	<VoteOption>0,7,8,9,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>167</ID>
+
+	<VoteID>18</VoteID>
+
+	<UserID>82</UserID>
+
+	<VoteDate>12/25/04, 6:26:49 PM</VoteDate>
+
+	<VoteOption>2,9,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>168</ID>
+
+	<VoteID>1</VoteID>
+
+	<UserID>82</UserID>
+
+	<VoteDate>12/25/04, 6:29:38 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>170</ID>
+
+	<VoteID>18</VoteID>
+
+	<UserID>41</UserID>
+
+	<VoteDate>12/25/04, 11:48:23 PM</VoteDate>
+
+	<VoteOption>4,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>171</ID>
+
+	<VoteID>18</VoteID>
+
+	<UserID>154</UserID>
+
+	<VoteDate>12/26/04, 12:15:48 PM</VoteDate>
+
+	<VoteOption>4,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>172</ID>
+
+	<VoteID>5</VoteID>
+
+	<UserID>154</UserID>
+
+	<VoteDate>12/26/04, 12:44:24 PM</VoteDate>
+
+	<VoteOption>8</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>174</ID>
+
+	<VoteID>20</VoteID>
+
+	<UserID>20</UserID>
+
+	<VoteDate>12/26/04, 1:35:45 PM</VoteDate>
+
+	<VoteOption>0,2,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>175</ID>
+
+	<VoteID>20</VoteID>
+
+	<UserID>177</UserID>
+
+	<VoteDate>12/26/04, 1:43:41 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>176</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>177</UserID>
+
+	<VoteDate>12/26/04, 1:51:21 PM</VoteDate>
+
+	<VoteOption>6</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>177</ID>
+
+	<VoteID>20</VoteID>
+
+	<UserID>8</UserID>
+
+	<VoteDate>12/26/04, 1:52:58 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>178</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>154</UserID>
+
+	<VoteDate>12/26/04, 1:57:04 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>179</ID>
+
+	<VoteID>18</VoteID>
+
+	<UserID>177</UserID>
+
+	<VoteDate>12/26/04, 3:41:45 PM</VoteDate>
+
+	<VoteOption>4,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>180</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>177</UserID>
+
+	<VoteDate>12/26/04, 4:40:22 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>181</ID>
+
+	<VoteID>21</VoteID>
+
+	<UserID>177</UserID>
+
+	<VoteDate>12/26/04, 4:48:25 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>182</ID>
+
+	<VoteID>22</VoteID>
+
+	<UserID>177</UserID>
+
+	<VoteDate>12/26/04, 5:12:24 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>183</ID>
+
+	<VoteID>22</VoteID>
+
+	<UserID>16</UserID>
+
+	<VoteDate>12/26/04, 6:17:03 PM</VoteDate>
+
+	<VoteOption>3,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>184</ID>
+
+	<VoteID>22</VoteID>
+
+	<UserID>20</UserID>
+
+	<VoteDate>12/26/04, 7:09:57 PM</VoteDate>
+
+	<VoteOption>0,2,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>185</ID>
+
+	<VoteID>22</VoteID>
+
+	<UserID>154</UserID>
+
+	<VoteDate>12/29/04, 1:22:05 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>186</ID>
+
+	<VoteID>18</VoteID>
+
+	<UserID>127</UserID>
+
+	<VoteDate>12/29/04, 7:26:54 PM</VoteDate>
+
+	<VoteOption>0,1,4,7,10,17,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>188</ID>
+
+	<VoteID>22</VoteID>
+
+	<UserID>5</UserID>
+
+	<VoteDate>12/30/04, 1:36:37 PM</VoteDate>
+
+	<VoteOption>0,1,2,4,6,8,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>189</ID>
+
+	<VoteID>22</VoteID>
+
+	<UserID>35</UserID>
+
+	<VoteDate>12/30/04, 6:39:15 PM</VoteDate>
+
+	<VoteOption>0,6,7,8,10,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>190</ID>
+
+	<VoteID>21</VoteID>
+
+	<UserID>35</UserID>
+
+	<VoteDate>12/30/04, 6:39:57 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>192</ID>
+
+	<VoteID>20</VoteID>
+
+	<UserID>35</UserID>
+
+	<VoteDate>12/30/04, 6:50:25 PM</VoteDate>
+
+	<VoteOption>1,3,4,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>193</ID>
+
+	<VoteID>20</VoteID>
+
+	<UserID>114</UserID>
+
+	<VoteDate>12/31/04, 7:56:36 PM</VoteDate>
+
+	<VoteOption>6,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>194</ID>
+
+	<VoteID>14</VoteID>
+
+	<UserID>177</UserID>
+
+	<VoteDate>12/31/04, 8:01:49 PM</VoteDate>
+
+	<VoteOption>0,1,2,3,4,5,6,7,8,9,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>195</ID>
+
+	<VoteID>22</VoteID>
+
+	<UserID>114</UserID>
+
+	<VoteDate>12/31/04, 8:16:03 PM</VoteDate>
+
+	<VoteOption>5,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>196</ID>
+
+	<VoteID>21</VoteID>
+
+	<UserID>114</UserID>
+
+	<VoteDate>12/31/04, 8:20:58 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>197</ID>
+
+	<VoteID>20</VoteID>
+
+	<UserID>6</UserID>
+
+	<VoteDate>12/31/04, 8:28:44 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>199</ID>
+
+	<VoteID>23</VoteID>
+
+	<UserID>177</UserID>
+
+	<VoteDate>12/31/04, 8:55:11 PM</VoteDate>
+
+	<VoteOption>4</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>200</ID>
+
+	<VoteID>18</VoteID>
+
+	<UserID>182</UserID>
+
+	<VoteDate>12/31/04, 9:07:26 PM</VoteDate>
+
+	<VoteOption>4,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>201</ID>
+
+	<VoteID>20</VoteID>
+
+	<UserID>136</UserID>
+
+	<VoteDate>1/1/05, 5:00:06 PM</VoteDate>
+
+	<VoteOption>4,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>203</ID>
+
+	<VoteID>18</VoteID>
+
+	<UserID>184</UserID>
+
+	<VoteDate>1/1/05, 10:19:35 PM</VoteDate>
+
+	<VoteOption>3,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>204</ID>
+
+	<VoteID>21</VoteID>
+
+	<UserID>185</UserID>
+
+	<VoteDate>1/2/05, 11:44:10 AM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>205</ID>
+
+	<VoteID>23</VoteID>
+
+	<UserID>18</UserID>
+
+	<VoteDate>1/2/05, 1:50:18 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>208</ID>
+
+	<VoteID>18</VoteID>
+
+	<UserID>57</UserID>
+
+	<VoteDate>1/4/05, 2:36:56 PM</VoteDate>
+
+	<VoteOption>2,3,4,15,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>209</ID>
+
+	<VoteID>21</VoteID>
+
+	<UserID>111</UserID>
+
+	<VoteDate>1/4/05, 3:10:48 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>210</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>114</UserID>
+
+	<VoteDate>1/5/05, 1:17:27 PM</VoteDate>
+
+	<VoteOption>6</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>211</ID>
+
+	<VoteID>22</VoteID>
+
+	<UserID>70</UserID>
+
+	<VoteDate>1/5/05, 4:02:50 PM</VoteDate>
+
+	<VoteOption>0,1,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>212</ID>
+
+	<VoteID>20</VoteID>
+
+	<UserID>14</UserID>
+
+	<VoteDate>1/8/05, 3:44:36 PM</VoteDate>
+
+	<VoteOption>0,1,2,3,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>215</ID>
+
+	<VoteID>24</VoteID>
+
+	<UserID>177</UserID>
+
+	<VoteDate>1/8/05, 5:23:53 PM</VoteDate>
+
+	<VoteOption>0,1,2,3,7,9,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>216</ID>
+
+	<VoteID>18</VoteID>
+
+	<UserID>190</UserID>
+
+	<VoteDate>1/8/05, 5:49:11 PM</VoteDate>
+
+	<VoteOption>4,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>217</ID>
+
+	<VoteID>24</VoteID>
+
+	<UserID>127</UserID>
+
+	<VoteDate>1/8/05, 6:24:51 PM</VoteDate>
+
+	<VoteOption>1,7,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>218</ID>
+
+	<VoteID>24</VoteID>
+
+	<UserID>70</UserID>
+
+	<VoteDate>1/8/05, 10:20:11 PM</VoteDate>
+
+	<VoteOption>0,1,2,3,9,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>220</ID>
+
+	<VoteID>24</VoteID>
+
+	<UserID>16</UserID>
+
+	<VoteDate>1/8/05, 10:34:54 PM</VoteDate>
+
+	<VoteOption>10,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>221</ID>
+
+	<VoteID>20</VoteID>
+
+	<UserID>66</UserID>
+
+	<VoteDate>1/9/05, 5:10:02 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>222</ID>
+
+	<VoteID>21</VoteID>
+
+	<UserID>66</UserID>
+
+	<VoteDate>1/9/05, 5:19:05 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>223</ID>
+
+	<VoteID>18</VoteID>
+
+	<UserID>66</UserID>
+
+	<VoteDate>1/9/05, 5:22:37 PM</VoteDate>
+
+	<VoteOption>2,3,4,16,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>224</ID>
+
+	<VoteID>18</VoteID>
+
+	<UserID>97</UserID>
+
+	<VoteDate>1/12/05, 5:18:23 PM</VoteDate>
+
+	<VoteOption>8,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>225</ID>
+
+	<VoteID>24</VoteID>
+
+	<UserID>20</UserID>
+
+	<VoteDate>1/12/05, 5:50:15 PM</VoteDate>
+
+	<VoteOption>7,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>226</ID>
+
+	<VoteID>24</VoteID>
+
+	<UserID>114</UserID>
+
+	<VoteDate>1/14/05, 5:46:55 PM</VoteDate>
+
+	<VoteOption>2,7,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>227</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>192</UserID>
+
+	<VoteDate>1/16/05, 5:41:12 PM</VoteDate>
+
+	<VoteOption>8</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>228</ID>
+
+	<VoteID>5</VoteID>
+
+	<UserID>192</UserID>
+
+	<VoteDate>1/16/05, 5:41:38 PM</VoteDate>
+
+	<VoteOption>8</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>229</ID>
+
+	<VoteID>27</VoteID>
+
+	<UserID>193</UserID>
+
+	<VoteDate>1/20/05, 5:33:44 PM</VoteDate>
+
+	<VoteOption>0,1,2,3,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>230</ID>
+
+	<VoteID>27</VoteID>
+
+	<UserID>194</UserID>
+
+	<VoteDate>1/20/05, 5:57:32 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>231</ID>
+
+	<VoteID>27</VoteID>
+
+	<UserID>195</UserID>
+
+	<VoteDate>1/20/05, 5:58:42 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>232</ID>
+
+	<VoteID>27</VoteID>
+
+	<UserID>196</UserID>
+
+	<VoteDate>1/20/05, 5:59:54 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>233</ID>
+
+	<VoteID>27</VoteID>
+
+	<UserID>197</UserID>
+
+	<VoteDate>1/20/05, 6:00:55 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>234</ID>
+
+	<VoteID>27</VoteID>
+
+	<UserID>198</UserID>
+
+	<VoteDate>1/20/05, 6:01:50 PM</VoteDate>
+
+	<VoteOption>0,1,2,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>235</ID>
+
+	<VoteID>27</VoteID>
+
+	<UserID>199</UserID>
+
+	<VoteDate>1/20/05, 6:03:59 PM</VoteDate>
+
+	<VoteOption>0,1,2,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>236</ID>
+
+	<VoteID>27</VoteID>
+
+	<UserID>200</UserID>
+
+	<VoteDate>1/20/05, 6:04:57 PM</VoteDate>
+
+	<VoteOption>0,1,2,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>237</ID>
+
+	<VoteID>27</VoteID>
+
+	<UserID>201</UserID>
+
+	<VoteDate>1/20/05, 6:05:48 PM</VoteDate>
+
+	<VoteOption>0,1,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>238</ID>
+
+	<VoteID>27</VoteID>
+
+	<UserID>82</UserID>
+
+	<VoteDate>1/21/05, 5:19:48 PM</VoteDate>
+
+	<VoteOption>1,2,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>239</ID>
+
+	<VoteID>25</VoteID>
+
+	<UserID>20</UserID>
+
+	<VoteDate>1/22/05, 1:30:27 PM</VoteDate>
+
+	<VoteOption>3,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>240</ID>
+
+	<VoteID>26</VoteID>
+
+	<UserID>127</UserID>
+
+	<VoteDate>1/22/05, 7:59:09 PM</VoteDate>
+
+	<VoteOption>6</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>241</ID>
+
+	<VoteID>26</VoteID>
+
+	<UserID>35</UserID>
+
+	<VoteDate>1/22/05, 8:03:22 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>242</ID>
+
+	<VoteID>24</VoteID>
+
+	<UserID>35</UserID>
+
+	<VoteDate>1/22/05, 8:04:02 PM</VoteDate>
+
+	<VoteOption>1,7,10,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>243</ID>
+
+	<VoteID>27</VoteID>
+
+	<UserID>154</UserID>
+
+	<VoteDate>1/23/05, 11:35:12 AM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>244</ID>
+
+	<VoteID>26</VoteID>
+
+	<UserID>20</UserID>
+
+	<VoteDate>1/23/05, 12:41:11 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>245</ID>
+
+	<VoteID>26</VoteID>
+
+	<UserID>154</UserID>
+
+	<VoteDate>1/28/05, 5:32:38 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>246</ID>
+
+	<VoteID>26</VoteID>
+
+	<UserID>5</UserID>
+
+	<VoteDate>1/28/05, 7:37:04 PM</VoteDate>
+
+	<VoteOption>6</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>257</ID>
+
+	<VoteID>26</VoteID>
+
+	<UserID>134</UserID>
+
+	<VoteDate>1/30/05, 8:40:11 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>258</ID>
+
+	<VoteID>18</VoteID>
+
+	<UserID>9</UserID>
+
+	<VoteDate>1/30/05, 9:59:26 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>259</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>9</UserID>
+
+	<VoteDate>1/30/05, 10:38:54 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>260</ID>
+
+	<VoteID>28</VoteID>
+
+	<UserID>111</UserID>
+
+	<VoteDate>1/31/05, 1:58:28 PM</VoteDate>
+
+	<VoteOption>0,4,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>261</ID>
+
+	<VoteID>27</VoteID>
+
+	<UserID>207</UserID>
+
+	<VoteDate>1/31/05, 5:18:29 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>247</ID>
+
+	<VoteID>28</VoteID>
+
+	<UserID>1</UserID>
+
+	<VoteDate>1/29/05, 2:10:27 PM</VoteDate>
+
+	<VoteOption>0,1,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>248</ID>
+
+	<VoteID>28</VoteID>
+
+	<UserID>154</UserID>
+
+	<VoteDate>1/29/05, 3:28:46 PM</VoteDate>
+
+	<VoteOption>6,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>249</ID>
+
+	<VoteID>26</VoteID>
+
+	<UserID>16</UserID>
+
+	<VoteDate>1/29/05, 4:11:51 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>250</ID>
+
+	<VoteID>26</VoteID>
+
+	<UserID>206</UserID>
+
+	<VoteDate>1/29/05, 7:35:38 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>251</ID>
+
+	<VoteID>28</VoteID>
+
+	<UserID>8</UserID>
+
+	<VoteDate>1/29/05, 10:48:48 PM</VoteDate>
+
+	<VoteOption>0,4,6,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>252</ID>
+
+	<VoteID>4</VoteID>
+
+	<UserID>204</UserID>
+
+	<VoteDate>1/30/05, 12:01:27 AM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>253</ID>
+
+	<VoteID>28</VoteID>
+
+	<UserID>204</UserID>
+
+	<VoteDate>1/30/05, 2:07:06 PM</VoteDate>
+
+	<VoteOption>6,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>254</ID>
+
+	<VoteID>5</VoteID>
+
+	<UserID>204</UserID>
+
+	<VoteDate>1/30/05, 2:08:44 PM</VoteDate>
+
+	<VoteOption>8</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>256</ID>
+
+	<VoteID>28</VoteID>
+
+	<UserID>16</UserID>
+
+	<VoteDate>1/30/05, 5:55:06 PM</VoteDate>
+
+	<VoteOption>4,6,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>262</ID>
+
+	<VoteID>3</VoteID>
+
+	<UserID>111</UserID>
+
+	<VoteDate>2/2/05, 10:15:31 AM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>263</ID>
+
+	<VoteID>18</VoteID>
+
+	<UserID>203</UserID>
+
+	<VoteDate>2/2/05, 11:13:43 AM</VoteDate>
+
+	<VoteOption>3,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>264</ID>
+
+	<VoteID>23</VoteID>
+
+	<UserID>127</UserID>
+
+	<VoteDate>2/2/05, 5:24:41 PM</VoteDate>
+
+	<VoteOption>4</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>265</ID>
+
+	<VoteID>28</VoteID>
+
+	<UserID>213</UserID>
+
+	<VoteDate>2/3/05, 9:57:33 AM</VoteDate>
+
+	<VoteOption>6,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>266</ID>
+
+	<VoteID>28</VoteID>
+
+	<UserID>18</UserID>
+
+	<VoteDate>2/3/05, 12:28:27 PM</VoteDate>
+
+	<VoteOption>1,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>267</ID>
+
+	<VoteID>29</VoteID>
+
+	<UserID>214</UserID>
+
+	<VoteDate>2/3/05, 2:01:49 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>268</ID>
+
+	<VoteID>29</VoteID>
+
+	<UserID>18</UserID>
+
+	<VoteDate>2/3/05, 2:57:40 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>269</ID>
+
+	<VoteID>23</VoteID>
+
+	<UserID>44</UserID>
+
+	<VoteDate>2/3/05, 5:21:39 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>270</ID>
+
+	<VoteID>25</VoteID>
+
+	<UserID>185</UserID>
+
+	<VoteDate>2/4/05, 4:16:22 PM</VoteDate>
+
+	<VoteOption>3,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>271</ID>
+
+	<VoteID>9</VoteID>
+
+	<UserID>11</UserID>
+
+	<VoteDate>2/5/05, 9:58:52 PM</VoteDate>
+
+	<VoteOption>1,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>272</ID>
+
+	<VoteID>25</VoteID>
+
+	<UserID>111</UserID>
+
+	<VoteDate>2/6/05, 8:08:55 PM</VoteDate>
+
+	<VoteOption>3,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>273</ID>
+
+	<VoteID>26</VoteID>
+
+	<UserID>111</UserID>
+
+	<VoteDate>2/6/05, 10:59:45 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>274</ID>
+
+	<VoteID>15</VoteID>
+
+	<UserID>111</UserID>
+
+	<VoteDate>2/6/05, 11:12:49 PM</VoteDate>
+
+	<VoteOption>9</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>275</ID>
+
+	<VoteID>27</VoteID>
+
+	<UserID>11</UserID>
+
+	<VoteDate>2/7/05, 5:53:52 PM</VoteDate>
+
+	<VoteOption>2,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>276</ID>
+
+	<VoteID>27</VoteID>
+
+	<UserID>204</UserID>
+
+	<VoteDate>2/8/05, 1:01:32 AM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>277</ID>
+
+	<VoteID>24</VoteID>
+
+	<UserID>111</UserID>
+
+	<VoteDate>2/8/05, 5:39:54 PM</VoteDate>
+
+	<VoteOption>0,1,4,10,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>278</ID>
+
+	<VoteID>22</VoteID>
+
+	<UserID>111</UserID>
+
+	<VoteDate>2/8/05, 5:50:05 PM</VoteDate>
+
+	<VoteOption>8,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>279</ID>
+
+	<VoteID>20</VoteID>
+
+	<UserID>111</UserID>
+
+	<VoteDate>2/8/05, 5:55:43 PM</VoteDate>
+
+	<VoteOption>6,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>280</ID>
+
+	<VoteID>22</VoteID>
+
+	<UserID>204</UserID>
+
+	<VoteDate>2/8/05, 6:01:04 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>281</ID>
+
+	<VoteID>22</VoteID>
+
+	<UserID>136</UserID>
+
+	<VoteDate>2/9/05, 12:30:29 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>282</ID>
+
+	<VoteID>24</VoteID>
+
+	<UserID>204</UserID>
+
+	<VoteDate>2/9/05, 8:47:46 PM</VoteDate>
+
+	<VoteOption>7,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>283</ID>
+
+	<VoteID>25</VoteID>
+
+	<UserID>14</UserID>
+
+	<VoteDate>2/9/05, 9:33:05 PM</VoteDate>
+
+	<VoteOption>3,4,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>284</ID>
+
+	<VoteID>20</VoteID>
+
+	<UserID>127</UserID>
+
+	<VoteDate>2/10/05, 9:14:03 PM</VoteDate>
+
+	<VoteOption>0,2,3,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>285</ID>
+
+	<VoteID>22</VoteID>
+
+	<UserID>11</UserID>
+
+	<VoteDate>2/11/05, 12:46:06 PM</VoteDate>
+
+	<VoteOption>5,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>286</ID>
+
+	<VoteID>22</VoteID>
+
+	<UserID>18</UserID>
+
+	<VoteDate>2/11/05, 6:09:41 PM</VoteDate>
+
+	<VoteOption>6,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>287</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>223</UserID>
+
+	<VoteDate>2/11/05, 7:58:12 PM</VoteDate>
+
+	<VoteOption>4</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>288</ID>
+
+	<VoteID>22</VoteID>
+
+	<UserID>50</UserID>
+
+	<VoteDate>2/11/05, 9:03:56 PM</VoteDate>
+
+	<VoteOption>0,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>289</ID>
+
+	<VoteID>20</VoteID>
+
+	<UserID>50</UserID>
+
+	<VoteDate>2/11/05, 9:19:34 PM</VoteDate>
+
+	<VoteOption>6,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>290</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>111</UserID>
+
+	<VoteDate>2/12/05, 1:11:36 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>291</ID>
+
+	<VoteID>11</VoteID>
+
+	<UserID>127</UserID>
+
+	<VoteDate>2/14/05, 2:44:52 PM</VoteDate>
+
+	<VoteOption>9</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>292</ID>
+
+	<VoteID>30</VoteID>
+
+	<UserID>127</UserID>
+
+	<VoteDate>2/19/05, 6:45:23 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>293</ID>
+
+	<VoteID>31</VoteID>
+
+	<UserID>111</UserID>
+
+	<VoteDate>2/19/05, 7:55:50 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>294</ID>
+
+	<VoteID>30</VoteID>
+
+	<UserID>111</UserID>
+
+	<VoteDate>2/19/05, 7:59:47 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>295</ID>
+
+	<VoteID>30</VoteID>
+
+	<UserID>114</UserID>
+
+	<VoteDate>2/19/05, 8:30:38 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>296</ID>
+
+	<VoteID>31</VoteID>
+
+	<UserID>20</UserID>
+
+	<VoteDate>2/22/05, 3:32:05 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>297</ID>
+
+	<VoteID>30</VoteID>
+
+	<UserID>20</UserID>
+
+	<VoteDate>2/22/05, 3:33:48 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>298</ID>
+
+	<VoteID>31</VoteID>
+
+	<UserID>14</UserID>
+
+	<VoteDate>2/22/05, 3:37:19 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>299</ID>
+
+	<VoteID>32</VoteID>
+
+	<UserID>177</UserID>
+
+	<VoteDate>4/16/05, 6:45:39 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>300</ID>
+
+	<VoteID>32</VoteID>
+
+	<UserID>154</UserID>
+
+	<VoteDate>4/16/05, 10:16:19 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>301</ID>
+
+	<VoteID>32</VoteID>
+
+	<UserID>50</UserID>
+
+	<VoteDate>4/17/05, 11:50:54 AM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>302</ID>
+
+	<VoteID>32</VoteID>
+
+	<UserID>204</UserID>
+
+	<VoteDate>4/17/05, 12:27:18 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>303</ID>
+
+	<VoteID>32</VoteID>
+
+	<UserID>1</UserID>
+
+	<VoteDate>4/17/05, 1:34:16 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>304</ID>
+
+	<VoteID>32</VoteID>
+
+	<UserID>6</UserID>
+
+	<VoteDate>4/17/05, 3:00:06 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>305</ID>
+
+	<VoteID>32</VoteID>
+
+	<UserID>114</UserID>
+
+	<VoteDate>4/23/05, 8:17:51 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>306</ID>
+
+	<VoteID>33</VoteID>
+
+	<UserID>114</UserID>
+
+	<VoteDate>4/29/05, 1:26:39 PM</VoteDate>
+
+	<VoteOption>3</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>307</ID>
+
+	<VoteID>33</VoteID>
+
+	<UserID>20</UserID>
+
+	<VoteDate>4/30/05, 8:06:45 PM</VoteDate>
+
+	<VoteOption>4</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>308</ID>
+
+	<VoteID>9</VoteID>
+
+	<UserID>44</UserID>
+
+	<VoteDate>4/30/05, 10:04:40 PM</VoteDate>
+
+	<VoteOption>1,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>309</ID>
+
+	<VoteID>33</VoteID>
+
+	<UserID>11</UserID>
+
+	<VoteDate>5/1/05, 10:40:37 AM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>310</ID>
+
+	<VoteID>33</VoteID>
+
+	<UserID>154</UserID>
+
+	<VoteDate>5/1/05, 2:53:08 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>311</ID>
+
+	<VoteID>33</VoteID>
+
+	<UserID>16</UserID>
+
+	<VoteDate>5/1/05, 9:30:40 PM</VoteDate>
+
+	<VoteOption>5</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>312</ID>
+
+	<VoteID>33</VoteID>
+
+	<UserID>177</UserID>
+
+	<VoteDate>5/15/05, 1:38:28 PM</VoteDate>
+
+	<VoteOption>5</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>313</ID>
+
+	<VoteID>24</VoteID>
+
+	<UserID>134</UserID>
+
+	<VoteDate>6/23/05, 9:52:28 PM</VoteDate>
+
+	<VoteOption>6,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>314</ID>
+
+	<VoteID>24</VoteID>
+
+	<UserID>6</UserID>
+
+	<VoteDate>7/3/05, 5:00:36 PM</VoteDate>
+
+	<VoteOption>1,2,3,7,9,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>315</ID>
+
+	<VoteID>34</VoteID>
+
+	<UserID>6</UserID>
+
+	<VoteDate>7/10/05, 3:57:01 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>316</ID>
+
+	<VoteID>34</VoteID>
+
+	<UserID>154</UserID>
+
+	<VoteDate>7/10/05, 4:00:21 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>317</ID>
+
+	<VoteID>34</VoteID>
+
+	<UserID>20</UserID>
+
+	<VoteDate>7/12/05, 2:01:44 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>318</ID>
+
+	<VoteID>34</VoteID>
+
+	<UserID>19</UserID>
+
+	<VoteDate>7/13/05, 8:44:20 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>319</ID>
+
+	<VoteID>34</VoteID>
+
+	<UserID>127</UserID>
+
+	<VoteDate>7/13/05, 9:33:44 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>320</ID>
+
+	<VoteID>33</VoteID>
+
+	<UserID>19</UserID>
+
+	<VoteDate>7/15/05, 10:25:13 AM</VoteDate>
+
+	<VoteOption>4</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>321</ID>
+
+	<VoteID>34</VoteID>
+
+	<UserID>70</UserID>
+
+	<VoteDate>7/15/05, 4:18:55 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>322</ID>
+
+	<VoteID>35</VoteID>
+
+	<UserID>1</UserID>
+
+	<VoteDate>7/15/05, 7:35:03 PM</VoteDate>
+
+	<VoteOption>4</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>323</ID>
+
+	<VoteID>36</VoteID>
+
+	<UserID>6</UserID>
+
+	<VoteDate>7/25/05, 3:43:33 PM</VoteDate>
+
+	<VoteOption>10</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>324</ID>
+
+	<VoteID>36</VoteID>
+
+	<UserID>16</UserID>
+
+	<VoteDate>7/25/05, 8:02:32 PM</VoteDate>
+
+	<VoteOption>17</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>325</ID>
+
+	<VoteID>35</VoteID>
+
+	<UserID>50</UserID>
+
+	<VoteDate>7/28/05, 12:25:46 PM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>326</ID>
+
+	<VoteID>35</VoteID>
+
+	<UserID>20</UserID>
+
+	<VoteDate>7/28/05, 12:46:20 PM</VoteDate>
+
+	<VoteOption>2</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>327</ID>
+
+	<VoteID>36</VoteID>
+
+	<UserID>70</UserID>
+
+	<VoteDate>8/9/05, 11:06:55 AM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>328</ID>
+
+	<VoteID>35</VoteID>
+
+	<UserID>70</UserID>
+
+	<VoteDate>8/13/05, 10:45:28 AM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>329</ID>
+
+	<VoteID>9</VoteID>
+
+	<UserID>9</UserID>
+
+	<VoteDate>8/18/05, 8:30:26 PM</VoteDate>
+
+	<VoteOption>1,</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>330</ID>
+
+	<VoteID>37</VoteID>
+
+	<UserID>50</UserID>
+
+	<VoteDate>8/28/05, 10:43:10 AM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>331</ID>
+
+	<VoteID>37</VoteID>
+
+	<UserID>6</UserID>
+
+	<VoteDate>8/28/05, 8:15:37 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>332</ID>
+
+	<VoteID>37</VoteID>
+
+	<UserID>127</UserID>
+
+	<VoteDate>8/29/05, 7:06:52 PM</VoteDate>
+
+	<VoteOption>0</VoteOption>
+
+</RECORD>
+<RECORD>
+	<ID>333</ID>
+
+	<VoteID>37</VoteID>
+
+	<UserID>204</UserID>
+
+	<VoteDate>8/30/05, 1:40:52 AM</VoteDate>
+
+	<VoteOption>1</VoteOption>
+
+</RECORD>
+</RECORDS>

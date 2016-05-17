@@ -1,0 +1,995 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<H_ID>1</H_ID>
+
+	<H_ParentID>0</H_ParentID>
+
+	<H_title>常规设置</H_title>
+
+	<H_content>常规管理@@&lt;a href=setting.asp target=main&gt;基本设置&lt;/a&gt; | &lt;a href=forumads.asp target=main&gt;广告管理&lt;/a&gt;@@&lt;a href=log.asp target=main&gt;论坛日志&lt;/a&gt; | &lt;a href=help.asp target=main&gt;帮助管理&lt;/a&gt;@@&lt;a href=wealth.asp target=main&gt;积分设置&lt;/a&gt; | &lt;a href=message.asp target=main&gt;短信管理&lt;/a&gt;@@&lt;a href=../announcements.asp?boardid=0&amp;action=AddAnn target=_blank&gt;公告管理&lt;/a&gt; | &lt;a href=menpai.asp target=main&gt;门派管理&lt;/a&gt;@@&lt;a href=&quot;ForumPay.asp&quot; target=main&gt;论坛交易信息管理&lt;/a&gt;@@&lt;a href=&quot;ForumNewsSetting.asp&quot; target=main&gt;首页调用管理&lt;/a&gt;
+||论坛管理@@&lt;a href=board.asp?action=add target=main&gt;版面(分类)添加&lt;/a&gt; | &lt;a href=board.asp target=main&gt;管理&lt;/a&gt;@@&lt;a href=board.asp?action=permission target=main&gt;分版面用户权限设置&lt;/a&gt;@@&lt;a href=boardunite.asp target=main&gt;合并版面数据&lt;/a&gt;@@&lt;a href=update.asp target=main&gt;重计论坛数据和修复&lt;/a&gt;@@&lt;a href=link.asp?action=add target=main&gt;友情论坛添加&lt;/a&gt; | &lt;a href=link.asp target=main&gt;管理&lt;/a&gt;||用户管理@@&lt;a href=user.asp target=main&gt;用户资料(权限)管理&lt;/a&gt;@@&lt;a href=group.asp target=main&gt;论坛用户组(等级)管理&lt;/a&gt;@@&lt;a href=admin.asp?action=add target=main&gt;管理员添加&lt;/a&gt; | &lt;a href=admin.asp target=main&gt;管理&lt;/a&gt;@@&lt;a href=update.asp?action=updateuser target=main&gt;重计用户各项数据&lt;/a&gt;@@&lt;a href=SendEmail.asp target=main&gt;用户邮件群发管理&lt;/a&gt;||外观设置@@&lt;a href=template.asp target=main&gt;风格界面模板总管理&lt;/a&gt;@@&lt;a href=loadskin.asp target=main&gt;模板导出&lt;/a&gt; | &lt;a href=loadskin.asp?action=load target=main&gt;导入&lt;/a&gt;||论坛帖子管理@@&lt;a href=alldel.asp target=main&gt;批量删除&lt;/a&gt; | &lt;a href=alldel.asp?action=moveinfo target=main&gt;批量移动&lt;/a&gt;@@&lt;a href=../recycle.asp target=_blank&gt;回收站管理&lt;/a&gt;@@&lt;a href=postdata.asp?action=Nowused target=main&gt;当前帖子数据表管理&lt;/a&gt;@@&lt;a href=postdata.asp target=main&gt;数据表间帖子转换&lt;/a&gt;||替换/限制处理@@&lt;a href=badword.asp?reaction=badword target=main&gt;脏话过滤设置&lt;/a&gt;@@&lt;a href=badword.asp?reaction=splitreg target=main&gt;注册过滤字符&lt;/a&gt;@@&lt;a href=lockip.asp?action=add target=main&gt;IP来访限定添加&lt;/a&gt; | &lt;a href=lockip.asp target=main&gt;管理&lt;/a&gt;@@&lt;a href=address.asp?action=add target=main&gt;论坛IP库添加&lt;/a&gt; | &lt;a href=address.asp target=main&gt;管理&lt;/a&gt;||数据处理(Access)@@&lt;a href=data.asp?action=CompressData target=main&gt;压缩数据库&lt;/a&gt;@@&lt;a href=data.asp?action=BackupData target=main&gt;备份数据库&lt;/a&gt;@@&lt;a href=data.asp?action=RestoreData target=main&gt;恢复数据库&lt;/a&gt;@@&lt;a href=data.asp?action=SpaceSize target=main&gt;系统信息检测&lt;/a&gt;||文件管理@@&lt;a href=upUserface.asp target=main&gt;上传头像管理&lt;/a&gt;@@&lt;a href=uploadlist.asp target=main&gt;上传文件管理&lt;/a&gt;@@&lt;a href=&quot;bbsface.asp?Stype=3&quot; target=&quot;main&quot;&gt;注册头像管理&lt;/a&gt;@@&lt;a href=&quot;bbsface.asp?Stype=2&quot; target=&quot;main&quot;&gt;发贴心情管理&lt;/a&gt;@@&lt;a href=&quot;bbsface.asp?Stype=1&quot; target=&quot;main&quot;&gt;发贴表情管理&lt;/a&gt;||菜单管理@@&lt;a href=plus.asp target=main&gt;论坛菜单管理&lt;/a&gt;||道具中心管理@@&lt;a href=&quot;plus_Tools_Info.asp?action=Setting&quot; target=main&gt;道具中心设置&lt;/a&gt;@@&lt;a href=&quot;plus_Tools_Info.asp?action=List&quot; target=main&gt;道具资料设置&lt;/a&gt;@@&lt;a href=&quot;plus_Tools_User.asp&quot; target=main&gt;用户道具管理&lt;/a&gt;@@&lt;a href=&quot;plus_Tools_User.asp?action=paylist&quot; target=main&gt;交易信息管理&lt;/a&gt;@@&lt;a href=&quot;MoneyLog.asp&quot; target=main&gt;道具中心日志&lt;/a&gt;@@&lt;a href=&quot;plus_Tools_Magicface.asp&quot; target=main&gt;魔法表情设置&lt;/a&gt;|||&lt;!--论坛管理后台CSS样式表--&gt; 
+&lt;style type=text/css&gt;
+body {
+	background:#CAD7F7; font-size: 12px; margin-top:0px;
+	SCROLLBAR-FACE-COLOR: #799AE1; SCROLLBAR-HIGHLIGHT-COLOR: #799AE1; 
+	SCROLLBAR-SHADOW-COLOR: #799AE1; SCROLLBAR-DARKSHADOW-COLOR: #799AE1; 
+	SCROLLBAR-3DLIGHT-COLOR: #799AE1; SCROLLBAR-ARROW-COLOR: #FFFFFF;
+	SCROLLBAR-TRACK-COLOR: #AABFEC;
+}
+TD {
+	FONT-SIZE: 12px
+}
+INPUT {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 12px; BORDER-BOTTOM-WIDTH: 1px; BORDER-RIGHT-WIDTH: 1px
+}
+TEXTAREA {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 12px; BORDER-BOTTOM-WIDTH: 1px; BORDER-RIGHT-WIDTH: 1px
+}
+SELECT {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 12px; BORDER-BOTTOM-WIDTH: 1px; BORDER-RIGHT-WIDTH: 1px
+}
+SPAN {
+	FONT-SIZE: 12px; POSITION: static
+}
+A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover { color:#428EFF;text-decoration:underline; }
+A.highlight {
+	COLOR: red; TEXT-DECORATION: none
+}
+A.highlight:hover {
+	COLOR: red
+}
+A.thisclass {
+	FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.thisclass:hover {
+	FONT-WEIGHT: bold
+}
+A.navlink {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.navlink:hover {
+	COLOR: #003399; TEXT-DECORATION: none
+}
+.twidth {
+	WIDTH: 760px
+}
+.content {
+	FONT-SIZE: 14px; MARGIN: 5px 20px; LINE-HEIGHT: 140%; FONT-FAMILY: Tahoma,宋体
+}
+.aTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px
+}
+TD.forumHeaderBackgroundAlternate {
+	BACKGROUND-IMAGE: url({$path}admin_top_bg.gif); COLOR: #000000; BACKGROUND-COLOR: #799ae1
+}
+#TableTitleLink A:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+#TableTitleLink A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+#TableTitleLink A:active {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+#TableTitleLink A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+TD.forumRow {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; BACKGROUND: #F1F3F5; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+TH {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url({$path}admin_bg_1.gif); COLOR: white; BACKGROUND-COLOR: #4455aa
+}
+TD.bodytitle {
+	BACKGROUND-IMAGE: url({$path}admin_bg_2.gif)
+}
+TD.bodytitle1 {
+	BACKGROUND-IMAGE: url({$path}admin_bg_3.gif)
+}
+TD.tablebody1 {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; BACKGROUND: #bebbdb; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+TD.forumRowHighlight {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; BACKGROUND: #E4EDF9; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+.tableBorder {
+	BORDER-RIGHT: #183789 1px solid; BORDER-TOP: #183789 1px solid; BORDER-LEFT: #183789 1px solid; WIDTH: 98%; BORDER-BOTTOM: #183789 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.tableBorder1 {WIDTH: 98%; }
+.helplink {
+	FONT: 10px verdana,arial,helvetica,sans-serif; CURSOR: help; TEXT-DECORATION: none
+}
+.copyright {
+	PADDING-RIGHT: 1px; BORDER-TOP: #6595d6 1px dashed; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; FONT: 11px verdana,arial,helvetica,sans-serif; COLOR: #4455aa; PADDING-TOP: 1px; TEXT-DECORATION: none
+}
+.menuskin {
+	BORDER: #666666 1px solid; VISIBILITY: hidden; FONT: 12px Verdana;
+	POSITION: absolute; 
+	BACKGROUND-COLOR:#EFEFEF;
+	background-image:url(&quot;../skins/default/dvmenubg3.gif&quot;);
+	background-repeat : repeat-y;
+	}
+.menuskin A {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 25px; COLOR: black; TEXT-DECORATION: none; behavior:url(inc/noline.htc);
+	}
+#mouseoverstyle {
+	BACKGROUND-COLOR: #C9D5E7; margin:2px; padding:0px; border:#597DB5 1px solid;
+	}
+#mouseoverstyle A {
+	COLOR: black
+}
+.menuitems{
+	margin:2px;padding:1px;word-break:keep-all;
+}
+&lt;/style&gt;|||@@@|||@@@|||</H_content>
+
+	<H_type>1</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg>skin/default/admin_left_1.gif</H_bgimg>
+
+	<H_Addtime>8/17/03, 3:18:26 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>2</H_ID>
+
+	<H_ParentID>0</H_ParentID>
+
+	<H_title>用户须知</H_title>
+
+	<H_content></H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/8/03, 11:17:01 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>3</H_ID>
+
+	<H_ParentID>2</H_ParentID>
+
+	<H_title>必须注册了才能用论坛吗？</H_title>
+
+	<H_content>　　这取决于管理员如何设置论坛的用户组权限选项，您甚至有可能必须在注册成正式用户后后才能浏览帖子。当然，在通常情况下，您至少应该是正式用户才能发新帖和回复已有帖子。请 &lt;a href=reg.asp&gt;点击这里&lt;/a&gt; 免费注册成为我们的新用户！&lt;br&gt;&lt;br&gt;　　强烈建议您注册，这样会得到很多以游客身份无法实现的功能。 </H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/8/03, 11:23:16 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>4</H_ID>
+
+	<H_ParentID>2</H_ParentID>
+
+	<H_title>Dvbbs 论坛使用 Cookies 吗？</H_title>
+
+	<H_content>　　Dvbbs 采用 Session+Cookie 的双重方式保存用户信息，以确保在各种环境，包括 Cookie 完全无法使用的情况下您都能正常使用论坛各项功能。但 Cookies 的使用仍然可以为您带来一系列的方便和好处，因此我们强烈建议您在正常情况下不要禁止 Cookie 的应用，Dvbbs 的安全设计将全力保证您的资料安全。&lt;br&gt;&lt;br&gt;　　在登录页面中，您可以选择 Cookie 记录时间，在该时间范围内您打开浏览器访问论坛将始终保持您上一次访问时的登录状态，而不必每次都输入密码。但出于安全考虑，如果您在公共计算机访问论坛，建议选择“浏览器进程”(默认)，或在离开公共计算机前选择“退出”(&lt;a href=logout.asp&gt;点击这里&lt;/a&gt; 退出论坛)以杜绝资料被非法使用的可能。 </H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/8/03, 11:48:27 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>5</H_ID>
+
+	<H_ParentID>2</H_ParentID>
+
+	<H_title>如何使用签名？</H_title>
+
+	<H_content>　　签名是加在您发表的帖子下面的小段文字，注册之后，您就可以设置自己的个性签名了。&lt;br&gt;&lt;br&gt;　　&lt;a href=usermanager.asp &gt;点击这里&lt;/a&gt; 进入控制面板，在签名框中输入签名文字，并确定不要超过管理员设置的相关限制(如字数、贴图等)，这样系统会自动选中您登录后发帖页面的显示签名选项，您的的签名将在帖子中自动被显示。 </H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/8/03, 11:59:49 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>6</H_ID>
+
+	<H_ParentID>2</H_ParentID>
+
+	<H_title>我遗忘了密码，该怎么办？</H_title>
+
+	<H_content>　　Dvbbs 提供发送取回密码链接到 Email 的服务，点击登录页面中的 取回密码 功能，可以为您把取回密码的方法发送到注册时填写的 Email 信箱中。如果您的 Email 已失效或无法收到信件，请与论坛管理员联系。 </H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/9/03, 12:11:51 AM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>7</H_ID>
+
+	<H_ParentID>0</H_ParentID>
+
+	<H_title>论坛使用 </H_title>
+
+	<H_content></H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/9/03, 12:13:22 AM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>8</H_ID>
+
+	<H_ParentID>2</H_ParentID>
+
+	<H_title>什么是“短消息”？</H_title>
+
+	<H_content>　　“短消息”是论坛注册用户间交流的工具，信息只有发件和收件人可以看到，收到信息后系统会出现铃声和相应提示，您可以通过短消息功能与同一论坛上的其他用户保持私人联系。收件箱 或 用户控制面板 中提供了短消息的收发服务。 </H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/9/03, 12:22:42 AM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>9</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>在哪里可以登录论坛？</H_title>
+
+	<H_content>　　如果您尚未登录，点击左上角的“登录”，输入用户名和密码，确定即可。如果需要保持登录，请选择相应的 Cookie 时间，在此时间范围内您可以不必输入密码而保持上次的登录状态。你还可以选择是否隐身登陆，隐身的话别人将看不到你。</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 5:07:13 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>10</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>在哪里可以安全退出论坛？</H_title>
+
+	<H_content>　　如果您已经登录，点击菜单栏右边的“退出”，系统会清除 Cookie，退出登录状态。</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 5:17:19 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>11</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>我要搜索东西，应该怎么做？</H_title>
+
+	<H_content>　　点击上面菜单里的 搜索，输入搜索的关键字并选择一个范围，就可以检索到您有权限访问论坛中的相关的帖子。</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 5:19:49 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>12</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>怎样给他人发送“短消息”？</H_title>
+
+	<H_content>　　如果您已登录，菜单上会显示出 用户控制面板 项，点击“发信息”后弹出短消息窗口，通过类似发送邮件一样的填写,注意收件人必须是对方在论坛的帐号哦。点“发送”，消息就被发到对方收件箱中了。当对方访问论坛的主要页面时，系统都会提示对方收信息。  &lt;br&gt;</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 5:21:50 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>13</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>怎样看到全部的会员？</H_title>
+
+	<H_content>　　当管理员设置可用此项功能时，您可以通过点击 &lt;a href=./toplist.asp?orders=7 target=_blank&gt;用户列表&lt;/a&gt; 查看所有的会员及其资料。  &lt;br&gt;</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 5:26:38 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>14</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>如何发布新帖子？</H_title>
+
+	<H_content>　　在论坛的各个版块中，点“发新贴（发布话题）”即可进入功能齐全的发帖界面。当然您也可以使用板块下面的“发表”发表新帖(如果此选项打开)。注意，一般论坛都设置为需要登录后才能发帖。 </H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 5:35:07 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>15</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>如何回复帖子？</H_title>
+
+	<H_content>　　在浏览帖子时，点“回复帖子”即可进入功能齐全的回复界面。当然您也可以使用浏览帖子时下面的“快速回复”发表回复(如果此选项打开)。注意，一般论坛都设置为需要登录后才能回复。 </H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 5:35:59 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>16</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>如何编辑或删除帖子？  </H_title>
+
+	<H_content>　　浏览帖子时可以按下面的“编辑”，对于您自己发表的帖子，可以很容易的编辑。如果你是版主，你可以编辑或删除他人的帖子，但当这贴是整个主题的主贴时，则会删除该主题和全部回复。怎样编辑自己发表的帖子？如果管理员通过论坛设置将这个功能屏蔽掉则不再可以进行此操作。</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 6:14:51 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>17</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>可不可以上传附件？</H_title>
+
+	<H_content>　　可以的。您可以在任何支持上传附件的板块中，通过发新贴、或者回复的方式上传附件（只要您的权限足够）。附件不能超过系统限定尺寸，且在可用类型的范围内才能上传。 &lt;br&gt;</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 6:17:21 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>18</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>该怎样发起一个投票？  </H_title>
+
+	<H_content>　　您可以像发帖一样在板块中发起投票。每行输入一个可能的选项，您可以通过阅读这个投票贴选出自己的答案，每人只能投票一次，发起之后将不能再对您的选择做出更改。&lt;br&gt;&lt;br&gt;　　管理员拥有随时关闭和修改投票选项的权力。</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 6:20:18 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>19</H_ID>
+
+	<H_ParentID>0</H_ParentID>
+
+	<H_title>其他问题</H_title>
+
+	<H_content></H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 6:22:26 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>20</H_ID>
+
+	<H_ParentID>19</H_ParentID>
+
+	<H_title>普通用户如何成为版主？</H_title>
+
+	<H_content>　　论坛的版主是自愿申请的，管理员可能会要求版主需要达到一定积分，或在论坛注册超过一定时间等。版主应该是诚实守信、乐于助人、大公无私的表率，同时还要熟悉版块的内容，经验丰富，有良好的口碑。如果你确认已经达到上面几点，并希望担任本站的版主，可以与管理员联系。  &lt;br&gt;</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 6:25:05 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>21</H_ID>
+
+	<H_ParentID>2</H_ParentID>
+
+	<H_title>如何在论坛具有更多的权限？  </H_title>
+
+	<H_content>　　本站所使用的 Dvbbs 论坛的程序，是按照系统头衔和用户积分区分的，积分可以参考您的发帖量，其他用户的评分，或两者综合来决定。当积分达到一定等级要求时，系统会自动为您开通新的权限，并给予相应标志。因此，拥有较高的积分数，不仅代表您在本论坛的资历与活跃程度，同时也意味着能够拥有比其他用户更多的高级权限。  &lt;br&gt;</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 6:29:13 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>1</H_ID>
+
+	<H_ParentID>0</H_ParentID>
+
+	<H_title>常规设置</H_title>
+
+	<H_content>常规管理@@&lt;a href=setting.asp target=main&gt;基本设置&lt;/a&gt; | &lt;a href=forumads.asp target=main&gt;广告管理&lt;/a&gt;@@&lt;a href=log.asp target=main&gt;论坛日志&lt;/a&gt; | &lt;a href=help.asp target=main&gt;帮助管理&lt;/a&gt;@@&lt;a href=wealth.asp target=main&gt;积分设置&lt;/a&gt; | &lt;a href=message.asp target=main&gt;短信管理&lt;/a&gt;@@&lt;a href=../announcements.asp?boardid=0&amp;action=AddAnn target=_blank&gt;公告管理&lt;/a&gt; | &lt;a href=menpai.asp target=main&gt;门派管理&lt;/a&gt;@@&lt;a href=&quot;ForumPay.asp&quot; target=main&gt;论坛交易信息管理&lt;/a&gt;@@&lt;a href=&quot;ForumNewsSetting.asp&quot; target=main&gt;首页调用管理&lt;/a&gt;
+||论坛管理@@&lt;a href=board.asp?action=add target=main&gt;版面(分类)添加&lt;/a&gt; | &lt;a href=board.asp target=main&gt;管理&lt;/a&gt;@@&lt;a href=board.asp?action=permission target=main&gt;分版面用户权限设置&lt;/a&gt;@@&lt;a href=boardunite.asp target=main&gt;合并版面数据&lt;/a&gt;@@&lt;a href=update.asp target=main&gt;重计论坛数据和修复&lt;/a&gt;@@&lt;a href=link.asp?action=add target=main&gt;友情论坛添加&lt;/a&gt; | &lt;a href=link.asp target=main&gt;管理&lt;/a&gt;||用户管理@@&lt;a href=user.asp target=main&gt;用户资料(权限)管理&lt;/a&gt;@@&lt;a href=group.asp target=main&gt;论坛用户组(等级)管理&lt;/a&gt;@@&lt;a href=admin.asp?action=add target=main&gt;管理员添加&lt;/a&gt; | &lt;a href=admin.asp target=main&gt;管理&lt;/a&gt;@@&lt;a href=update.asp?action=updateuser target=main&gt;重计用户各项数据&lt;/a&gt;@@&lt;a href=SendEmail.asp target=main&gt;用户邮件群发管理&lt;/a&gt;||外观设置@@&lt;a href=template.asp target=main&gt;风格界面模板总管理&lt;/a&gt;@@&lt;a href=loadskin.asp target=main&gt;模板导出&lt;/a&gt; | &lt;a href=loadskin.asp?action=load target=main&gt;导入&lt;/a&gt;||论坛帖子管理@@&lt;a href=alldel.asp target=main&gt;批量删除&lt;/a&gt; | &lt;a href=alldel.asp?action=moveinfo target=main&gt;批量移动&lt;/a&gt;@@&lt;a href=../recycle.asp target=_blank&gt;回收站管理&lt;/a&gt;@@&lt;a href=postdata.asp?action=Nowused target=main&gt;当前帖子数据表管理&lt;/a&gt;@@&lt;a href=postdata.asp target=main&gt;数据表间帖子转换&lt;/a&gt;||替换/限制处理@@&lt;a href=badword.asp?reaction=badword target=main&gt;脏话过滤设置&lt;/a&gt;@@&lt;a href=badword.asp?reaction=splitreg target=main&gt;注册过滤字符&lt;/a&gt;@@&lt;a href=lockip.asp?action=add target=main&gt;IP来访限定添加&lt;/a&gt; | &lt;a href=lockip.asp target=main&gt;管理&lt;/a&gt;@@&lt;a href=address.asp?action=add target=main&gt;论坛IP库添加&lt;/a&gt; | &lt;a href=address.asp target=main&gt;管理&lt;/a&gt;||数据处理(Access)@@&lt;a href=data.asp?action=CompressData target=main&gt;压缩数据库&lt;/a&gt;@@&lt;a href=data.asp?action=BackupData target=main&gt;备份数据库&lt;/a&gt;@@&lt;a href=data.asp?action=RestoreData target=main&gt;恢复数据库&lt;/a&gt;@@&lt;a href=data.asp?action=SpaceSize target=main&gt;系统信息检测&lt;/a&gt;||文件管理@@&lt;a href=upUserface.asp target=main&gt;上传头像管理&lt;/a&gt;@@&lt;a href=uploadlist.asp target=main&gt;上传文件管理&lt;/a&gt;@@&lt;a href=&quot;bbsface.asp?Stype=3&quot; target=&quot;main&quot;&gt;注册头像管理&lt;/a&gt;@@&lt;a href=&quot;bbsface.asp?Stype=2&quot; target=&quot;main&quot;&gt;发贴心情管理&lt;/a&gt;@@&lt;a href=&quot;bbsface.asp?Stype=1&quot; target=&quot;main&quot;&gt;发贴表情管理&lt;/a&gt;||菜单管理@@&lt;a href=plus.asp target=main&gt;论坛菜单管理&lt;/a&gt;||道具中心管理@@&lt;a href=&quot;plus_Tools_Info.asp?action=Setting&quot; target=main&gt;道具中心设置&lt;/a&gt;@@&lt;a href=&quot;plus_Tools_Info.asp?action=List&quot; target=main&gt;道具资料设置&lt;/a&gt;@@&lt;a href=&quot;plus_Tools_User.asp&quot; target=main&gt;用户道具管理&lt;/a&gt;@@&lt;a href=&quot;plus_Tools_User.asp?action=paylist&quot; target=main&gt;交易信息管理&lt;/a&gt;@@&lt;a href=&quot;MoneyLog.asp&quot; target=main&gt;道具中心日志&lt;/a&gt;@@&lt;a href=&quot;plus_Tools_Magicface.asp&quot; target=main&gt;魔法表情设置&lt;/a&gt;|||&lt;!--论坛管理后台CSS样式表--&gt; 
+&lt;style type=text/css&gt;
+body {
+	background:#CAD7F7; font-size: 12px; margin-top:0px;
+	SCROLLBAR-FACE-COLOR: #799AE1; SCROLLBAR-HIGHLIGHT-COLOR: #799AE1; 
+	SCROLLBAR-SHADOW-COLOR: #799AE1; SCROLLBAR-DARKSHADOW-COLOR: #799AE1; 
+	SCROLLBAR-3DLIGHT-COLOR: #799AE1; SCROLLBAR-ARROW-COLOR: #FFFFFF;
+	SCROLLBAR-TRACK-COLOR: #AABFEC;
+}
+TD {
+	FONT-SIZE: 12px
+}
+INPUT {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 12px; BORDER-BOTTOM-WIDTH: 1px; BORDER-RIGHT-WIDTH: 1px
+}
+TEXTAREA {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 12px; BORDER-BOTTOM-WIDTH: 1px; BORDER-RIGHT-WIDTH: 1px
+}
+SELECT {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 12px; BORDER-BOTTOM-WIDTH: 1px; BORDER-RIGHT-WIDTH: 1px
+}
+SPAN {
+	FONT-SIZE: 12px; POSITION: static
+}
+A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover { color:#428EFF;text-decoration:underline; }
+A.highlight {
+	COLOR: red; TEXT-DECORATION: none
+}
+A.highlight:hover {
+	COLOR: red
+}
+A.thisclass {
+	FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.thisclass:hover {
+	FONT-WEIGHT: bold
+}
+A.navlink {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.navlink:hover {
+	COLOR: #003399; TEXT-DECORATION: none
+}
+.twidth {
+	WIDTH: 760px
+}
+.content {
+	FONT-SIZE: 14px; MARGIN: 5px 20px; LINE-HEIGHT: 140%; FONT-FAMILY: Tahoma,宋体
+}
+.aTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px
+}
+TD.forumHeaderBackgroundAlternate {
+	BACKGROUND-IMAGE: url({$path}admin_top_bg.gif); COLOR: #000000; BACKGROUND-COLOR: #799ae1
+}
+#TableTitleLink A:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+#TableTitleLink A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+#TableTitleLink A:active {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+#TableTitleLink A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+TD.forumRow {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; BACKGROUND: #F1F3F5; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+TH {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url({$path}admin_bg_1.gif); COLOR: white; BACKGROUND-COLOR: #4455aa
+}
+TD.bodytitle {
+	BACKGROUND-IMAGE: url({$path}admin_bg_2.gif)
+}
+TD.bodytitle1 {
+	BACKGROUND-IMAGE: url({$path}admin_bg_3.gif)
+}
+TD.tablebody1 {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; BACKGROUND: #bebbdb; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+TD.forumRowHighlight {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; BACKGROUND: #E4EDF9; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+.tableBorder {
+	BORDER-RIGHT: #183789 1px solid; BORDER-TOP: #183789 1px solid; BORDER-LEFT: #183789 1px solid; WIDTH: 98%; BORDER-BOTTOM: #183789 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.tableBorder1 {WIDTH: 98%; }
+.helplink {
+	FONT: 10px verdana,arial,helvetica,sans-serif; CURSOR: help; TEXT-DECORATION: none
+}
+.copyright {
+	PADDING-RIGHT: 1px; BORDER-TOP: #6595d6 1px dashed; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; FONT: 11px verdana,arial,helvetica,sans-serif; COLOR: #4455aa; PADDING-TOP: 1px; TEXT-DECORATION: none
+}
+.menuskin {
+	BORDER: #666666 1px solid; VISIBILITY: hidden; FONT: 12px Verdana;
+	POSITION: absolute; 
+	BACKGROUND-COLOR:#EFEFEF;
+	background-image:url(&quot;../skins/default/dvmenubg3.gif&quot;);
+	background-repeat : repeat-y;
+	}
+.menuskin A {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 25px; COLOR: black; TEXT-DECORATION: none; behavior:url(inc/noline.htc);
+	}
+#mouseoverstyle {
+	BACKGROUND-COLOR: #C9D5E7; margin:2px; padding:0px; border:#597DB5 1px solid;
+	}
+#mouseoverstyle A {
+	COLOR: black
+}
+.menuitems{
+	margin:2px;padding:1px;word-break:keep-all;
+}
+&lt;/style&gt;|||@@@|||@@@|||</H_content>
+
+	<H_type>1</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg>skin/default/admin_left_1.gif</H_bgimg>
+
+	<H_Addtime>8/17/03, 3:18:26 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>2</H_ID>
+
+	<H_ParentID>0</H_ParentID>
+
+	<H_title>用户须知</H_title>
+
+	<H_content></H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/8/03, 11:17:01 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>3</H_ID>
+
+	<H_ParentID>2</H_ParentID>
+
+	<H_title>必须注册了才能用论坛吗？</H_title>
+
+	<H_content>　　这取决于管理员如何设置论坛的用户组权限选项，您甚至有可能必须在注册成正式用户后后才能浏览帖子。当然，在通常情况下，您至少应该是正式用户才能发新帖和回复已有帖子。请 &lt;a href=reg.asp&gt;点击这里&lt;/a&gt; 免费注册成为我们的新用户！&lt;br&gt;&lt;br&gt;　　强烈建议您注册，这样会得到很多以游客身份无法实现的功能。 </H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/8/03, 11:23:16 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>4</H_ID>
+
+	<H_ParentID>2</H_ParentID>
+
+	<H_title>Dvbbs 论坛使用 Cookies 吗？</H_title>
+
+	<H_content>　　Dvbbs 采用 Session+Cookie 的双重方式保存用户信息，以确保在各种环境，包括 Cookie 完全无法使用的情况下您都能正常使用论坛各项功能。但 Cookies 的使用仍然可以为您带来一系列的方便和好处，因此我们强烈建议您在正常情况下不要禁止 Cookie 的应用，Dvbbs 的安全设计将全力保证您的资料安全。&lt;br&gt;&lt;br&gt;　　在登录页面中，您可以选择 Cookie 记录时间，在该时间范围内您打开浏览器访问论坛将始终保持您上一次访问时的登录状态，而不必每次都输入密码。但出于安全考虑，如果您在公共计算机访问论坛，建议选择“浏览器进程”(默认)，或在离开公共计算机前选择“退出”(&lt;a href=logout.asp&gt;点击这里&lt;/a&gt; 退出论坛)以杜绝资料被非法使用的可能。 </H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/8/03, 11:48:27 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>5</H_ID>
+
+	<H_ParentID>2</H_ParentID>
+
+	<H_title>如何使用签名？</H_title>
+
+	<H_content>　　签名是加在您发表的帖子下面的小段文字，注册之后，您就可以设置自己的个性签名了。&lt;br&gt;&lt;br&gt;　　&lt;a href=usermanager.asp &gt;点击这里&lt;/a&gt; 进入控制面板，在签名框中输入签名文字，并确定不要超过管理员设置的相关限制(如字数、贴图等)，这样系统会自动选中您登录后发帖页面的显示签名选项，您的的签名将在帖子中自动被显示。 </H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/8/03, 11:59:49 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>6</H_ID>
+
+	<H_ParentID>2</H_ParentID>
+
+	<H_title>我遗忘了密码，该怎么办？</H_title>
+
+	<H_content>　　Dvbbs 提供发送取回密码链接到 Email 的服务，点击登录页面中的 取回密码 功能，可以为您把取回密码的方法发送到注册时填写的 Email 信箱中。如果您的 Email 已失效或无法收到信件，请与论坛管理员联系。 </H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/9/03, 12:11:51 AM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>7</H_ID>
+
+	<H_ParentID>0</H_ParentID>
+
+	<H_title>论坛使用 </H_title>
+
+	<H_content></H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/9/03, 12:13:22 AM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>8</H_ID>
+
+	<H_ParentID>2</H_ParentID>
+
+	<H_title>什么是“短消息”？</H_title>
+
+	<H_content>　　“短消息”是论坛注册用户间交流的工具，信息只有发件和收件人可以看到，收到信息后系统会出现铃声和相应提示，您可以通过短消息功能与同一论坛上的其他用户保持私人联系。收件箱 或 用户控制面板 中提供了短消息的收发服务。 </H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/9/03, 12:22:42 AM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>9</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>在哪里可以登录论坛？</H_title>
+
+	<H_content>　　如果您尚未登录，点击左上角的“登录”，输入用户名和密码，确定即可。如果需要保持登录，请选择相应的 Cookie 时间，在此时间范围内您可以不必输入密码而保持上次的登录状态。你还可以选择是否隐身登陆，隐身的话别人将看不到你。</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 5:07:13 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>10</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>在哪里可以安全退出论坛？</H_title>
+
+	<H_content>　　如果您已经登录，点击菜单栏右边的“退出”，系统会清除 Cookie，退出登录状态。</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 5:17:19 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>11</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>我要搜索东西，应该怎么做？</H_title>
+
+	<H_content>　　点击上面菜单里的 搜索，输入搜索的关键字并选择一个范围，就可以检索到您有权限访问论坛中的相关的帖子。</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 5:19:49 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>12</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>怎样给他人发送“短消息”？</H_title>
+
+	<H_content>　　如果您已登录，菜单上会显示出 用户控制面板 项，点击“发信息”后弹出短消息窗口，通过类似发送邮件一样的填写,注意收件人必须是对方在论坛的帐号哦。点“发送”，消息就被发到对方收件箱中了。当对方访问论坛的主要页面时，系统都会提示对方收信息。  &lt;br&gt;</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 5:21:50 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>13</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>怎样看到全部的会员？</H_title>
+
+	<H_content>　　当管理员设置可用此项功能时，您可以通过点击 &lt;a href=./toplist.asp?orders=7 target=_blank&gt;用户列表&lt;/a&gt; 查看所有的会员及其资料。  &lt;br&gt;</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 5:26:38 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>14</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>如何发布新帖子？</H_title>
+
+	<H_content>　　在论坛的各个版块中，点“发新贴（发布话题）”即可进入功能齐全的发帖界面。当然您也可以使用板块下面的“发表”发表新帖(如果此选项打开)。注意，一般论坛都设置为需要登录后才能发帖。 </H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 5:35:07 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>15</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>如何回复帖子？</H_title>
+
+	<H_content>　　在浏览帖子时，点“回复帖子”即可进入功能齐全的回复界面。当然您也可以使用浏览帖子时下面的“快速回复”发表回复(如果此选项打开)。注意，一般论坛都设置为需要登录后才能回复。 </H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 5:35:59 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>16</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>如何编辑或删除帖子？  </H_title>
+
+	<H_content>　　浏览帖子时可以按下面的“编辑”，对于您自己发表的帖子，可以很容易的编辑。如果你是版主，你可以编辑或删除他人的帖子，但当这贴是整个主题的主贴时，则会删除该主题和全部回复。怎样编辑自己发表的帖子？如果管理员通过论坛设置将这个功能屏蔽掉则不再可以进行此操作。</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 6:14:51 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>17</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>可不可以上传附件？</H_title>
+
+	<H_content>　　可以的。您可以在任何支持上传附件的板块中，通过发新贴、或者回复的方式上传附件（只要您的权限足够）。附件不能超过系统限定尺寸，且在可用类型的范围内才能上传。 &lt;br&gt;</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 6:17:21 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>18</H_ID>
+
+	<H_ParentID>7</H_ParentID>
+
+	<H_title>该怎样发起一个投票？  </H_title>
+
+	<H_content>　　您可以像发帖一样在板块中发起投票。每行输入一个可能的选项，您可以通过阅读这个投票贴选出自己的答案，每人只能投票一次，发起之后将不能再对您的选择做出更改。&lt;br&gt;&lt;br&gt;　　管理员拥有随时关闭和修改投票选项的权力。</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 6:20:18 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>19</H_ID>
+
+	<H_ParentID>0</H_ParentID>
+
+	<H_title>其他问题</H_title>
+
+	<H_content></H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 6:22:26 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>20</H_ID>
+
+	<H_ParentID>19</H_ParentID>
+
+	<H_title>普通用户如何成为版主？</H_title>
+
+	<H_content>　　论坛的版主是自愿申请的，管理员可能会要求版主需要达到一定积分，或在论坛注册超过一定时间等。版主应该是诚实守信、乐于助人、大公无私的表率，同时还要熟悉版块的内容，经验丰富，有良好的口碑。如果你确认已经达到上面几点，并希望担任本站的版主，可以与管理员联系。  &lt;br&gt;</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>0</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 6:25:05 PM</H_Addtime>
+
+</RECORD>
+<RECORD>
+	<H_ID>21</H_ID>
+
+	<H_ParentID>2</H_ParentID>
+
+	<H_title>如何在论坛具有更多的权限？  </H_title>
+
+	<H_content>　　本站所使用的 Dvbbs 论坛的程序，是按照系统头衔和用户积分区分的，积分可以参考您的发帖量，其他用户的评分，或两者综合来决定。当积分达到一定等级要求时，系统会自动为您开通新的权限，并给予相应标志。因此，拥有较高的积分数，不仅代表您在本论坛的资历与活跃程度，同时也意味着能够拥有比其他用户更多的高级权限。  &lt;br&gt;</H_content>
+
+	<H_type>0</H_type>
+
+	<H_stype>1</H_stype>
+
+	<H_bgimg></H_bgimg>
+
+	<H_Addtime>12/11/03, 6:29:13 PM</H_Addtime>
+
+</RECORD>
+</RECORDS>

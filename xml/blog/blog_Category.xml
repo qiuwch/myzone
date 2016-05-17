@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<cate_ID>1</cate_ID>
+
+	<cate_Name>文摘</cate_Name>
+
+	<cate_Order>2</cate_Order>
+
+	<cate_Intro></cate_Intro>
+
+</RECORD>
+<RECORD>
+	<cate_ID>2</cate_ID>
+
+	<cate_Name>小说</cate_Name>
+
+	<cate_Order>3</cate_Order>
+
+	<cate_Intro></cate_Intro>
+
+</RECORD>
+<RECORD>
+	<cate_ID>3</cate_ID>
+
+	<cate_Name>休闲&amp;娱乐</cate_Name>
+
+	<cate_Order>4</cate_Order>
+
+	<cate_Intro></cate_Intro>
+
+</RECORD>
+<RECORD>
+	<cate_ID>4</cate_ID>
+
+	<cate_Name>学习</cate_Name>
+
+	<cate_Order>5</cate_Order>
+
+	<cate_Intro></cate_Intro>
+
+</RECORD>
+<RECORD>
+	<cate_ID>5</cate_ID>
+
+	<cate_Name>谈天&amp;说地</cate_Name>
+
+	<cate_Order>6</cate_Order>
+
+	<cate_Intro></cate_Intro>
+
+</RECORD>
+<RECORD>
+	<cate_ID>6</cate_ID>
+
+	<cate_Name>站务</cate_Name>
+
+	<cate_Order>1</cate_Order>
+
+	<cate_Intro></cate_Intro>
+
+</RECORD>
+</RECORDS>

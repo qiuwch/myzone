@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<O_ID>1</O_ID>
+
+	<O_type>1</O_type>
+
+	<O_mobile></O_mobile>
+
+	<O_Username>REAL</O_Username>
+
+	<O_isApply>0</O_isApply>
+
+	<O_issuc>0</O_issuc>
+
+	<O_PayMoney>2</O_PayMoney>
+
+	<O_Paycode>010000000022005052821173786169</O_Paycode>
+
+	<O_BoardID>0</O_BoardID>
+
+	<O_TopicID>0</O_TopicID>
+
+	<O_AddTime>5/28/05, 9:17:37 PM</O_AddTime>
+
+</RECORD>
+<RECORD>
+	<O_ID>1</O_ID>
+
+	<O_type>1</O_type>
+
+	<O_mobile></O_mobile>
+
+	<O_Username>REAL</O_Username>
+
+	<O_isApply>0</O_isApply>
+
+	<O_issuc>0</O_issuc>
+
+	<O_PayMoney>2</O_PayMoney>
+
+	<O_Paycode>010000000022005052821173786169</O_Paycode>
+
+	<O_BoardID>0</O_BoardID>
+
+	<O_TopicID>0</O_TopicID>
+
+	<O_AddTime>5/28/05, 9:17:37 PM</O_AddTime>
+
+</RECORD>
+</RECORDS>

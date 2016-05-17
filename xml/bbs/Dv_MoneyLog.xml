@@ -1,0 +1,1011 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<Log_ID>1</Log_ID>
+
+	<ToolsID>2</ToolsID>
+
+	<CountNum>10</CountNum>
+
+	<Log_Money>150</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>REAL</AddUserName>
+
+	<AddUserID>111</AddUserID>
+
+	<Log_IP>220.162.14.176</Log_IP>
+
+	<Log_Time>5/28/05, 10:03:17 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向系统购买道具：后悔药,数量：&lt;b&gt;10&lt;/b&gt;,花费金币：150，花费点券：0。</Conect>
+
+	<HMoney>88|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>2</Log_ID>
+
+	<ToolsID>2</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>1000</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>REAL</AddUserName>
+
+	<AddUserID>111</AddUserID>
+
+	<Log_IP>220.162.14.176</Log_IP>
+
+	<Log_Time>5/28/05, 10:06:56 PM</Log_Time>
+
+	<Log_Type>2</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>转让道具：后悔药,数量：&lt;b&gt;1&lt;/b&gt;。</Conect>
+
+	<HMoney>88|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>3</Log_ID>
+
+	<ToolsID>3</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>15</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>REAL</AddUserName>
+
+	<AddUserID>111</AddUserID>
+
+	<Log_IP>220.162.14.176</Log_IP>
+
+	<Log_Time>5/28/05, 10:13:23 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向系统购买道具：一级特赦令,数量：&lt;b&gt;1&lt;/b&gt;,花费金币：15，花费点券：0。</Conect>
+
+	<HMoney>73|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>4</Log_ID>
+
+	<ToolsID>2</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>199</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>REAL</AddUserName>
+
+	<AddUserID>111</AddUserID>
+
+	<Log_IP>220.162.14.176</Log_IP>
+
+	<Log_Time>5/28/05, 10:16:00 PM</Log_Time>
+
+	<Log_Type>2</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>转让道具：后悔药,数量：&lt;b&gt;1&lt;/b&gt;。</Conect>
+
+	<HMoney>73|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>5</Log_ID>
+
+	<ToolsID>2</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>199</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>火箭队1.0</AddUserName>
+
+	<AddUserID>256</AddUserID>
+
+	<Log_IP>220.162.14.176</Log_IP>
+
+	<Log_Time>5/28/05, 10:17:10 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向REAL购买道具：后悔药,数量：&lt;b&gt;1&lt;/b&gt;,花费金币：199，花费点券：0。</Conect>
+
+	<HMoney>0|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>6</Log_ID>
+
+	<ToolsID>2</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>199</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>REAL</AddUserName>
+
+	<AddUserID>111</AddUserID>
+
+	<Log_IP>220.162.14.176</Log_IP>
+
+	<Log_Time>5/28/05, 10:22:39 PM</Log_Time>
+
+	<Log_Type>2</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>转让道具：后悔药,数量：&lt;b&gt;1&lt;/b&gt;。</Conect>
+
+	<HMoney>73|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>7</Log_ID>
+
+	<ToolsID>2</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>199</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>火箭队2.0</AddUserName>
+
+	<AddUserID>257</AddUserID>
+
+	<Log_IP>220.162.14.176</Log_IP>
+
+	<Log_Time>5/28/05, 10:26:59 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向REAL购买道具：后悔药,数量：&lt;b&gt;1&lt;/b&gt;,花费金币：199，花费点券：0。</Conect>
+
+	<HMoney>0|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>8</Log_ID>
+
+	<ToolsID>9</ToolsID>
+
+	<CountNum>7</CountNum>
+
+	<Log_Money>175</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>火箭队3.0</AddUserName>
+
+	<AddUserID>258</AddUserID>
+
+	<Log_IP>220.162.14.176</Log_IP>
+
+	<Log_Time>5/28/05, 10:33:34 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向系统购买道具：追踪器,数量：&lt;b&gt;7&lt;/b&gt;,花费金币：175，花费点券：0。</Conect>
+
+	<HMoney>24|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>9</Log_ID>
+
+	<ToolsID>2</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>15</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>火箭队3.0</AddUserName>
+
+	<AddUserID>258</AddUserID>
+
+	<Log_IP>220.162.14.176</Log_IP>
+
+	<Log_Time>5/28/05, 10:34:34 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向系统购买道具：后悔药,数量：&lt;b&gt;1&lt;/b&gt;,花费金币：15，花费点券：0。</Conect>
+
+	<HMoney>9|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>10</Log_ID>
+
+	<ToolsID>2</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>1</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>火箭队3.0</AddUserName>
+
+	<AddUserID>258</AddUserID>
+
+	<Log_IP>220.162.14.176</Log_IP>
+
+	<Log_Time>5/28/05, 10:35:55 PM</Log_Time>
+
+	<Log_Type>2</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>转让道具：后悔药,数量：&lt;b&gt;1&lt;/b&gt;。</Conect>
+
+	<HMoney>9|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>11</Log_ID>
+
+	<ToolsID>9</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>1</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>火箭队3.0</AddUserName>
+
+	<AddUserID>258</AddUserID>
+
+	<Log_IP>220.162.14.176</Log_IP>
+
+	<Log_Time>5/28/05, 10:36:14 PM</Log_Time>
+
+	<Log_Type>2</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>转让道具：追踪器,数量：&lt;b&gt;1&lt;/b&gt;。</Conect>
+
+	<HMoney>9|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>12</Log_ID>
+
+	<ToolsID>9</ToolsID>
+
+	<CountNum>6</CountNum>
+
+	<Log_Money>1</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>火箭队3.0</AddUserName>
+
+	<AddUserID>258</AddUserID>
+
+	<Log_IP>220.162.14.176</Log_IP>
+
+	<Log_Time>5/28/05, 10:37:00 PM</Log_Time>
+
+	<Log_Type>2</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>转让道具：追踪器,数量：&lt;b&gt;6&lt;/b&gt;。</Conect>
+
+	<HMoney>9|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>13</Log_ID>
+
+	<ToolsID>9</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>1</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>REAL</AddUserName>
+
+	<AddUserID>111</AddUserID>
+
+	<Log_IP>220.162.14.176</Log_IP>
+
+	<Log_Time>5/28/05, 10:38:03 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向火箭队3.0购买道具：追踪器,数量：&lt;b&gt;1&lt;/b&gt;,花费金币：1，花费点券：0。</Conect>
+
+	<HMoney>72|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>14</Log_ID>
+
+	<ToolsID>2</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>1</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>REAL</AddUserName>
+
+	<AddUserID>111</AddUserID>
+
+	<Log_IP>220.162.14.176</Log_IP>
+
+	<Log_Time>5/28/05, 10:38:20 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向火箭队3.0购买道具：后悔药,数量：&lt;b&gt;1&lt;/b&gt;,花费金币：1，花费点券：0。</Conect>
+
+	<HMoney>71|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>15</Log_ID>
+
+	<ToolsID>9</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>1</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>REAL</AddUserName>
+
+	<AddUserID>111</AddUserID>
+
+	<Log_IP>220.162.14.176</Log_IP>
+
+	<Log_Time>5/28/05, 10:38:33 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向火箭队3.0购买道具：追踪器,数量：&lt;b&gt;1&lt;/b&gt;,花费金币：1，花费点券：0。</Conect>
+
+	<HMoney>70|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>16</Log_ID>
+
+	<ToolsID>9</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>1</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>REAL</AddUserName>
+
+	<AddUserID>111</AddUserID>
+
+	<Log_IP>220.162.14.176</Log_IP>
+
+	<Log_Time>5/28/05, 10:39:07 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向火箭队3.0购买道具：追踪器,数量：&lt;b&gt;1&lt;/b&gt;,花费金币：1，花费点券：0。</Conect>
+
+	<HMoney>69|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>17</Log_ID>
+
+	<ToolsID>9</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>1</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>REAL</AddUserName>
+
+	<AddUserID>111</AddUserID>
+
+	<Log_IP>218.5.126.200</Log_IP>
+
+	<Log_Time>5/29/05, 6:44:31 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向火箭队3.0购买道具：追踪器,数量：&lt;b&gt;1&lt;/b&gt;,花费金币：1，花费点券：0。</Conect>
+
+	<HMoney>68|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>18</Log_ID>
+
+	<ToolsID>9</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>1</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>REAL</AddUserName>
+
+	<AddUserID>111</AddUserID>
+
+	<Log_IP>218.5.126.200</Log_IP>
+
+	<Log_Time>5/29/05, 6:45:10 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向火箭队3.0购买道具：追踪器,数量：&lt;b&gt;1&lt;/b&gt;,花费金币：1，花费点券：0。</Conect>
+
+	<HMoney>67|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>19</Log_ID>
+
+	<ToolsID>9</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>1</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>REAL</AddUserName>
+
+	<AddUserID>111</AddUserID>
+
+	<Log_IP>218.5.126.200</Log_IP>
+
+	<Log_Time>5/29/05, 6:45:26 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向火箭队3.0购买道具：追踪器,数量：&lt;b&gt;1&lt;/b&gt;,花费金币：1，花费点券：0。</Conect>
+
+	<HMoney>66|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>20</Log_ID>
+
+	<ToolsID>6</ToolsID>
+
+	<CountNum>2</CountNum>
+
+	<Log_Money>50</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>REAL</AddUserName>
+
+	<AddUserID>111</AddUserID>
+
+	<Log_IP>218.5.126.200</Log_IP>
+
+	<Log_Time>5/29/05, 7:04:00 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向系统购买道具：吖噗鸡,数量：&lt;b&gt;2&lt;/b&gt;,花费金币：50，花费点券：0。</Conect>
+
+	<HMoney>16|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>21</Log_ID>
+
+	<ToolsID>12</ToolsID>
+
+	<CountNum>10</CountNum>
+
+	<Log_Money>250</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>独行虾</AddUserName>
+
+	<AddUserID>259</AddUserID>
+
+	<Log_IP>218.5.126.200</Log_IP>
+
+	<Log_Time>5/29/05, 7:16:03 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向系统购买道具：狗仔队,数量：&lt;b&gt;10&lt;/b&gt;,花费金币：250，花费点券：0。</Conect>
+
+	<HMoney>28|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>22</Log_ID>
+
+	<ToolsID>12</ToolsID>
+
+	<CountNum>10</CountNum>
+
+	<Log_Money>1</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>独行虾</AddUserName>
+
+	<AddUserID>259</AddUserID>
+
+	<Log_IP>218.5.126.200</Log_IP>
+
+	<Log_Time>5/29/05, 7:17:15 PM</Log_Time>
+
+	<Log_Type>2</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>转让道具：狗仔队,数量：&lt;b&gt;10&lt;/b&gt;。</Conect>
+
+	<HMoney>28|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>23</Log_ID>
+
+	<ToolsID>12</ToolsID>
+
+	<CountNum>10</CountNum>
+
+	<Log_Money>10</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>REAL</AddUserName>
+
+	<AddUserID>111</AddUserID>
+
+	<Log_IP>218.5.126.200</Log_IP>
+
+	<Log_Time>5/29/05, 7:17:45 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向独行虾购买道具：狗仔队,数量：&lt;b&gt;10&lt;/b&gt;,花费金币：10，花费点券：0。</Conect>
+
+	<HMoney>6|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>24</Log_ID>
+
+	<ToolsID>4</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>25</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>独行虾</AddUserName>
+
+	<AddUserID>259</AddUserID>
+
+	<Log_IP>218.5.126.200</Log_IP>
+
+	<Log_Time>5/29/05, 7:19:16 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向系统购买道具：二级特赦令,数量：&lt;b&gt;1&lt;/b&gt;,花费金币：25，花费点券：0。</Conect>
+
+	<HMoney>3|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>25</Log_ID>
+
+	<ToolsID>4</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>1</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>独行虾</AddUserName>
+
+	<AddUserID>259</AddUserID>
+
+	<Log_IP>218.5.126.200</Log_IP>
+
+	<Log_Time>5/29/05, 7:20:01 PM</Log_Time>
+
+	<Log_Type>2</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>转让道具：二级特赦令,数量：&lt;b&gt;1&lt;/b&gt;。</Conect>
+
+	<HMoney>3|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>26</Log_ID>
+
+	<ToolsID>4</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>1</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>独行虾</AddUserName>
+
+	<AddUserID>259</AddUserID>
+
+	<Log_IP>218.5.126.200</Log_IP>
+
+	<Log_Time>5/29/05, 7:21:52 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>与自已购回道具：二级特赦令,数量：&lt;b&gt;1&lt;/b&gt;。</Conect>
+
+	<HMoney>3|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>27</Log_ID>
+
+	<ToolsID>8</ToolsID>
+
+	<CountNum>10</CountNum>
+
+	<Log_Money>150</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>qwcdbc</AddUserName>
+
+	<AddUserID>260</AddUserID>
+
+	<Log_IP>218.5.126.200</Log_IP>
+
+	<Log_Time>5/29/05, 7:28:00 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向系统购买道具：水晶球,数量：&lt;b&gt;10&lt;/b&gt;,花费金币：150，花费点券：0。</Conect>
+
+	<HMoney>128|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>28</Log_ID>
+
+	<ToolsID>8</ToolsID>
+
+	<CountNum>10</CountNum>
+
+	<Log_Money>1</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>qwcdbc</AddUserName>
+
+	<AddUserID>260</AddUserID>
+
+	<Log_IP>218.5.126.200</Log_IP>
+
+	<Log_Time>5/29/05, 7:31:26 PM</Log_Time>
+
+	<Log_Type>2</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>转让道具：水晶球,数量：&lt;b&gt;10&lt;/b&gt;。</Conect>
+
+	<HMoney>128|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>29</Log_ID>
+
+	<ToolsID>8</ToolsID>
+
+	<CountNum>10</CountNum>
+
+	<Log_Money>10</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>REAL</AddUserName>
+
+	<AddUserID>111</AddUserID>
+
+	<Log_IP>218.5.126.200</Log_IP>
+
+	<Log_Time>5/29/05, 7:32:40 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向qwcdbc购买道具：水晶球,数量：&lt;b&gt;10&lt;/b&gt;,花费金币：10，花费点券：0。</Conect>
+
+	<HMoney>12|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>30</Log_ID>
+
+	<ToolsID>1</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>100</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>agnes</AddUserName>
+
+	<AddUserID>154</AddUserID>
+
+	<Log_IP>218.5.169.29</Log_IP>
+
+	<Log_Time>7/11/05, 1:57:32 AM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向系统购买道具：转让器,数量：&lt;b&gt;1&lt;/b&gt;,花费金币：100，花费点券：0。</Conect>
+
+	<HMoney>200|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>31</Log_ID>
+
+	<ToolsID>-88</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>100</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>agnes</AddUserName>
+
+	<AddUserID>154</AddUserID>
+
+	<Log_IP>218.5.167.44</Log_IP>
+
+	<Log_Time>7/18/05, 1:11:02 PM</Log_Time>
+
+	<Log_Type>1</Log_Type>
+
+	<BoardID>18</BoardID>
+
+	<Conect>使用金币购买魔法表情</Conect>
+
+	<HMoney>100|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>32</Log_ID>
+
+	<ToolsID>-88</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>0</Log_Money>
+
+	<Log_Ticket>10</Log_Ticket>
+
+	<AddUserName>agnes</AddUserName>
+
+	<AddUserID>154</AddUserID>
+
+	<Log_IP>218.5.174.18</Log_IP>
+
+	<Log_Time>7/20/05, 1:10:38 PM</Log_Time>
+
+	<Log_Type>1</Log_Type>
+
+	<BoardID>10</BoardID>
+
+	<Conect>使用点券购买魔法表情</Conect>
+
+	<HMoney>100|-10</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>33</Log_ID>
+
+	<ToolsID>7</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>25</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>qiuwch</AddUserName>
+
+	<AddUserID>2</AddUserID>
+
+	<Log_IP>218.86.33.179</Log_IP>
+
+	<Log_Time>8/25/05, 5:47:29 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向系统购买道具：醒目灯,数量：&lt;b&gt;1&lt;/b&gt;,花费金币：25，花费点券：0。</Conect>
+
+	<HMoney>199|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>34</Log_ID>
+
+	<ToolsID>14</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>100</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>qiuwch</AddUserName>
+
+	<AddUserID>2</AddUserID>
+
+	<Log_IP>218.86.33.179</Log_IP>
+
+	<Log_Time>8/25/05, 5:47:55 PM</Log_Time>
+
+	<Log_Type>4</Log_Type>
+
+	<BoardID>0</BoardID>
+
+	<Conect>向系统购买道具：大救生圈,数量：&lt;b&gt;1&lt;/b&gt;,花费金币：100，花费点券：0。</Conect>
+
+	<HMoney>99|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>35</Log_ID>
+
+	<ToolsID>14</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>0</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>qiuwch</AddUserName>
+
+	<AddUserID>2</AddUserID>
+
+	<Log_IP>218.86.33.179</Log_IP>
+
+	<Log_Time>8/25/05, 6:03:15 PM</Log_Time>
+
+	<Log_Type>1</Log_Type>
+
+	<BoardID>18</BoardID>
+
+	<Conect>使用：&lt;B&gt;大救生圈&lt;/B&gt;成功，帖子《&lt;a href=&quot;dispbbs.asp?BoardID=18&amp;ID=1184&amp;ReplyID=13511&quot; target=_blank&gt;&lt;b&gt;[讨论]新学期计划&lt;/b&gt;&lt;/a&gt;》已成功固顶12小时！</Conect>
+
+	<HMoney>99|0</HMoney>
+
+</RECORD>
+<RECORD>
+	<Log_ID>36</Log_ID>
+
+	<ToolsID>7</ToolsID>
+
+	<CountNum>1</CountNum>
+
+	<Log_Money>0</Log_Money>
+
+	<Log_Ticket>0</Log_Ticket>
+
+	<AddUserName>qiuwch</AddUserName>
+
+	<AddUserID>2</AddUserID>
+
+	<Log_IP>218.86.33.179</Log_IP>
+
+	<Log_Time>8/25/05, 6:03:36 PM</Log_Time>
+
+	<Log_Type>1</Log_Type>
+
+	<BoardID>18</BoardID>
+
+	<Conect>使用：&lt;B&gt;醒目灯&lt;/B&gt;成功，帖子《&lt;a href=&quot;dispbbs.asp?BoardID=18&amp;ID=1184&amp;ReplyID=13511&quot; target=_blank&gt;&lt;b&gt;&lt;font color=#9ACD32&gt;[讨论]新学期计划&lt;/font&gt;&lt;/b&gt;&lt;/a&gt;》已成功操作！</Conect>
+
+	<HMoney>99|0</HMoney>
+
+</RECORD>
+</RECORDS>

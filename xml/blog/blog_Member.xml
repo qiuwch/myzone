@@ -1,0 +1,999 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<mem_ID>1</mem_ID>
+
+	<mem_Name>admin</mem_Name>
+
+	<mem_Password>C55739F02503471BB97B4732476B102C</mem_Password>
+
+	<mem_Sex>1</mem_Sex>
+
+	<mem_Email>qiuwch@sohu.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ>23624536</mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>7/5/04, 3:12:10 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>SupAdmin</mem_Status>
+
+	<mem_PostLogs>24</mem_PostLogs>
+
+	<mem_PostComms>44</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>2</mem_ID>
+
+	<mem_Name>qiuwch</mem_Name>
+
+	<mem_Password>C55739F02503471BB97B4732476B102C</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>qiuwch@sohu.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>8/25/04, 9:51:46 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>SupAdmin</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>1</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>3</mem_ID>
+
+	<mem_Name>冰ヤ凌╅</mem_Name>
+
+	<mem_Password>2060561D07A519E8568C5F81130B391C</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>ellenhappytoday@homail.com.cn</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>9/15/04, 5:55:56 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Admin</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>0</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>4</mem_ID>
+
+	<mem_Name>郭</mem_Name>
+
+	<mem_Password>1F08756A9DF7082C2A6A9C66F3D6B6BD</mem_Password>
+
+	<mem_Sex>1</mem_Sex>
+
+	<mem_Email>qinong1989@yahoo.com.cn</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ>29581588</mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>9/15/04, 6:15:22 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Admin</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>7</mem_PostComms>
+
+	<mem_Intro>不是我很懒，只是不想说！</mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>5</mem_ID>
+
+	<mem_Name>lizzyzheng</mem_Name>
+
+	<mem_Password>37AFD80F9A4E536D465AC8C2161CD9A8</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>lizzyzheng@sina.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>9/15/04, 9:58:00 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Admin</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>0</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>6</mem_ID>
+
+	<mem_Name>chfjqzdx</mem_Name>
+
+	<mem_Password>84D961568A65073A3BCF0EB216B2A576</mem_Password>
+
+	<mem_Sex>1</mem_Sex>
+
+	<mem_Email>chfjqzdx@yahoo.com.cn</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ>149013671</mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>9/16/04, 1:12:16 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>SupAdmin</mem_Status>
+
+	<mem_PostLogs>18</mem_PostLogs>
+
+	<mem_PostComms>8</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>7</mem_ID>
+
+	<mem_Name>tigerkkk</mem_Name>
+
+	<mem_Password>AC655DB86AF6B88A176CB2E915CA49A2</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>tiger_3933@hotmail.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>9/16/04, 3:37:02 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Admin</mem_Status>
+
+	<mem_PostLogs>20</mem_PostLogs>
+
+	<mem_PostComms>0</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>8</mem_ID>
+
+	<mem_Name>林</mem_Name>
+
+	<mem_Password>E10ADC3949BA59ABBE56E057F20F883E</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>123@123.123</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>9/16/04, 4:22:38 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Admin</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>0</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>9</mem_ID>
+
+	<mem_Name>coldplay</mem_Name>
+
+	<mem_Password>252D266DB35C81C3960EAB50DA435A1C</mem_Password>
+
+	<mem_Sex>1</mem_Sex>
+
+	<mem_Email>linakai@sohu.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>9/17/04, 8:53:12 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>SupAdmin</mem_Status>
+
+	<mem_PostLogs>5</mem_PostLogs>
+
+	<mem_PostComms>94</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>10</mem_ID>
+
+	<mem_Name>小裤</mem_Name>
+
+	<mem_Password>2FEC0C7C15A8BDB964D0ABD2FCC73DAF</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>koko6kiki@sohu.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>9/18/04, 9:53:32 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Admin</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>0</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>11</mem_ID>
+
+	<mem_Name>nature_melody2004</mem_Name>
+
+	<mem_Password>03F6F01D286D8987EFB05F9B0EE921A3</mem_Password>
+
+	<mem_Sex>2</mem_Sex>
+
+	<mem_Email>wzfzz@yahoo.com.cn</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ>88573612</mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>9/19/04, 4:15:49 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Admin</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>1</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>12</mem_ID>
+
+	<mem_Name>帥帥→Ａ☆桑</mem_Name>
+
+	<mem_Password>27C09ED80035AA076E25D80C3D3768C3</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>A_sun8848@hotmail.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>9/23/04, 3:59:14 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Admin</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>0</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>13</mem_ID>
+
+	<mem_Name>吴晓龙</mem_Name>
+
+	<mem_Password>7BD977488324D0D947E22F6312A0CA0B</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>wxl181367603@163.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>9/25/04, 3:43:02 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Admin</mem_Status>
+
+	<mem_PostLogs>1</mem_PostLogs>
+
+	<mem_PostComms>3</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>15</mem_ID>
+
+	<mem_Name>yanziccc</mem_Name>
+
+	<mem_Password>EA2A0D907B9B49F949F4276CF9EFA26E</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>2110@163.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>10/1/04, 7:45:45 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Admin</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>0</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>16</mem_ID>
+
+	<mem_Name>雪糕</mem_Name>
+
+	<mem_Password>3568CECCA7A2AF857CD0E2CFE62BC2A5</mem_Password>
+
+	<mem_Sex>2</mem_Sex>
+
+	<mem_Email>notdull@mail.china.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ>315781596</mem_QQ>
+
+	<mem_HomePage>no</mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>10/6/04, 10:28:43 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Admin</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>5</mem_PostComms>
+
+	<mem_Intro>我是刘圣楠～～关于我的名字嘛，不需要太多的废话了吧～绕圈子</mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>17</mem_ID>
+
+	<mem_Name>水晶泪</mem_Name>
+
+	<mem_Password>3CF0C763F8235E0D76C4DAFA2BDA698F</mem_Password>
+
+	<mem_Sex>2</mem_Sex>
+
+	<mem_Email>shuijinglei92708@sina.com.cn</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ>24980649</mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>10/14/04, 3:52:19 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Admin</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>0</mem_PostComms>
+
+	<mem_Intro>寂寞的鱼写着水中的字
+看见的人，恐惧了
+看不见的，消失了
+海水变成了眼泪
+水晶般的……</mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>18</mem_ID>
+
+	<mem_Name>最后一根烟</mem_Name>
+
+	<mem_Password>CC3A646AA97E9E0DD14E0AF978CA3F4F</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>qq165460620@yahoo.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>10/14/04, 3:53:11 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Admin</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>0</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>19</mem_ID>
+
+	<mem_Name>●._·闻夕ヅ﹖</mem_Name>
+
+	<mem_Password>BB4829290250C2266CC397207ECC9A8F</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>cc27@sina.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>10/15/04, 5:30:49 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Admin</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>2</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>21</mem_ID>
+
+	<mem_Name>陈宁凯</mem_Name>
+
+	<mem_Password>7DECA6FE04CDC5A4A30383A695FB6BE0</mem_Password>
+
+	<mem_Sex>1</mem_Sex>
+
+	<mem_Email>littlewhiteduck@163.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ>402574948</mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>10/17/04, 3:06:51 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Admin</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>9</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>22</mem_ID>
+
+	<mem_Name>lililing</mem_Name>
+
+	<mem_Password>D301B1615FADBDF921840E250EEEB8E2</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>lialian@sina.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>10/24/04, 9:48:00 AM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Member</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>0</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>23</mem_ID>
+
+	<mem_Name>【路飞】</mem_Name>
+
+	<mem_Password>68635E6BD1EA5DD1A65C4D770A44073B</mem_Password>
+
+	<mem_Sex>1</mem_Sex>
+
+	<mem_Email>calaxy24@hotmail.com</mem_Email>
+
+	<mem_HideEmail>1</mem_HideEmail>
+
+	<mem_QQ>273419942</mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>10/24/04, 5:45:50 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Member</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>0</mem_PostComms>
+
+	<mem_Intro>这是哪？？？？</mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>24</mem_ID>
+
+	<mem_Name>捣蛋少帅</mem_Name>
+
+	<mem_Password>FE41526287989AC245686494442672E0</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>lyaling2004@yahoo.com.cn</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>10/29/04, 9:23:57 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Member</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>2</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>25</mem_ID>
+
+	<mem_Name>祎漾</mem_Name>
+
+	<mem_Password>5CB54C454C4A3587C47A8045D03479E6</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>wylin@sina.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ>249210173</mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>11/2/04, 2:37:33 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Member</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>0</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>26</mem_ID>
+
+	<mem_Name>警剑</mem_Name>
+
+	<mem_Password>68C659B99AAC140EAA6001899615D453</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>yexiang2158@163.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>11/6/04, 8:52:33 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Member</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>2</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>27</mem_ID>
+
+	<mem_Name>何梁晶</mem_Name>
+
+	<mem_Password>28E7308D21BB320A1864F3CF5849CA03</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>hoblue05@yahoo.com.cn</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>11/24/04, 12:47:45 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Member</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>1</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>28</mem_ID>
+
+	<mem_Name>梳子</mem_Name>
+
+	<mem_Password>BC8FA4EEC10A6BE4BFDE3FA64C1890FD</mem_Password>
+
+	<mem_Sex>2</mem_Sex>
+
+	<mem_Email>happygirl0305@sohu.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ>53382337</mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>11/28/04, 1:09:17 AM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Member</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>0</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>29</mem_ID>
+
+	<mem_Name>REAL</mem_Name>
+
+	<mem_Password>118D78C275B27DAAAE3C32A7B9087966</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>123@123.123</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>12/2/04, 3:46:26 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Member</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>0</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>30</mem_ID>
+
+	<mem_Name>dfd</mem_Name>
+
+	<mem_Password>E10ADC3949BA59ABBE56E057F20F883E</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>lizhonghua853@sina.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>12/4/04, 3:58:14 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Member</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>0</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>31</mem_ID>
+
+	<mem_Name>abcde2008</mem_Name>
+
+	<mem_Password>25F9E794323B453885F5181F1B624D0B</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>cxj55555@sina.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>2/5/05, 5:52:39 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Member</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>0</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>32</mem_ID>
+
+	<mem_Name>小强</mem_Name>
+
+	<mem_Password>EE76971984D25138A199AC90553401DD</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>lttqzsz@sina.com</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>7/1/05, 10:58:07 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Member</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>0</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+<RECORD>
+	<mem_ID>33</mem_ID>
+
+	<mem_Name>3C5v_5T5y_7G2c</mem_Name>
+
+	<mem_Password>25D55AD283AA400AF464C76D713C07AD</mem_Password>
+
+	<mem_Sex>0</mem_Sex>
+
+	<mem_Email>Hello@126.net</mem_Email>
+
+	<mem_HideEmail>0</mem_HideEmail>
+
+	<mem_QQ></mem_QQ>
+
+	<mem_HomePage></mem_HomePage>
+
+	<mem_Local></mem_Local>
+
+	<mem_RegTime>12/2/06, 9:06:03 PM</mem_RegTime>
+
+	<mem_RegIP></mem_RegIP>
+
+	<mem_Status>Member</mem_Status>
+
+	<mem_PostLogs>0</mem_PostLogs>
+
+	<mem_PostComms>0</mem_PostComms>
+
+	<mem_Intro></mem_Intro>
+
+</RECORD>
+</RECORDS>

@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<id>9</id>
+
+	<username>admin</username>
+
+	<password>2503471bb97b4732</password>
+
+	<flag>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36</flag>
+
+	<LastLogin>8/29/05, 10:18:21 AM</LastLogin>
+
+	<LastLoginIP>218.5.162.23</LastLoginIP>
+
+	<adduser>admin</adduser>
+
+	<AcceptIP></AcceptIP>
+
+</RECORD>
+<RECORD>
+	<id>11</id>
+
+	<username>chfjqzdx</username>
+
+	<password>8a65073a3bcf0eb2</password>
+
+	<flag>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36</flag>
+
+	<LastLogin>7/1/05, 7:47:45 AM</LastLogin>
+
+	<LastLoginIP>61.154.122.106</LastLoginIP>
+
+	<adduser>chfjqzdx</adduser>
+
+	<AcceptIP></AcceptIP>
+
+</RECORD>
+<RECORD>
+	<id>13</id>
+
+	<username>._·闻夕ヅ﹖</username>
+
+	<password>49ba59abbe56e057</password>
+
+	<flag>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36</flag>
+
+	<LastLogin>10/22/04, 4:09:28 PM</LastLogin>
+
+	<LastLoginIP>218.5.157.139</LastLoginIP>
+
+	<adduser>._·闻夕ヅ﹖</adduser>
+
+	<AcceptIP></AcceptIP>
+
+</RECORD>
+<RECORD>
+	<id>14</id>
+
+	<username>栾忻</username>
+
+	<password>0d2d324d07c784e5</password>
+
+	<flag></flag>
+
+	<LastLogin>1/31/05, 4:23:28 PM</LastLogin>
+
+	<LastLoginIP></LastLoginIP>
+
+	<adduser>栾忻</adduser>
+
+	<AcceptIP></AcceptIP>
+
+</RECORD>
+<RECORD>
+	<id>9</id>
+
+	<username>admin</username>
+
+	<password>2503471bb97b4732</password>
+
+	<flag>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36</flag>
+
+	<LastLogin>8/29/05, 10:18:21 AM</LastLogin>
+
+	<LastLoginIP>218.5.162.23</LastLoginIP>
+
+	<adduser>admin</adduser>
+
+	<AcceptIP></AcceptIP>
+
+</RECORD>
+<RECORD>
+	<id>11</id>
+
+	<username>chfjqzdx</username>
+
+	<password>8a65073a3bcf0eb2</password>
+
+	<flag>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36</flag>
+
+	<LastLogin>7/1/05, 7:47:45 AM</LastLogin>
+
+	<LastLoginIP>61.154.122.106</LastLoginIP>
+
+	<adduser>chfjqzdx</adduser>
+
+	<AcceptIP></AcceptIP>
+
+</RECORD>
+<RECORD>
+	<id>13</id>
+
+	<username>._·闻夕ヅ﹖</username>
+
+	<password>49ba59abbe56e057</password>
+
+	<flag>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36</flag>
+
+	<LastLogin>10/22/04, 4:09:28 PM</LastLogin>
+
+	<LastLoginIP>218.5.157.139</LastLoginIP>
+
+	<adduser>._·闻夕ヅ﹖</adduser>
+
+	<AcceptIP></AcceptIP>
+
+</RECORD>
+<RECORD>
+	<id>14</id>
+
+	<username>栾忻</username>
+
+	<password>0d2d324d07c784e5</password>
+
+	<flag></flag>
+
+	<LastLogin>1/31/05, 4:23:28 PM</LastLogin>
+
+	<LastLoginIP></LastLoginIP>
+
+	<adduser>栾忻</adduser>
+
+	<AcceptIP></AcceptIP>
+
+</RECORD>
+</RECORDS>

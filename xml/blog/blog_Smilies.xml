@@ -1,0 +1,523 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<sm_ID>1</sm_ID>
+
+	<sm_Image>icon_arrow.gif</sm_Image>
+
+	<sm_Text>[arrow]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>2</sm_ID>
+
+	<sm_Image>icon_biggrin.gif</sm_Image>
+
+	<sm_Text>[biggrin]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>3</sm_ID>
+
+	<sm_Image>icon_confused.gif</sm_Image>
+
+	<sm_Text>[confused]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>4</sm_ID>
+
+	<sm_Image>icon_cool.gif</sm_Image>
+
+	<sm_Text>[cool]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>5</sm_ID>
+
+	<sm_Image>icon_cry.gif</sm_Image>
+
+	<sm_Text>[cry]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>6</sm_ID>
+
+	<sm_Image>icon_eek.gif</sm_Image>
+
+	<sm_Text>[eek]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>7</sm_ID>
+
+	<sm_Image>icon_evil.gif</sm_Image>
+
+	<sm_Text>[evil]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>8</sm_ID>
+
+	<sm_Image>icon_exclaim.gif</sm_Image>
+
+	<sm_Text>[exclaim]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>9</sm_ID>
+
+	<sm_Image>icon_frown.gif</sm_Image>
+
+	<sm_Text>[frown]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>10</sm_ID>
+
+	<sm_Image>icon_idea.gif</sm_Image>
+
+	<sm_Text>[idea]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>11</sm_ID>
+
+	<sm_Image>icon_lol.gif</sm_Image>
+
+	<sm_Text>[lol]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>12</sm_ID>
+
+	<sm_Image>icon_mad.gif</sm_Image>
+
+	<sm_Text>[mad]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>13</sm_ID>
+
+	<sm_Image>icon_mrgreen.gif</sm_Image>
+
+	<sm_Text>[mrgreen]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>14</sm_ID>
+
+	<sm_Image>icon_neutral.gif</sm_Image>
+
+	<sm_Text>[neutral]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>15</sm_ID>
+
+	<sm_Image>icon_question.gif</sm_Image>
+
+	<sm_Text>[question]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>16</sm_ID>
+
+	<sm_Image>icon_razz.gif</sm_Image>
+
+	<sm_Text>[razz]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>17</sm_ID>
+
+	<sm_Image>icon_redface.gif</sm_Image>
+
+	<sm_Text>[redface]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>18</sm_ID>
+
+	<sm_Image>icon_rolleyes.gif</sm_Image>
+
+	<sm_Text>[rolleyes]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>19</sm_ID>
+
+	<sm_Image>icon_sad.gif</sm_Image>
+
+	<sm_Text>[sad]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>20</sm_ID>
+
+	<sm_Image>icon_smile.gif</sm_Image>
+
+	<sm_Text>[smile]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>21</sm_ID>
+
+	<sm_Image>icon_surprised.gif</sm_Image>
+
+	<sm_Text>[surprised]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>22</sm_ID>
+
+	<sm_Image>icon_twisted.gif</sm_Image>
+
+	<sm_Text>[twisted]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>23</sm_ID>
+
+	<sm_Image>icon_wink.gif</sm_Image>
+
+	<sm_Text>[wink]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>24</sm_ID>
+
+	<sm_Image>0.gif</sm_Image>
+
+	<sm_Text>[0]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>25</sm_ID>
+
+	<sm_Image>1.gif</sm_Image>
+
+	<sm_Text>[1]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>26</sm_ID>
+
+	<sm_Image>2.gif</sm_Image>
+
+	<sm_Text>[2]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>27</sm_ID>
+
+	<sm_Image>3.gif</sm_Image>
+
+	<sm_Text>[3]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>28</sm_ID>
+
+	<sm_Image>4.gif</sm_Image>
+
+	<sm_Text>[4]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>29</sm_ID>
+
+	<sm_Image>5.gif</sm_Image>
+
+	<sm_Text>[5]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>30</sm_ID>
+
+	<sm_Image>6.gif</sm_Image>
+
+	<sm_Text>[6]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>31</sm_ID>
+
+	<sm_Image>7.gif</sm_Image>
+
+	<sm_Text>[7]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>32</sm_ID>
+
+	<sm_Image>8.gif</sm_Image>
+
+	<sm_Text>[8]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>33</sm_ID>
+
+	<sm_Image>9.gif</sm_Image>
+
+	<sm_Text>[9]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>34</sm_ID>
+
+	<sm_Image>10.gif</sm_Image>
+
+	<sm_Text>[10]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>35</sm_ID>
+
+	<sm_Image>11.gif</sm_Image>
+
+	<sm_Text>[11]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>36</sm_ID>
+
+	<sm_Image>12.gif</sm_Image>
+
+	<sm_Text>[12]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>37</sm_ID>
+
+	<sm_Image>13.gif</sm_Image>
+
+	<sm_Text>[13]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>38</sm_ID>
+
+	<sm_Image>14.gif</sm_Image>
+
+	<sm_Text>[14]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>39</sm_ID>
+
+	<sm_Image>15.gif</sm_Image>
+
+	<sm_Text>[15]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>40</sm_ID>
+
+	<sm_Image>16.gif</sm_Image>
+
+	<sm_Text>[16]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>41</sm_ID>
+
+	<sm_Image>17.gif</sm_Image>
+
+	<sm_Text>[17]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>42</sm_ID>
+
+	<sm_Image>18.gif</sm_Image>
+
+	<sm_Text>[18]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>43</sm_ID>
+
+	<sm_Image>19.gif</sm_Image>
+
+	<sm_Text>[19]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>44</sm_ID>
+
+	<sm_Image>20.gif</sm_Image>
+
+	<sm_Text>[20]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>45</sm_ID>
+
+	<sm_Image>21.gif</sm_Image>
+
+	<sm_Text>[21]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>46</sm_ID>
+
+	<sm_Image>22.gif</sm_Image>
+
+	<sm_Text>[22]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>47</sm_ID>
+
+	<sm_Image>23.gif</sm_Image>
+
+	<sm_Text>[23]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>48</sm_ID>
+
+	<sm_Image>24.gif</sm_Image>
+
+	<sm_Text>[24]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>49</sm_ID>
+
+	<sm_Image>25.gif</sm_Image>
+
+	<sm_Text>[25]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>50</sm_ID>
+
+	<sm_Image>26.gif</sm_Image>
+
+	<sm_Text>[26]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>51</sm_ID>
+
+	<sm_Image>27.gif</sm_Image>
+
+	<sm_Text>[27]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>52</sm_ID>
+
+	<sm_Image>28.gif</sm_Image>
+
+	<sm_Text>[28]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>53</sm_ID>
+
+	<sm_Image>29.gif</sm_Image>
+
+	<sm_Text>[29]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>54</sm_ID>
+
+	<sm_Image>30.gif</sm_Image>
+
+	<sm_Text>[30]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>55</sm_ID>
+
+	<sm_Image>31.gif</sm_Image>
+
+	<sm_Text>[31]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>56</sm_ID>
+
+	<sm_Image>32.gif</sm_Image>
+
+	<sm_Text>[32]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>57</sm_ID>
+
+	<sm_Image>32.gif</sm_Image>
+
+	<sm_Text>[32]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>58</sm_ID>
+
+	<sm_Image>33.gif</sm_Image>
+
+	<sm_Text>[33]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>59</sm_ID>
+
+	<sm_Image>34.gif</sm_Image>
+
+	<sm_Text>[34]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>60</sm_ID>
+
+	<sm_Image>34.gif</sm_Image>
+
+	<sm_Text>[34]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>61</sm_ID>
+
+	<sm_Image>35.gif</sm_Image>
+
+	<sm_Text>[35]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>62</sm_ID>
+
+	<sm_Image>36.gif</sm_Image>
+
+	<sm_Text>[36]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>63</sm_ID>
+
+	<sm_Image>37.gif</sm_Image>
+
+	<sm_Text>[37]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>64</sm_ID>
+
+	<sm_Image>38.gif</sm_Image>
+
+	<sm_Text>[38]</sm_Text>
+
+</RECORD>
+<RECORD>
+	<sm_ID>65</sm_ID>
+
+	<sm_Image>39.gif</sm_Image>
+
+	<sm_Text>[39]</sm_Text>
+
+</RECORD>
+</RECORDS>

@@ -1,0 +1,7043 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<ID>1</ID>
+
+	<Title>感动</Title>
+
+	<MagicFace_s>1</MagicFace_s>
+
+	<MagicFace_l>1</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>2</ID>
+
+	<Title>傲慢地笑</Title>
+
+	<MagicFace_s>2</MagicFace_s>
+
+	<MagicFace_l>2</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>3</ID>
+
+	<Title>可爱</Title>
+
+	<MagicFace_s>3</MagicFace_s>
+
+	<MagicFace_l>3</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>4</ID>
+
+	<Title>啊！</Title>
+
+	<MagicFace_s>8</MagicFace_s>
+
+	<MagicFace_l>8</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>5</ID>
+
+	<Title>微笑</Title>
+
+	<MagicFace_s>9</MagicFace_s>
+
+	<MagicFace_l>9</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>6</ID>
+
+	<Title>摇头</Title>
+
+	<MagicFace_s>10</MagicFace_s>
+
+	<MagicFace_l>10</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>7</ID>
+
+	<Title>打嗝</Title>
+
+	<MagicFace_s>11</MagicFace_s>
+
+	<MagicFace_l>11</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>8</ID>
+
+	<Title>闭嘴</Title>
+
+	<MagicFace_s>12</MagicFace_s>
+
+	<MagicFace_l>12</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>9</ID>
+
+	<Title>消失</Title>
+
+	<MagicFace_s>13</MagicFace_s>
+
+	<MagicFace_l>13</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>10</ID>
+
+	<Title>嘘~肃静</Title>
+
+	<MagicFace_s>15</MagicFace_s>
+
+	<MagicFace_l>15</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>11</ID>
+
+	<Title>抽烟</Title>
+
+	<MagicFace_s>16</MagicFace_s>
+
+	<MagicFace_l>16</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>12</ID>
+
+	<Title>尴尬</Title>
+
+	<MagicFace_s>17</MagicFace_s>
+
+	<MagicFace_l>17</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>13</ID>
+
+	<Title>潜水中</Title>
+
+	<MagicFace_s>18</MagicFace_s>
+
+	<MagicFace_l>18</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>14</ID>
+
+	<Title>你好！</Title>
+
+	<MagicFace_s>19</MagicFace_s>
+
+	<MagicFace_l>19</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>15</ID>
+
+	<Title>不明白</Title>
+
+	<MagicFace_s>20</MagicFace_s>
+
+	<MagicFace_l>20</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>16</ID>
+
+	<Title>对不起</Title>
+
+	<MagicFace_s>21</MagicFace_s>
+
+	<MagicFace_l>21</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>17</ID>
+
+	<Title>会议中</Title>
+
+	<MagicFace_s>22</MagicFace_s>
+
+	<MagicFace_l>22</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>18</ID>
+
+	<Title>请稍等</Title>
+
+	<MagicFace_s>23</MagicFace_s>
+
+	<MagicFace_l>23</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>19</ID>
+
+	<Title>通话中</Title>
+
+	<MagicFace_s>24</MagicFace_s>
+
+	<MagicFace_l>24</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>20</ID>
+
+	<Title>怎么办</Title>
+
+	<MagicFace_s>25</MagicFace_s>
+
+	<MagicFace_l>25</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>21</ID>
+
+	<Title>高兴的笑</Title>
+
+	<MagicFace_s>26</MagicFace_s>
+
+	<MagicFace_l>26</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>22</ID>
+
+	<Title>我倒</Title>
+
+	<MagicFace_s>27</MagicFace_s>
+
+	<MagicFace_l>27</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>23</ID>
+
+	<Title>吃饭</Title>
+
+	<MagicFace_s>28</MagicFace_s>
+
+	<MagicFace_l>28</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>24</ID>
+
+	<Title>快乐每一天</Title>
+
+	<MagicFace_s>29</MagicFace_s>
+
+	<MagicFace_l>29</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>25</ID>
+
+	<Title>思考中</Title>
+
+	<MagicFace_s>30</MagicFace_s>
+
+	<MagicFace_l>30</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>26</ID>
+
+	<Title>TEA TIME</Title>
+
+	<MagicFace_s>31</MagicFace_s>
+
+	<MagicFace_l>31</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>27</ID>
+
+	<Title>好冷</Title>
+
+	<MagicFace_s>32</MagicFace_s>
+
+	<MagicFace_l>32</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>28</ID>
+
+	<Title>做鬼脸</Title>
+
+	<MagicFace_s>33</MagicFace_s>
+
+	<MagicFace_l>33</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>29</ID>
+
+	<Title>打架</Title>
+
+	<MagicFace_s>34</MagicFace_s>
+
+	<MagicFace_l>34</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>30</ID>
+
+	<Title>呸呸呸</Title>
+
+	<MagicFace_s>35</MagicFace_s>
+
+	<MagicFace_l>35</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>31</ID>
+
+	<Title>扔烟灰缸</Title>
+
+	<MagicFace_s>36</MagicFace_s>
+
+	<MagicFace_l>36</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>32</ID>
+
+	<Title>呃呃</Title>
+
+	<MagicFace_s>37</MagicFace_s>
+
+	<MagicFace_l>37</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>33</ID>
+
+	<Title>黄瓜</Title>
+
+	<MagicFace_s>38</MagicFace_s>
+
+	<MagicFace_l>38</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>34</ID>
+
+	<Title>哎哟</Title>
+
+	<MagicFace_s>39</MagicFace_s>
+
+	<MagicFace_l>39</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>35</ID>
+
+	<Title>来休息一下吧</Title>
+
+	<MagicFace_s>40</MagicFace_s>
+
+	<MagicFace_l>40</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>36</ID>
+
+	<Title>想死啊？</Title>
+
+	<MagicFace_s>41</MagicFace_s>
+
+	<MagicFace_l>41</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>37</ID>
+
+	<Title>该死的</Title>
+
+	<MagicFace_s>42</MagicFace_s>
+
+	<MagicFace_l>42</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>38</ID>
+
+	<Title>快干活！</Title>
+
+	<MagicFace_s>43</MagicFace_s>
+
+	<MagicFace_l>43</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>39</ID>
+
+	<Title>你随便</Title>
+
+	<MagicFace_s>44</MagicFace_s>
+
+	<MagicFace_l>44</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>40</ID>
+
+	<Title>嘿嘿</Title>
+
+	<MagicFace_s>45</MagicFace_s>
+
+	<MagicFace_l>45</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>41</ID>
+
+	<Title>没面子</Title>
+
+	<MagicFace_s>46</MagicFace_s>
+
+	<MagicFace_l>46</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>42</ID>
+
+	<Title>碰碰碰</Title>
+
+	<MagicFace_s>47</MagicFace_s>
+
+	<MagicFace_l>47</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>43</ID>
+
+	<Title>弱</Title>
+
+	<MagicFace_s>48</MagicFace_s>
+
+	<MagicFace_l>48</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>44</ID>
+
+	<Title>鄙视的笑</Title>
+
+	<MagicFace_s>49</MagicFace_s>
+
+	<MagicFace_l>49</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>45</ID>
+
+	<Title>好高兴！</Title>
+
+	<MagicFace_s>50</MagicFace_s>
+
+	<MagicFace_l>50</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>46</ID>
+
+	<Title>强</Title>
+
+	<MagicFace_s>51</MagicFace_s>
+
+	<MagicFace_l>51</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>47</ID>
+
+	<Title>那你自己多“保重”</Title>
+
+	<MagicFace_s>52</MagicFace_s>
+
+	<MagicFace_l>52</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>48</ID>
+
+	<Title>强，真强</Title>
+
+	<MagicFace_s>53</MagicFace_s>
+
+	<MagicFace_l>53</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>49</ID>
+
+	<Title>我是一个大菠萝</Title>
+
+	<MagicFace_s>54</MagicFace_s>
+
+	<MagicFace_l>54</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>50</ID>
+
+	<Title>啊.啊</Title>
+
+	<MagicFace_s>55</MagicFace_s>
+
+	<MagicFace_l>55</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>51</ID>
+
+	<Title>来喝一杯吧</Title>
+
+	<MagicFace_s>56</MagicFace_s>
+
+	<MagicFace_l>56</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>52</ID>
+
+	<Title>哇！</Title>
+
+	<MagicFace_s>57</MagicFace_s>
+
+	<MagicFace_l>57</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>53</ID>
+
+	<Title>双棒</Title>
+
+	<MagicFace_s>58</MagicFace_s>
+
+	<MagicFace_l>58</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>54</ID>
+
+	<Title>反射</Title>
+
+	<MagicFace_s>59</MagicFace_s>
+
+	<MagicFace_l>59</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>55</ID>
+
+	<Title>呕吐</Title>
+
+	<MagicFace_s>60</MagicFace_s>
+
+	<MagicFace_l>60</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>56</ID>
+
+	<Title>你是我的</Title>
+
+	<MagicFace_s>61</MagicFace_s>
+
+	<MagicFace_l>61</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>57</ID>
+
+	<Title>受委屈</Title>
+
+	<MagicFace_s>62</MagicFace_s>
+
+	<MagicFace_l>62</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>58</ID>
+
+	<Title>又偷懒！</Title>
+
+	<MagicFace_s>63</MagicFace_s>
+
+	<MagicFace_l>63</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>59</ID>
+
+	<Title>会杀我两次的</Title>
+
+	<MagicFace_s>64</MagicFace_s>
+
+	<MagicFace_l>64</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>60</ID>
+
+	<Title>请你吃</Title>
+
+	<MagicFace_s>65</MagicFace_s>
+
+	<MagicFace_l>65</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>61</ID>
+
+	<Title>就是偶</Title>
+
+	<MagicFace_s>66</MagicFace_s>
+
+	<MagicFace_l>66</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>62</ID>
+
+	<Title>爱死你了</Title>
+
+	<MagicFace_s>67</MagicFace_s>
+
+	<MagicFace_l>67</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>63</ID>
+
+	<Title>偶滴甜心</Title>
+
+	<MagicFace_s>68</MagicFace_s>
+
+	<MagicFace_l>68</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>64</ID>
+
+	<Title>被你爱的箭射中了</Title>
+
+	<MagicFace_s>69</MagicFace_s>
+
+	<MagicFace_l>69</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>65</ID>
+
+	<Title>我爱你</Title>
+
+	<MagicFace_s>70</MagicFace_s>
+
+	<MagicFace_l>70</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>66</ID>
+
+	<Title>再见</Title>
+
+	<MagicFace_s>71</MagicFace_s>
+
+	<MagicFace_l>71</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>67</ID>
+
+	<Title>变花</Title>
+
+	<MagicFace_s>72</MagicFace_s>
+
+	<MagicFace_l>72</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>68</ID>
+
+	<Title>抹了口水</Title>
+
+	<MagicFace_s>73</MagicFace_s>
+
+	<MagicFace_l>73</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>69</ID>
+
+	<Title>我今天有空</Title>
+
+	<MagicFace_s>74</MagicFace_s>
+
+	<MagicFace_l>74</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>70</ID>
+
+	<Title>挫折</Title>
+
+	<MagicFace_s>75</MagicFace_s>
+
+	<MagicFace_l>75</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>71</ID>
+
+	<Title>哽咽</Title>
+
+	<MagicFace_s>76</MagicFace_s>
+
+	<MagicFace_l>76</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>72</ID>
+
+	<Title>呵呵</Title>
+
+	<MagicFace_s>77</MagicFace_s>
+
+	<MagicFace_l>77</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>73</ID>
+
+	<Title>没兴趣</Title>
+
+	<MagicFace_s>78</MagicFace_s>
+
+	<MagicFace_l>78</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>74</ID>
+
+	<Title>亲一下</Title>
+
+	<MagicFace_s>79</MagicFace_s>
+
+	<MagicFace_l>79</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>75</ID>
+
+	<Title>很捧哦</Title>
+
+	<MagicFace_s>80</MagicFace_s>
+
+	<MagicFace_l>80</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>76</ID>
+
+	<Title>看不到</Title>
+
+	<MagicFace_s>81</MagicFace_s>
+
+	<MagicFace_l>81</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>77</ID>
+
+	<Title>那么丑出来吓人呀</Title>
+
+	<MagicFace_s>82</MagicFace_s>
+
+	<MagicFace_l>82</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>78</ID>
+
+	<Title>浣熊_不要惹我</Title>
+
+	<MagicFace_s>83</MagicFace_s>
+
+	<MagicFace_l>83</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>79</ID>
+
+	<Title>浣熊_对你一见钟情</Title>
+
+	<MagicFace_s>84</MagicFace_s>
+
+	<MagicFace_l>84</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>80</ID>
+
+	<Title>浣熊_好困哦</Title>
+
+	<MagicFace_s>85</MagicFace_s>
+
+	<MagicFace_l>85</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>81</ID>
+
+	<Title>浣熊_加冕</Title>
+
+	<MagicFace_s>86</MagicFace_s>
+
+	<MagicFace_l>86</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>82</ID>
+
+	<Title>浣熊_你欺负我</Title>
+
+	<MagicFace_s>87</MagicFace_s>
+
+	<MagicFace_l>87</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>83</ID>
+
+	<Title>浣熊_人家..人家...</Title>
+
+	<MagicFace_s>88</MagicFace_s>
+
+	<MagicFace_l>88</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>84</ID>
+
+	<Title>浣熊_失恋是一种打击</Title>
+
+	<MagicFace_s>89</MagicFace_s>
+
+	<MagicFace_l>89</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>85</ID>
+
+	<Title>浣熊_为什么</Title>
+
+	<MagicFace_s>90</MagicFace_s>
+
+	<MagicFace_l>90</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>86</ID>
+
+	<Title>浣熊_嘻嘻</Title>
+
+	<MagicFace_s>91</MagicFace_s>
+
+	<MagicFace_l>91</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>87</ID>
+
+	<Title>浣熊_笑死人了</Title>
+
+	<MagicFace_s>92</MagicFace_s>
+
+	<MagicFace_l>92</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>88</ID>
+
+	<Title>萝卜头_Show一下</Title>
+
+	<MagicFace_s>93</MagicFace_s>
+
+	<MagicFace_l>93</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>89</ID>
+
+	<Title>萝卜头_啊啊啊</Title>
+
+	<MagicFace_s>94</MagicFace_s>
+
+	<MagicFace_l>94</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>90</ID>
+
+	<Title>萝卜头_爱你爱你</Title>
+
+	<MagicFace_s>95</MagicFace_s>
+
+	<MagicFace_l>95</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>91</ID>
+
+	<Title>萝卜头_扮酷</Title>
+
+	<MagicFace_s>96</MagicFace_s>
+
+	<MagicFace_l>96</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>92</ID>
+
+	<Title>萝卜头_哼</Title>
+
+	<MagicFace_s>97</MagicFace_s>
+
+	<MagicFace_l>97</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>93</ID>
+
+	<Title>萝卜头_看我72变</Title>
+
+	<MagicFace_s>98</MagicFace_s>
+
+	<MagicFace_l>98</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>94</ID>
+
+	<Title>萝卜头_困死了</Title>
+
+	<MagicFace_s>99</MagicFace_s>
+
+	<MagicFace_l>99</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>95</ID>
+
+	<Title>萝卜头_我的爱给你</Title>
+
+	<MagicFace_s>100</MagicFace_s>
+
+	<MagicFace_l>100</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>96</ID>
+
+	<Title>萝卜头_你很讨厌啊</Title>
+
+	<MagicFace_s>101</MagicFace_s>
+
+	<MagicFace_l>101</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>97</ID>
+
+	<Title>萝卜头_喜欢你</Title>
+
+	<MagicFace_s>102</MagicFace_s>
+
+	<MagicFace_l>102</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>98</ID>
+
+	<Title>小鸡_高手</Title>
+
+	<MagicFace_s>103</MagicFace_s>
+
+	<MagicFace_l>103</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>99</ID>
+
+	<Title>小鸡_花仙子</Title>
+
+	<MagicFace_s>104</MagicFace_s>
+
+	<MagicFace_l>104</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>100</ID>
+
+	<Title>小鸡_加油加油</Title>
+
+	<MagicFace_s>105</MagicFace_s>
+
+	<MagicFace_l>105</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>101</ID>
+
+	<Title>小鸡_拼啦</Title>
+
+	<MagicFace_s>106</MagicFace_s>
+
+	<MagicFace_l>106</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>102</ID>
+
+	<Title>小鸡_凉爽好心情</Title>
+
+	<MagicFace_s>107</MagicFace_s>
+
+	<MagicFace_l>107</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>103</ID>
+
+	<Title>小鸡_气死了</Title>
+
+	<MagicFace_s>108</MagicFace_s>
+
+	<MagicFace_l>108</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>104</ID>
+
+	<Title>小鸡_我生气了</Title>
+
+	<MagicFace_s>109</MagicFace_s>
+
+	<MagicFace_l>109</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>105</ID>
+
+	<Title>小鸡_午休咯</Title>
+
+	<MagicFace_s>110</MagicFace_s>
+
+	<MagicFace_l>110</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>106</ID>
+
+	<Title>小鸡_心心气球</Title>
+
+	<MagicFace_s>111</MagicFace_s>
+
+	<MagicFace_l>111</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>107</ID>
+
+	<Title>小鸡_新人来到</Title>
+
+	<MagicFace_s>112</MagicFace_s>
+
+	<MagicFace_l>112</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>108</ID>
+
+	<Title>豆芽_爱的收获</Title>
+
+	<MagicFace_s>113</MagicFace_s>
+
+	<MagicFace_l>113</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>109</ID>
+
+	<Title>豆芽_北风那个吹</Title>
+
+	<MagicFace_s>114</MagicFace_s>
+
+	<MagicFace_l>114</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>110</ID>
+
+	<Title>豆芽_发烧</Title>
+
+	<MagicFace_s>115</MagicFace_s>
+
+	<MagicFace_l>115</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>111</ID>
+
+	<Title>豆芽_可乐酷</Title>
+
+	<MagicFace_s>116</MagicFace_s>
+
+	<MagicFace_l>116</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>112</ID>
+
+	<Title>豆芽_雷劈</Title>
+
+	<MagicFace_s>117</MagicFace_s>
+
+	<MagicFace_l>117</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>113</ID>
+
+	<Title>豆芽_魅力新造型</Title>
+
+	<MagicFace_s>118</MagicFace_s>
+
+	<MagicFace_l>118</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>114</ID>
+
+	<Title>豆芽_潜水</Title>
+
+	<MagicFace_s>119</MagicFace_s>
+
+	<MagicFace_l>119</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>115</ID>
+
+	<Title>豆芽_心情烦躁</Title>
+
+	<MagicFace_s>120</MagicFace_s>
+
+	<MagicFace_l>120</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>116</ID>
+
+	<Title>豆芽_杂耍高手</Title>
+
+	<MagicFace_s>121</MagicFace_s>
+
+	<MagicFace_l>121</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>117</ID>
+
+	<Title>豆芽_中招</Title>
+
+	<MagicFace_s>122</MagicFace_s>
+
+	<MagicFace_l>122</MagicFace_l>
+
+	<MagicType>2</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>118</ID>
+
+	<Title>鼹鼠_大佬</Title>
+
+	<MagicFace_s>123</MagicFace_s>
+
+	<MagicFace_l>123</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>119</ID>
+
+	<Title>鼹鼠_工作好辛苦</Title>
+
+	<MagicFace_s>124</MagicFace_s>
+
+	<MagicFace_l>124</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>120</ID>
+
+	<Title>鼹鼠_好烦呀</Title>
+
+	<MagicFace_s>125</MagicFace_s>
+
+	<MagicFace_l>125</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>121</ID>
+
+	<Title>鼹鼠_你给偶滚</Title>
+
+	<MagicFace_s>126</MagicFace_s>
+
+	<MagicFace_l>126</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>122</ID>
+
+	<Title>鼹鼠_偶保持沉默</Title>
+
+	<MagicFace_s>127</MagicFace_s>
+
+	<MagicFace_l>127</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>123</ID>
+
+	<Title>鼹鼠_偶恨你</Title>
+
+	<MagicFace_s>128</MagicFace_s>
+
+	<MagicFace_l>128</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>124</ID>
+
+	<Title>鼹鼠_天使诞生</Title>
+
+	<MagicFace_s>129</MagicFace_s>
+
+	<MagicFace_l>129</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>125</ID>
+
+	<Title>鼹鼠_我的爱</Title>
+
+	<MagicFace_s>130</MagicFace_s>
+
+	<MagicFace_l>130</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>126</ID>
+
+	<Title>鼹鼠_一口好牙</Title>
+
+	<MagicFace_s>131</MagicFace_s>
+
+	<MagicFace_l>131</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>127</ID>
+
+	<Title>鼹鼠_雨寒</Title>
+
+	<MagicFace_s>132</MagicFace_s>
+
+	<MagicFace_l>132</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>128</ID>
+
+	<Title>猪头_K歌之王</Title>
+
+	<MagicFace_s>133</MagicFace_s>
+
+	<MagicFace_l>133</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>129</ID>
+
+	<Title>猪头_Love</Title>
+
+	<MagicFace_s>134</MagicFace_s>
+
+	<MagicFace_l>134</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>130</ID>
+
+	<Title>猪头_打呼呼</Title>
+
+	<MagicFace_s>135</MagicFace_s>
+
+	<MagicFace_l>135</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>131</ID>
+
+	<Title>猪头_给你的惊喜</Title>
+
+	<MagicFace_s>136</MagicFace_s>
+
+	<MagicFace_l>136</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>132</ID>
+
+	<Title>猪头_鬼啊</Title>
+
+	<MagicFace_s>137</MagicFace_s>
+
+	<MagicFace_l>137</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>133</ID>
+
+	<Title>猪头_惊吓过度</Title>
+
+	<MagicFace_s>138</MagicFace_s>
+
+	<MagicFace_l>138</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>134</ID>
+
+	<Title>猪头_梨花带雨</Title>
+
+	<MagicFace_s>139</MagicFace_s>
+
+	<MagicFace_l>139</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>135</ID>
+
+	<Title>猪头_我很生气啊</Title>
+
+	<MagicFace_s>140</MagicFace_s>
+
+	<MagicFace_l>140</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>136</ID>
+
+	<Title>猪头_我要开动咯</Title>
+
+	<MagicFace_s>141</MagicFace_s>
+
+	<MagicFace_l>141</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>137</ID>
+
+	<Title>猪头_一封情书</Title>
+
+	<MagicFace_s>142</MagicFace_s>
+
+	<MagicFace_l>142</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>138</ID>
+
+	<Title>大哭</Title>
+
+	<MagicFace_s>143</MagicFace_s>
+
+	<MagicFace_l>143</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>0</tMoney>
+
+	<tTicket>0</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>139</ID>
+
+	<Title>呜呜</Title>
+
+	<MagicFace_s>144</MagicFace_s>
+
+	<MagicFace_l>144</MagicFace_l>
+
+	<MagicType>3</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>0</tMoney>
+
+	<tTicket>0</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>140</ID>
+
+	<Title>愤怒</Title>
+
+	<MagicFace_s>145</MagicFace_s>
+
+	<MagicFace_l>145</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>10</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>141</ID>
+
+	<Title>高兴</Title>
+
+	<MagicFace_s>146</MagicFace_s>
+
+	<MagicFace_l>146</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>10</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>142</ID>
+
+	<Title>害羞</Title>
+
+	<MagicFace_s>147</MagicFace_s>
+
+	<MagicFace_l>147</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>10</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>143</ID>
+
+	<Title>汗</Title>
+
+	<MagicFace_s>148</MagicFace_s>
+
+	<MagicFace_l>148</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>0</tMoney>
+
+	<tTicket>0</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>144</ID>
+
+	<Title>可爱</Title>
+
+	<MagicFace_s>149</MagicFace_s>
+
+	<MagicFace_l>149</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>10</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>145</ID>
+
+	<Title>期待</Title>
+
+	<MagicFace_s>150</MagicFace_s>
+
+	<MagicFace_l>150</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>0</tMoney>
+
+	<tTicket>0</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>146</ID>
+
+	<Title>亲一个</Title>
+
+	<MagicFace_s>151</MagicFace_s>
+
+	<MagicFace_l>151</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>10</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>147</ID>
+
+	<Title>生气</Title>
+
+	<MagicFace_s>152</MagicFace_s>
+
+	<MagicFace_l>152</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>10</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>148</ID>
+
+	<Title>受惊</Title>
+
+	<MagicFace_s>153</MagicFace_s>
+
+	<MagicFace_l>153</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>10</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>149</ID>
+
+	<Title>委屈</Title>
+
+	<MagicFace_s>154</MagicFace_s>
+
+	<MagicFace_l>154</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>10</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>150</ID>
+
+	<Title>啊</Title>
+
+	<MagicFace_s>155</MagicFace_s>
+
+	<MagicFace_l>155</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>10</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>151</ID>
+
+	<Title>感动啊</Title>
+
+	<MagicFace_s>156</MagicFace_s>
+
+	<MagicFace_l>156</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>10</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>152</ID>
+
+	<Title>扮鬼脸</Title>
+
+	<MagicFace_s>157</MagicFace_s>
+
+	<MagicFace_l>157</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>10</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>153</ID>
+
+	<Title>好奇</Title>
+
+	<MagicFace_s>158</MagicFace_s>
+
+	<MagicFace_l>158</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>10</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>154</ID>
+
+	<Title>没兴趣</Title>
+
+	<MagicFace_s>159</MagicFace_s>
+
+	<MagicFace_l>159</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>10</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>155</ID>
+
+	<Title>你好呀</Title>
+
+	<MagicFace_s>160</MagicFace_s>
+
+	<MagicFace_l>160</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>10</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>156</ID>
+
+	<Title>心碎</Title>
+
+	<MagicFace_s>161</MagicFace_s>
+
+	<MagicFace_l>161</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>10</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>157</ID>
+
+	<Title>送别</Title>
+
+	<MagicFace_s>162</MagicFace_s>
+
+	<MagicFace_l>162</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>10</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>158</ID>
+
+	<Title>呜呜</Title>
+
+	<MagicFace_s>163</MagicFace_s>
+
+	<MagicFace_l>163</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>10</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>159</ID>
+
+	<Title>可爱</Title>
+
+	<MagicFace_s>164</MagicFace_s>
+
+	<MagicFace_l>164</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>10</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>160</ID>
+
+	<Title>强</Title>
+
+	<MagicFace_s>165</MagicFace_s>
+
+	<MagicFace_l>165</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>10</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>161</ID>
+
+	<Title>开心每一天</Title>
+
+	<MagicFace_s>166</MagicFace_s>
+
+	<MagicFace_l>166</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>162</ID>
+
+	<Title>等等</Title>
+
+	<MagicFace_s>167</MagicFace_s>
+
+	<MagicFace_l>167</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>163</ID>
+
+	<Title>嘘，安静！</Title>
+
+	<MagicFace_s>168</MagicFace_s>
+
+	<MagicFace_l>168</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>164</ID>
+
+	<Title>思考ing</Title>
+
+	<MagicFace_s>169</MagicFace_s>
+
+	<MagicFace_l>169</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>165</ID>
+
+	<Title>烦死了烦死了</Title>
+
+	<MagicFace_s>170</MagicFace_s>
+
+	<MagicFace_l>170</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>166</ID>
+
+	<Title>干嘛？</Title>
+
+	<MagicFace_s>171</MagicFace_s>
+
+	<MagicFace_l>171</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>167</ID>
+
+	<Title>快干活！</Title>
+
+	<MagicFace_s>172</MagicFace_s>
+
+	<MagicFace_l>172</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>0</tMoney>
+
+	<tTicket>0</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>168</ID>
+
+	<Title>困惑</Title>
+
+	<MagicFace_s>173</MagicFace_s>
+
+	<MagicFace_l>173</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>0</tMoney>
+
+	<tTicket>0</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>169</ID>
+
+	<Title>流泪</Title>
+
+	<MagicFace_s>174</MagicFace_s>
+
+	<MagicFace_l>174</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>0</tMoney>
+
+	<tTicket>0</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>170</ID>
+
+	<Title>砰砰</Title>
+
+	<MagicFace_s>175</MagicFace_s>
+
+	<MagicFace_l>175</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>0</tMoney>
+
+	<tTicket>0</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>171</ID>
+
+	<Title>潜水ing</Title>
+
+	<MagicFace_s>176</MagicFace_s>
+
+	<MagicFace_l>176</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>172</ID>
+
+	<Title>摔倒了</Title>
+
+	<MagicFace_s>177</MagicFace_s>
+
+	<MagicFace_l>177</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>173</ID>
+
+	<Title>开枪</Title>
+
+	<MagicFace_s>178</MagicFace_s>
+
+	<MagicFace_l>178</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>174</ID>
+
+	<Title>烧焦了</Title>
+
+	<MagicFace_s>179</MagicFace_s>
+
+	<MagicFace_l>179</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>175</ID>
+
+	<Title>抗议</Title>
+
+	<MagicFace_s>180</MagicFace_s>
+
+	<MagicFace_l>180</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>176</ID>
+
+	<Title>心碎</Title>
+
+	<MagicFace_s>181</MagicFace_s>
+
+	<MagicFace_l>181</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>177</ID>
+
+	<Title>天天想着你</Title>
+
+	<MagicFace_s>182</MagicFace_s>
+
+	<MagicFace_l>182</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>178</ID>
+
+	<Title>不想活了？</Title>
+
+	<MagicFace_s>183</MagicFace_s>
+
+	<MagicFace_l>183</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>179</ID>
+
+	<Title>哎呀</Title>
+
+	<MagicFace_s>184</MagicFace_s>
+
+	<MagicFace_l>184</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>180</ID>
+
+	<Title>哼</Title>
+
+	<MagicFace_s>185</MagicFace_s>
+
+	<MagicFace_l>185</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>181</ID>
+
+	<Title>病了</Title>
+
+	<MagicFace_s>186</MagicFace_s>
+
+	<MagicFace_l>186</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>182</ID>
+
+	<Title>偶最cool</Title>
+
+	<MagicFace_s>187</MagicFace_s>
+
+	<MagicFace_l>187</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>183</ID>
+
+	<Title>送花给你</Title>
+
+	<MagicFace_s>188</MagicFace_s>
+
+	<MagicFace_l>188</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>184</ID>
+
+	<Title>海盗</Title>
+
+	<MagicFace_s>189</MagicFace_s>
+
+	<MagicFace_l>189</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>185</ID>
+
+	<Title>奋斗</Title>
+
+	<MagicFace_s>190</MagicFace_s>
+
+	<MagicFace_l>190</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>186</ID>
+
+	<Title>闭嘴</Title>
+
+	<MagicFace_s>191</MagicFace_s>
+
+	<MagicFace_l>191</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>187</ID>
+
+	<Title>表白</Title>
+
+	<MagicFace_s>192</MagicFace_s>
+
+	<MagicFace_l>192</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>188</ID>
+
+	<Title>吹泡泡</Title>
+
+	<MagicFace_s>193</MagicFace_s>
+
+	<MagicFace_l>193</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>189</ID>
+
+	<Title>钱</Title>
+
+	<MagicFace_s>194</MagicFace_s>
+
+	<MagicFace_l>194</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>190</ID>
+
+	<Title>受错折</Title>
+
+	<MagicFace_s>195</MagicFace_s>
+
+	<MagicFace_l>195</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>191</ID>
+
+	<Title>吐</Title>
+
+	<MagicFace_s>196</MagicFace_s>
+
+	<MagicFace_l>196</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>192</ID>
+
+	<Title>我哭！！</Title>
+
+	<MagicFace_s>197</MagicFace_s>
+
+	<MagicFace_l>197</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>193</ID>
+
+	<Title>我最棒</Title>
+
+	<MagicFace_s>198</MagicFace_s>
+
+	<MagicFace_l>198</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>194</ID>
+
+	<Title>散花</Title>
+
+	<MagicFace_s>199</MagicFace_s>
+
+	<MagicFace_l>199</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>195</ID>
+
+	<Title>真心真意</Title>
+
+	<MagicFace_s>200</MagicFace_s>
+
+	<MagicFace_l>200</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>196</ID>
+
+	<Title>阿弥陀佛</Title>
+
+	<MagicFace_s>201</MagicFace_s>
+
+	<MagicFace_l>201</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>197</ID>
+
+	<Title>好想你</Title>
+
+	<MagicFace_s>202</MagicFace_s>
+
+	<MagicFace_l>202</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>198</ID>
+
+	<Title>灵机一动</Title>
+
+	<MagicFace_s>203</MagicFace_s>
+
+	<MagicFace_l>203</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>199</ID>
+
+	<Title>气死我咧</Title>
+
+	<MagicFace_s>204</MagicFace_s>
+
+	<MagicFace_l>204</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>200</ID>
+
+	<Title>少林无影脚</Title>
+
+	<MagicFace_s>205</MagicFace_s>
+
+	<MagicFace_l>205</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>201</ID>
+
+	<Title>唐僧再世</Title>
+
+	<MagicFace_s>206</MagicFace_s>
+
+	<MagicFace_l>206</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>202</ID>
+
+	<Title>我撑不住了</Title>
+
+	<MagicFace_s>207</MagicFace_s>
+
+	<MagicFace_l>207</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>203</ID>
+
+	<Title>我晕</Title>
+
+	<MagicFace_s>208</MagicFace_s>
+
+	<MagicFace_l>208</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>204</ID>
+
+	<Title>笑一笑</Title>
+
+	<MagicFace_s>209</MagicFace_s>
+
+	<MagicFace_l>209</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>205</ID>
+
+	<Title>聪明</Title>
+
+	<MagicFace_s>210</MagicFace_s>
+
+	<MagicFace_l>210</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>206</ID>
+
+	<Title>金钱</Title>
+
+	<MagicFace_s>211</MagicFace_s>
+
+	<MagicFace_l>211</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>207</ID>
+
+	<Title>呕吐</Title>
+
+	<MagicFace_s>212</MagicFace_s>
+
+	<MagicFace_l>212</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>208</ID>
+
+	<Title>甜心</Title>
+
+	<MagicFace_s>213</MagicFace_s>
+
+	<MagicFace_l>213</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>209</ID>
+
+	<Title>心碎了</Title>
+
+	<MagicFace_s>214</MagicFace_s>
+
+	<MagicFace_l>214</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>210</ID>
+
+	<Title>暂停一下</Title>
+
+	<MagicFace_s>215</MagicFace_s>
+
+	<MagicFace_l>215</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>211</ID>
+
+	<Title>真的吗？</Title>
+
+	<MagicFace_s>216</MagicFace_s>
+
+	<MagicFace_l>216</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>212</ID>
+
+	<Title>猪头</Title>
+
+	<MagicFace_s>217</MagicFace_s>
+
+	<MagicFace_l>217</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>213</ID>
+
+	<Title>嘿嘿</Title>
+
+	<MagicFace_s>218</MagicFace_s>
+
+	<MagicFace_l>218</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>214</ID>
+
+	<Title>期待</Title>
+
+	<MagicFace_s>219</MagicFace_s>
+
+	<MagicFace_l>219</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>215</ID>
+
+	<Title>再见</Title>
+
+	<MagicFace_s>220</MagicFace_s>
+
+	<MagicFace_l>220</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>216</ID>
+
+	<Title>打架</Title>
+
+	<MagicFace_s>221</MagicFace_s>
+
+	<MagicFace_l>221</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>217</ID>
+
+	<Title>暗示</Title>
+
+	<MagicFace_s>222</MagicFace_s>
+
+	<MagicFace_l>222</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>218</ID>
+
+	<Title>别开玩笑</Title>
+
+	<MagicFace_s>223</MagicFace_s>
+
+	<MagicFace_l>223</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>219</ID>
+
+	<Title>哈哈</Title>
+
+	<MagicFace_s>224</MagicFace_s>
+
+	<MagicFace_l>224</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>220</ID>
+
+	<Title>好冷</Title>
+
+	<MagicFace_s>225</MagicFace_s>
+
+	<MagicFace_l>225</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>221</ID>
+
+	<Title>汗！</Title>
+
+	<MagicFace_s>226</MagicFace_s>
+
+	<MagicFace_l>226</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>222</ID>
+
+	<Title>祈祷</Title>
+
+	<MagicFace_s>227</MagicFace_s>
+
+	<MagicFace_l>227</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>223</ID>
+
+	<Title>弱</Title>
+
+	<MagicFace_s>228</MagicFace_s>
+
+	<MagicFace_l>228</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>224</ID>
+
+	<Title>随便你</Title>
+
+	<MagicFace_s>229</MagicFace_s>
+
+	<MagicFace_l>229</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>225</ID>
+
+	<Title>淘气</Title>
+
+	<MagicFace_s>230</MagicFace_s>
+
+	<MagicFace_l>230</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>226</ID>
+
+	<Title>微笑</Title>
+
+	<MagicFace_s>231</MagicFace_s>
+
+	<MagicFace_l>231</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>227</ID>
+
+	<Title>愤怒</Title>
+
+	<MagicFace_s>232</MagicFace_s>
+
+	<MagicFace_l>232</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>228</ID>
+
+	<Title>会议中</Title>
+
+	<MagicFace_s>233</MagicFace_s>
+
+	<MagicFace_l>233</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>229</ID>
+
+	<Title>呸呸</Title>
+
+	<MagicFace_s>234</MagicFace_s>
+
+	<MagicFace_l>234</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>230</ID>
+
+	<Title>爱的讯息</Title>
+
+	<MagicFace_s>235</MagicFace_s>
+
+	<MagicFace_l>235</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>231</ID>
+
+	<Title>偶认输</Title>
+
+	<MagicFace_s>236</MagicFace_s>
+
+	<MagicFace_l>236</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>232</ID>
+
+	<Title>我闪</Title>
+
+	<MagicFace_s>237</MagicFace_s>
+
+	<MagicFace_l>237</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>233</ID>
+
+	<Title>笑死人了</Title>
+
+	<MagicFace_s>238</MagicFace_s>
+
+	<MagicFace_l>238</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>234</ID>
+
+	<Title>别给我卖乖</Title>
+
+	<MagicFace_s>239</MagicFace_s>
+
+	<MagicFace_l>239</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>235</ID>
+
+	<Title>出糗了</Title>
+
+	<MagicFace_s>240</MagicFace_s>
+
+	<MagicFace_l>240</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>236</ID>
+
+	<Title>忍之真谛</Title>
+
+	<MagicFace_s>241</MagicFace_s>
+
+	<MagicFace_l>241</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>237</ID>
+
+	<Title>倒</Title>
+
+	<MagicFace_s>242</MagicFace_s>
+
+	<MagicFace_l>242</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>238</ID>
+
+	<Title>我砍我砍</Title>
+
+	<MagicFace_s>243</MagicFace_s>
+
+	<MagicFace_l>243</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>239</ID>
+
+	<Title>别逼我</Title>
+
+	<MagicFace_s>244</MagicFace_s>
+
+	<MagicFace_l>244</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>240</ID>
+
+	<Title>嫁给我吧</Title>
+
+	<MagicFace_s>245</MagicFace_s>
+
+	<MagicFace_l>245</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>241</ID>
+
+	<Title>开心点啦</Title>
+
+	<MagicFace_s>246</MagicFace_s>
+
+	<MagicFace_l>246</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>242</ID>
+
+	<Title>气死你</Title>
+
+	<MagicFace_s>247</MagicFace_s>
+
+	<MagicFace_l>247</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>243</ID>
+
+	<Title>帅吧</Title>
+
+	<MagicFace_s>248</MagicFace_s>
+
+	<MagicFace_l>248</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>244</ID>
+
+	<Title>原谅我吧</Title>
+
+	<MagicFace_s>249</MagicFace_s>
+
+	<MagicFace_l>249</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>245</ID>
+
+	<Title>醒醒</Title>
+
+	<MagicFace_s>250</MagicFace_s>
+
+	<MagicFace_l>250</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>246</ID>
+
+	<Title>别惹我哦</Title>
+
+	<MagicFace_s>251</MagicFace_s>
+
+	<MagicFace_l>251</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>247</ID>
+
+	<Title>感冒了</Title>
+
+	<MagicFace_s>252</MagicFace_s>
+
+	<MagicFace_l>252</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>248</ID>
+
+	<Title>孤独</Title>
+
+	<MagicFace_s>253</MagicFace_s>
+
+	<MagicFace_l>253</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>249</ID>
+
+	<Title>燃烧吧我的小宇宙</Title>
+
+	<MagicFace_s>254</MagicFace_s>
+
+	<MagicFace_l>254</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>250</ID>
+
+	<Title>我爱你</Title>
+
+	<MagicFace_s>255</MagicFace_s>
+
+	<MagicFace_l>255</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>251</ID>
+
+	<Title>我不行了</Title>
+
+	<MagicFace_s>256</MagicFace_s>
+
+	<MagicFace_l>256</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>252</ID>
+
+	<Title>吓死我了</Title>
+
+	<MagicFace_s>257</MagicFace_s>
+
+	<MagicFace_l>257</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>253</ID>
+
+	<Title>中招啦</Title>
+
+	<MagicFace_s>258</MagicFace_s>
+
+	<MagicFace_l>258</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>254</ID>
+
+	<Title>886</Title>
+
+	<MagicFace_s>259</MagicFace_s>
+
+	<MagicFace_l>259</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>255</ID>
+
+	<Title>NO</Title>
+
+	<MagicFace_s>260</MagicFace_s>
+
+	<MagicFace_l>260</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>256</ID>
+
+	<Title>love</Title>
+
+	<MagicFace_s>261</MagicFace_s>
+
+	<MagicFace_l>261</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>257</ID>
+
+	<Title>纯粹意外</Title>
+
+	<MagicFace_s>262</MagicFace_s>
+
+	<MagicFace_l>262</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>258</ID>
+
+	<Title>对不起</Title>
+
+	<MagicFace_s>263</MagicFace_s>
+
+	<MagicFace_l>263</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>259</ID>
+
+	<Title>烦死人咯</Title>
+
+	<MagicFace_s>264</MagicFace_s>
+
+	<MagicFace_l>264</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>260</ID>
+
+	<Title>呼啦圈呦转呀转</Title>
+
+	<MagicFace_s>265</MagicFace_s>
+
+	<MagicFace_l>265</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>261</ID>
+
+	<Title>怒</Title>
+
+	<MagicFace_s>266</MagicFace_s>
+
+	<MagicFace_l>266</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>262</ID>
+
+	<Title>糗糗你</Title>
+
+	<MagicFace_s>267</MagicFace_s>
+
+	<MagicFace_l>267</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>263</ID>
+
+	<Title>我很丑可我很温柔</Title>
+
+	<MagicFace_s>268</MagicFace_s>
+
+	<MagicFace_l>268</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>264</ID>
+
+	<Title>COME ON</Title>
+
+	<MagicFace_s>269</MagicFace_s>
+
+	<MagicFace_l>269</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>265</ID>
+
+	<Title>啊~凉快</Title>
+
+	<MagicFace_s>270</MagicFace_s>
+
+	<MagicFace_l>270</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>266</ID>
+
+	<Title>hi</Title>
+
+	<MagicFace_s>271</MagicFace_s>
+
+	<MagicFace_l>271</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>267</ID>
+
+	<Title>寒</Title>
+
+	<MagicFace_s>272</MagicFace_s>
+
+	<MagicFace_l>272</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>268</ID>
+
+	<Title>你好</Title>
+
+	<MagicFace_s>273</MagicFace_s>
+
+	<MagicFace_l>273</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>269</ID>
+
+	<Title>送给你</Title>
+
+	<MagicFace_s>274</MagicFace_s>
+
+	<MagicFace_l>274</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>270</ID>
+
+	<Title>草裙舞</Title>
+
+	<MagicFace_s>275</MagicFace_s>
+
+	<MagicFace_l>275</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>271</ID>
+
+	<Title>打你</Title>
+
+	<MagicFace_s>276</MagicFace_s>
+
+	<MagicFace_l>276</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>272</ID>
+
+	<Title>乘风来寻你</Title>
+
+	<MagicFace_s>278</MagicFace_s>
+
+	<MagicFace_l>278</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>273</ID>
+
+	<Title>18禁</Title>
+
+	<MagicFace_s>279</MagicFace_s>
+
+	<MagicFace_l>279</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>274</ID>
+
+	<Title>宝贝亲一个</Title>
+
+	<MagicFace_s>280</MagicFace_s>
+
+	<MagicFace_l>280</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>275</ID>
+
+	<Title>顽皮的笑</Title>
+
+	<MagicFace_s>281</MagicFace_s>
+
+	<MagicFace_l>281</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>276</ID>
+
+	<Title>你是猪</Title>
+
+	<MagicFace_s>282</MagicFace_s>
+
+	<MagicFace_l>282</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>277</ID>
+
+	<Title>天使</Title>
+
+	<MagicFace_s>283</MagicFace_s>
+
+	<MagicFace_l>283</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>278</ID>
+
+	<Title>表白心意</Title>
+
+	<MagicFace_s>284</MagicFace_s>
+
+	<MagicFace_l>284</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>279</ID>
+
+	<Title>拿我怎样</Title>
+
+	<MagicFace_s>285</MagicFace_s>
+
+	<MagicFace_l>285</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>280</ID>
+
+	<Title>我中爱神之箭啦</Title>
+
+	<MagicFace_s>286</MagicFace_s>
+
+	<MagicFace_l>286</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>281</ID>
+
+	<Title>奸笑</Title>
+
+	<MagicFace_s>289</MagicFace_s>
+
+	<MagicFace_l>289</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>282</ID>
+
+	<Title>努力</Title>
+
+	<MagicFace_s>290</MagicFace_s>
+
+	<MagicFace_l>290</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>283</ID>
+
+	<Title>偷笑</Title>
+
+	<MagicFace_s>291</MagicFace_s>
+
+	<MagicFace_l>291</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>284</ID>
+
+	<Title>小魔鬼</Title>
+
+	<MagicFace_s>292</MagicFace_s>
+
+	<MagicFace_l>292</MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>285</ID>
+
+	<Title>我倒</Title>
+
+	<MagicFace_s>293</MagicFace_s>
+
+	<MagicFace_l>293</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>286</ID>
+
+	<Title>享受一下</Title>
+
+	<MagicFace_s>294</MagicFace_s>
+
+	<MagicFace_l>294</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>287</ID>
+
+	<Title>做鬼脸(</Title>
+
+	<MagicFace_s>295</MagicFace_s>
+
+	<MagicFace_l>295</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>288</ID>
+
+	<Title>拜托</Title>
+
+	<MagicFace_s>296</MagicFace_s>
+
+	<MagicFace_l>296</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>289</ID>
+
+	<Title>不理你</Title>
+
+	<MagicFace_s>297</MagicFace_s>
+
+	<MagicFace_l>297</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>290</ID>
+
+	<Title>愤怒</Title>
+
+	<MagicFace_s>298</MagicFace_s>
+
+	<MagicFace_l>298</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>291</ID>
+
+	<Title>可爱</Title>
+
+	<MagicFace_s>299</MagicFace_s>
+
+	<MagicFace_l>299</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>292</ID>
+
+	<Title>啦啦啦～～</Title>
+
+	<MagicFace_s>300</MagicFace_s>
+
+	<MagicFace_l>300</MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>293</ID>
+
+	<Title>NO！</Title>
+
+	<MagicFace_s>301</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>294</ID>
+
+	<Title>超人～</Title>
+
+	<MagicFace_s>302</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>295</ID>
+
+	<Title>散花</Title>
+
+	<MagicFace_s>303</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>296</ID>
+
+	<Title>生气</Title>
+
+	<MagicFace_s>304</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>297</ID>
+
+	<Title>心碎了</Title>
+
+	<MagicFace_s>305</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>298</ID>
+
+	<Title>晕</Title>
+
+	<MagicFace_s>306</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>299</ID>
+
+	<Title>咒骂</Title>
+
+	<MagicFace_s>307</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>300</ID>
+
+	<Title>Byebye</Title>
+
+	<MagicFace_s>308</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>301</ID>
+
+	<Title>生日快乐</Title>
+
+	<MagicFace_s>309</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>302</ID>
+
+	<Title>偷吃</Title>
+
+	<MagicFace_s>310</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>303</ID>
+
+	<Title>上当了</Title>
+
+	<MagicFace_s>311</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>304</ID>
+
+	<Title>顽皮</Title>
+
+	<MagicFace_s>312</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>305</ID>
+
+	<Title>被骗了</Title>
+
+	<MagicFace_s>313</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>4</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>306</ID>
+
+	<Title>很生气喔</Title>
+
+	<MagicFace_s>315</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>1</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>307</ID>
+
+	<Title>画像</Title>
+
+	<MagicFace_s>316</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>308</ID>
+
+	<Title>埋头苦读</Title>
+
+	<MagicFace_s>317</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>309</ID>
+
+	<Title>说出心里话</Title>
+
+	<MagicFace_s>318</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>310</ID>
+
+	<Title>THANK YOU</Title>
+
+	<MagicFace_s>319</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>311</ID>
+
+	<Title>啊！</Title>
+
+	<MagicFace_s>320</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>312</ID>
+
+	<Title>鞭死你</Title>
+
+	<MagicFace_s>321</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>313</ID>
+
+	<Title>谗</Title>
+
+	<MagicFace_s>322</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>314</ID>
+
+	<Title>出丑</Title>
+
+	<MagicFace_s>323</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>315</ID>
+
+	<Title>圣诞袜—被陷害</Title>
+
+	<MagicFace_s>324</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>4</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>316</ID>
+
+	<Title>圣诞袜—吃多了</Title>
+
+	<MagicFace_s>325</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>4</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>317</ID>
+
+	<Title>圣诞袜—怎么回事呀？</Title>
+
+	<MagicFace_s>326</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>4</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>318</ID>
+
+	<Title>想死啊！</Title>
+
+	<MagicFace_s>327</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>0</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>319</ID>
+
+	<Title>雪人—和我一起过圣诞吧！</Title>
+
+	<MagicFace_s>328</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>4</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+<RECORD>
+	<ID>320</ID>
+
+	<Title>雪人—收到最好的礼物</Title>
+
+	<MagicFace_s>329</MagicFace_s>
+
+	<MagicFace_l></MagicFace_l>
+
+	<MagicType>4</MagicType>
+
+	<iMoney>1000</iMoney>
+
+	<iTicket>100</iTicket>
+
+	<tMoney>100</tMoney>
+
+	<tTicket>10</tTicket>
+
+	<MagicSetting>10|100|20|10|0</MagicSetting>
+
+</RECORD>
+</RECORDS>

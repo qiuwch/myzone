@@ -1,0 +1,597 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<UserGroupID>1</UserGroupID>
+
+	<title>管理员</title>
+
+	<usertitle>管理员</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,4000,100,1,1,1,1,50,1,1,1,20000,1,50,5,1,1,100,1,0,0,1,1,0,1,&lt;b&gt;&lt;font color=&quot;#FF0000&quot;&gt;§&lt;/font&gt;&lt;/b&gt;,1,0,1,0,100,0,1,50,3,0,1,1,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>1</Orders>
+
+	<GroupPic>level10.gif</GroupPic>
+
+	<ParentGID>1</ParentGID>
+
+	<TitlePic>ao1.gif</TitlePic>
+
+	<MinArticle>-1</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>2</UserGroupID>
+
+	<title>超级版主</title>
+
+	<usertitle>超级版主</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,3000,100,1,1,1,1,30,1,0,1,6000,1,50,5,1,1,100,1,0,0,1,0,0,1,&lt;font color=#DA2549 face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,0,0,0,1,30,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>2</Orders>
+
+	<GroupPic>level10.gif</GroupPic>
+
+	<ParentGID>1</ParentGID>
+
+	<TitlePic>ao.gif</TitlePic>
+
+	<MinArticle>-1</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>3</UserGroupID>
+
+	<title>版主</title>
+
+	<usertitle>版主</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,0,1,5,2000,100,1,1,0,1,10,1,0,1,6000,1,50,5,1,1,100,1,0,0,0,1,0,1,&lt;font color=#DA2549 face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,0,0,0,1,10,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>3</Orders>
+
+	<GroupPic>level10.gif</GroupPic>
+
+	<ParentGID>1</ParentGID>
+
+	<TitlePic>ao.gif</TitlePic>
+
+	<MinArticle>-1</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>5</UserGroupID>
+
+	<title>等待验证的(COPPA)会员</title>
+
+	<usertitle>COPPA</usertitle>
+
+	<GroupSetting>1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,300,100,0,0,0,0,3,0,0,0,6000,0,50,5,0,0,0,0,0,0,0,0,0,0,§,0,0,0,0,0,0,0,0,0,0,0,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level0.gif</GroupPic>
+
+	<ParentGID>1</ParentGID>
+
+	<TitlePic></TitlePic>
+
+	<MinArticle>-1</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>6</UserGroupID>
+
+	<title>等待邮件验证的会员</title>
+
+	<usertitle>等待验证</usertitle>
+
+	<GroupSetting>1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,300,100,0,0,0,0,3,0,0,0,6000,0,50,5,0,0,0,0,0,0,0,0,0,0,§,0,0,0,0,0,0,0,0,0,0,0,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level0.gif</GroupPic>
+
+	<ParentGID>1</ParentGID>
+
+	<TitlePic></TitlePic>
+
+	<MinArticle>-1</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>7</UserGroupID>
+
+	<title>未注册/未登录用户</title>
+
+	<usertitle>客人</usertitle>
+
+	<GroupSetting>1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,300,100,0,0,0,0,3,0,0,0,100,0,50,5,0,0,0,0,0,0,0,0,0,0,§,0,0,0,0,0,0,0,0,0,0,0,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>7</Orders>
+
+	<GroupPic>level0.gif</GroupPic>
+
+	<ParentGID>1</ParentGID>
+
+	<TitlePic>messages2.gif</TitlePic>
+
+	<MinArticle>-1</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>8</UserGroupID>
+
+	<title>贵宾</title>
+
+	<usertitle>贵宾</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,1000,100,0,1,0,1,30,1,0,0,6000,0,50,5,0,1,100,0,0,0,0,1,0,1,&lt;font color=#DA2549 face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,0,0,1,0,30,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>4</Orders>
+
+	<GroupPic>level10.gif</GroupPic>
+
+	<ParentGID>2</ParentGID>
+
+	<TitlePic>gb(1).gif</TitlePic>
+
+	<MinArticle>-1</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>9</UserGroupID>
+
+	<title>注册用户</title>
+
+	<usertitle>侠圣</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,10,1,0,0,6000,0,50,5,0,1,50,0,0,0,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,5,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level10.gif</GroupPic>
+
+	<ParentGID>3</ParentGID>
+
+	<TitlePic>messages1.gif</TitlePic>
+
+	<MinArticle>4000</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>10</UserGroupID>
+
+	<title>注册用户</title>
+
+	<usertitle>阿诺</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,10,1,0,0,6000,0,50,5,0,1,50,0,0,0,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,5,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level10.gif</GroupPic>
+
+	<ParentGID>3</ParentGID>
+
+	<TitlePic>messages1.gif</TitlePic>
+
+	<MinArticle>3500</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>11</UserGroupID>
+
+	<title>注册用户</title>
+
+	<usertitle>罗宾汉</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,10,1,0,0,6000,0,50,5,0,1,50,0,0,0,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,5,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level10.gif</GroupPic>
+
+	<ParentGID>3</ParentGID>
+
+	<TitlePic>messages1.gif</TitlePic>
+
+	<MinArticle>3000</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>12</UserGroupID>
+
+	<title>注册用户</title>
+
+	<usertitle>城市猎人</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,10,1,0,0,6000,0,50,5,0,1,50,0,0,0,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,5,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level10.gif</GroupPic>
+
+	<ParentGID>3</ParentGID>
+
+	<TitlePic>messages1.gif</TitlePic>
+
+	<MinArticle>2500</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>13</UserGroupID>
+
+	<title>注册用户</title>
+
+	<usertitle>蒙面侠</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,10,1,0,0,6000,0,50,5,0,1,50,0,0,0,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,5,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level10.gif</GroupPic>
+
+	<ParentGID>3</ParentGID>
+
+	<TitlePic>messages1.gif</TitlePic>
+
+	<MinArticle>2100</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>14</UserGroupID>
+
+	<title>注册用户</title>
+
+	<usertitle>火箭侠</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,10,1,0,0,6000,0,50,5,0,1,50,0,0,0,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,5,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level10.gif</GroupPic>
+
+	<ParentGID>3</ParentGID>
+
+	<TitlePic>messages1.gif</TitlePic>
+
+	<MinArticle>1800</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>15</UserGroupID>
+
+	<title>注册用户</title>
+
+	<usertitle>小飞侠</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,10,1,0,0,6000,0,50,5,0,1,50,0,0,0,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,5,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level10.gif</GroupPic>
+
+	<ParentGID>3</ParentGID>
+
+	<TitlePic>messages1.gif</TitlePic>
+
+	<MinArticle>1500</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>16</UserGroupID>
+
+	<title>注册用户</title>
+
+	<usertitle>青蜂侠</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,10,1,0,0,6000,0,50,0,0,1,50,0,0,0,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,5,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level9.gif</GroupPic>
+
+	<ParentGID>3</ParentGID>
+
+	<TitlePic>messages1.gif</TitlePic>
+
+	<MinArticle>1200</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>17</UserGroupID>
+
+	<title>注册用户</title>
+
+	<usertitle>蜘蛛侠</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,10,1,0,0,6000,0,50,5,0,1,50,0,0,0,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,5,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level8.gif</GroupPic>
+
+	<ParentGID>3</ParentGID>
+
+	<TitlePic>messages1.gif</TitlePic>
+
+	<MinArticle>1000</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>18</UserGroupID>
+
+	<title>注册用户</title>
+
+	<usertitle>蝙蝠侠</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,10,1,0,0,6000,0,50,0,0,1,50,0,0,0,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,5,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level7.gif</GroupPic>
+
+	<ParentGID>3</ParentGID>
+
+	<TitlePic>messages1.gif</TitlePic>
+
+	<MinArticle>800</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>19</UserGroupID>
+
+	<title>注册用户</title>
+
+	<usertitle>黑侠</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,10,1,0,0,6000,0,50,5,0,1,50,0,0,0,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,5,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level6.gif</GroupPic>
+
+	<ParentGID>3</ParentGID>
+
+	<TitlePic>messages1.gif</TitlePic>
+
+	<MinArticle>600</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>20</UserGroupID>
+
+	<title>注册用户</title>
+
+	<usertitle>侠之大者</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,10,1,0,0,6000,0,50,0,0,1,50,0,0,0,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,5,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level5.gif</GroupPic>
+
+	<ParentGID>3</ParentGID>
+
+	<TitlePic>messages1.gif</TitlePic>
+
+	<MinArticle>500</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>21</UserGroupID>
+
+	<title>注册用户</title>
+
+	<usertitle>职业侠客</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,10,1,0,0,6000,0,50,0,0,1,50,0,0,0,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,5,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level4.gif</GroupPic>
+
+	<ParentGID>3</ParentGID>
+
+	<TitlePic>messages1.gif</TitlePic>
+
+	<MinArticle>400</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>22</UserGroupID>
+
+	<title>注册用户</title>
+
+	<usertitle>业余侠客</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,10,1,0,0,6000,0,50,0,0,1,50,0,0,0,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,5,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level3.gif</GroupPic>
+
+	<ParentGID>3</ParentGID>
+
+	<TitlePic>messages1.gif</TitlePic>
+
+	<MinArticle>300</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>23</UserGroupID>
+
+	<title>注册用户</title>
+
+	<usertitle>论坛游侠</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,10,1,0,0,6000,0,50,0,0,1,50,0,0,0,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,5,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level2.gif</GroupPic>
+
+	<ParentGID>3</ParentGID>
+
+	<TitlePic>messages1.gif</TitlePic>
+
+	<MinArticle>200</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>24</UserGroupID>
+
+	<title>注册用户</title>
+
+	<usertitle>论坛游民</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,10,1,0,0,6000,0,50,0,0,1,50,0,0,0,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,5,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level1.gif</GroupPic>
+
+	<ParentGID>3</ParentGID>
+
+	<TitlePic>messages1.gif</TitlePic>
+
+	<MinArticle>10</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>25</UserGroupID>
+
+	<title>注册用户</title>
+
+	<usertitle>新手上路</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,10,1,0,0,6000,0,50,0,0,1,50,0,0,0,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,5,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level0.gif</GroupPic>
+
+	<ParentGID>3</ParentGID>
+
+	<TitlePic>messages1.gif</TitlePic>
+
+	<MinArticle>0</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>26</UserGroupID>
+
+	<title>注册用户</title>
+
+	<usertitle>五中同学</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,2,1,0,0,100,0,50,5,0,1,5,0,20,20,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,0,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level0.gif</GroupPic>
+
+	<ParentGID>2</ParentGID>
+
+	<TitlePic>messages1.gif</TitlePic>
+
+	<MinArticle>-1</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>27</UserGroupID>
+
+	<title>元老</title>
+
+	<usertitle>元老</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,10,1,0,0,6000,0,50,5,0,1,100,0,0,20,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,5,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>0</Orders>
+
+	<GroupPic>level9.gif</GroupPic>
+
+	<ParentGID>2</ParentGID>
+
+	<TitlePic></TitlePic>
+
+	<MinArticle>-1</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+<RECORD>
+	<UserGroupID>4</UserGroupID>
+
+	<title>注册用户</title>
+
+	<usertitle>注册用户</usertitle>
+
+	<GroupSetting>1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1000,100,0,0,0,1,10,1,0,0,1000,0,50,0,0,1,50,0,0,20,0,1,0,1,&lt;font color=&quot;#61B713&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;§&lt;/b&gt;&lt;/font&gt;,1,0,1,200,200,0,0,5,3,0,1,0,0§0§0§0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</GroupSetting>
+
+	<Orders>6</Orders>
+
+	<GroupPic>level0.gif</GroupPic>
+
+	<ParentGID>0</ParentGID>
+
+	<TitlePic>messages1.gif</TitlePic>
+
+	<MinArticle>-1</MinArticle>
+
+	<IsSetting></IsSetting>
+
+</RECORD>
+</RECORDS>

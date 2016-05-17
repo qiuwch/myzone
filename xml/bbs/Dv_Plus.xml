@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<ID>2</ID>
+
+	<Plus_Type>0</Plus_Type>
+
+	<Plus_Name>银行</Plus_Name>
+
+	<Isuse>1</Isuse>
+
+	<Plus_Setting>0|0|0|||0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0|||设置字段1,设置字段2,设置字段3,设置字段4,设置字段5,设置字段6,设置字段7,设置字段8,设置字段9,设置字段10,设置字段11,设置字段12,设置字段13,设置字段14,设置字段15,设置字段16,设置字段17,设置字段18,设置字段19|||0,0|24,1@2@3@4@5@6@7@8,,0,0,0,0,0,0,0,0,0,</Plus_Setting>
+
+	<Mainpage>plus_bank.asp</Mainpage>
+
+	<IsShowMenu>1</IsShowMenu>
+
+	<plus_Copyright>银行服务</plus_Copyright>
+
+	<plus_adminpage></plus_adminpage>
+
+	<plus_id>jy_bank</plus_id>
+
+</RECORD>
+<RECORD>
+	<ID>3</ID>
+
+	<Plus_Type>0</Plus_Type>
+
+	<Plus_Name>私彩中心</Plus_Name>
+
+	<Isuse>1</Isuse>
+
+	<Plus_Setting>0|0|0|||0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0|||设置字段1,设置字段2,设置字段3,设置字段4,设置字段5,设置字段6,设置字段7,设置字段8,设置字段9,设置字段10,设置字段11,设置字段12,设置字段13,设置字段14,设置字段15,设置字段16,设置字段17,设置字段18,设置字段19|||0,0|24,1@2@3@4@5@6@7@8,,0,0,0,0,0,0,0,0,0,</Plus_Setting>
+
+	<Mainpage>b_bet.asp</Mainpage>
+
+	<IsShowMenu>1</IsShowMenu>
+
+	<plus_Copyright></plus_Copyright>
+
+	<plus_adminpage>b_betadmin.asp</plus_adminpage>
+
+	<plus_id>b_bet</plus_id>
+
+</RECORD>
+<RECORD>
+	<ID>1</ID>
+
+	<Plus_Type>0</Plus_Type>
+
+	<Plus_Name>宠物中心</Plus_Name>
+
+	<Isuse>1</Isuse>
+
+	<Plus_Setting>0|0|0|||0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0|||设置字段1,设置字段2,设置字段3,设置字段4,设置字段5,设置字段6,设置字段7,设置字段8,设置字段9,设置字段10,设置字段11,设置字段12,设置字段13,设置字段14,设置字段15,设置字段16,设置字段17,设置字段18,设置字段19|||0,0|24,1@2@3@4@5@6@7@8,,0,0,0,0,0,0,0,0,0,</Plus_Setting>
+
+	<Mainpage>petcenter.asp</Mainpage>
+
+	<IsShowMenu>1</IsShowMenu>
+
+	<plus_Copyright></plus_Copyright>
+
+	<plus_adminpage>pet_config.asp</plus_adminpage>
+
+	<plus_id>jy_pet</plus_id>
+
+</RECORD>
+<RECORD>
+	<ID>2</ID>
+
+	<Plus_Type>0</Plus_Type>
+
+	<Plus_Name>银行</Plus_Name>
+
+	<Isuse>1</Isuse>
+
+	<Plus_Setting>0|0|0|||0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0|||设置字段1,设置字段2,设置字段3,设置字段4,设置字段5,设置字段6,设置字段7,设置字段8,设置字段9,设置字段10,设置字段11,设置字段12,设置字段13,设置字段14,设置字段15,设置字段16,设置字段17,设置字段18,设置字段19|||0,0|24,1@2@3@4@5@6@7@8,,0,0,0,0,0,0,0,0,0,</Plus_Setting>
+
+	<Mainpage>plus_bank.asp</Mainpage>
+
+	<IsShowMenu>1</IsShowMenu>
+
+	<plus_Copyright>银行服务</plus_Copyright>
+
+	<plus_adminpage></plus_adminpage>
+
+	<plus_id>jy_bank</plus_id>
+
+</RECORD>
+<RECORD>
+	<ID>3</ID>
+
+	<Plus_Type>0</Plus_Type>
+
+	<Plus_Name>私彩中心</Plus_Name>
+
+	<Isuse>1</Isuse>
+
+	<Plus_Setting>0|0|0|||0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0|||设置字段1,设置字段2,设置字段3,设置字段4,设置字段5,设置字段6,设置字段7,设置字段8,设置字段9,设置字段10,设置字段11,设置字段12,设置字段13,设置字段14,设置字段15,设置字段16,设置字段17,设置字段18,设置字段19|||0,0|24,1@2@3@4@5@6@7@8,,0,0,0,0,0,0,0,0,0,</Plus_Setting>
+
+	<Mainpage>b_bet.asp</Mainpage>
+
+	<IsShowMenu>1</IsShowMenu>
+
+	<plus_Copyright></plus_Copyright>
+
+	<plus_adminpage>b_betadmin.asp</plus_adminpage>
+
+	<plus_id>b_bet</plus_id>
+
+</RECORD>
+<RECORD>
+	<ID>1</ID>
+
+	<Plus_Type>0</Plus_Type>
+
+	<Plus_Name>宠物中心</Plus_Name>
+
+	<Isuse>1</Isuse>
+
+	<Plus_Setting>0|0|0|||0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0|||设置字段1,设置字段2,设置字段3,设置字段4,设置字段5,设置字段6,设置字段7,设置字段8,设置字段9,设置字段10,设置字段11,设置字段12,设置字段13,设置字段14,设置字段15,设置字段16,设置字段17,设置字段18,设置字段19|||0,0|24,1@2@3@4@5@6@7@8,,0,0,0,0,0,0,0,0,0,</Plus_Setting>
+
+	<Mainpage>petcenter.asp</Mainpage>
+
+	<IsShowMenu>1</IsShowMenu>
+
+	<plus_Copyright></plus_Copyright>
+
+	<plus_adminpage>pet_config.asp</plus_adminpage>
+
+	<plus_id>jy_pet</plus_id>
+
+</RECORD>
+</RECORDS>

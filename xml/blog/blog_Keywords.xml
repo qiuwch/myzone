@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<key_ID>1</key_ID>
+
+	<key_Text>微软</key_Text>
+
+	<key_URL>http://www.microsoft.com/china/homepage/ms.htm</key_URL>
+
+	<key_Image>microsoft.gif</key_Image>
+
+</RECORD>
+<RECORD>
+	<key_ID>2</key_ID>
+
+	<key_Text>Microsoft</key_Text>
+
+	<key_URL>http://www.microsoft.com/china/homepage/ms.htm</key_URL>
+
+	<key_Image>microsoft.gif</key_Image>
+
+</RECORD>
+<RECORD>
+	<key_ID>3</key_ID>
+
+	<key_Text>金山</key_Text>
+
+	<key_URL>http://www.kingsoft.com/</key_URL>
+
+	<key_Image>kingsoft.gif</key_Image>
+
+</RECORD>
+<RECORD>
+	<key_ID>4</key_ID>
+
+	<key_Text>L-Blog</key_Text>
+
+	<key_URL>http://www.loveyuki.com</key_URL>
+
+	<key_Image></key_Image>
+
+</RECORD>
+<RECORD>
+	<key_ID>5</key_ID>
+
+	<key_Text>Loveyuki</key_Text>
+
+	<key_URL>http://www.loveyuki.com</key_URL>
+
+	<key_Image></key_Image>
+
+</RECORD>
+<RECORD>
+	<key_ID>6</key_ID>
+
+	<key_Text>Adobe</key_Text>
+
+	<key_URL>http://www.chinese-s.adobe.com/main.html</key_URL>
+
+	<key_Image>adobe.gif</key_Image>
+
+</RECORD>
+<RECORD>
+	<key_ID>7</key_ID>
+
+	<key_Text>Macromedia</key_Text>
+
+	<key_URL>http://www.macromedia.com/cn/</key_URL>
+
+	<key_Image>macromedia.gif</key_Image>
+
+</RECORD>
+<RECORD>
+	<key_ID>8</key_ID>
+
+	<key_Text>CSDN</key_Text>
+
+	<key_URL>http://www.csdn.net/</key_URL>
+
+	<key_Image>csdn.gif</key_Image>
+
+</RECORD>
+<RECORD>
+	<key_ID>9</key_ID>
+
+	<key_Text>Intel</key_Text>
+
+	<key_URL>http://www.intel.com/cd/corporate/home/apac/zho/</key_URL>
+
+	<key_Image>Intel.gif</key_Image>
+
+</RECORD>
+<RECORD>
+	<key_ID>10</key_ID>
+
+	<key_Text>MyIE2</key_Text>
+
+	<key_URL>http://www.myie2.com/html_chs/home.htm</key_URL>
+
+	<key_Image></key_Image>
+
+</RECORD>
+<RECORD>
+	<key_ID>11</key_ID>
+
+	<key_Text>ACDSee</key_Text>
+
+	<key_URL>http://www.acdsystems.com/English/Products/ACDSee/index.htm</key_URL>
+
+	<key_Image></key_Image>
+
+</RECORD>
+<RECORD>
+	<key_ID>12</key_ID>
+
+	<key_Text>FlashGet</key_Text>
+
+	<key_URL>http://www.amazesoft.com/index.htm</key_URL>
+
+	<key_Image></key_Image>
+
+</RECORD>
+<RECORD>
+	<key_ID>13</key_ID>
+
+	<key_Text>陕西科技大学</key_Text>
+
+	<key_URL>http://www.sust.edu.cn</key_URL>
+
+	<key_Image></key_Image>
+
+</RECORD>
+<RECORD>
+	<key_ID>14</key_ID>
+
+	<key_Text>IBM</key_Text>
+
+	<key_URL>http://www.ibm.com/cn</key_URL>
+
+	<key_Image></key_Image>
+
+</RECORD>
+<RECORD>
+	<key_ID>15</key_ID>
+
+	<key_Text>DELL</key_Text>
+
+	<key_URL>http://www.dell.com</key_URL>
+
+	<key_Image></key_Image>
+
+</RECORD>
+<RECORD>
+	<key_ID>16</key_ID>
+
+	<key_Text>戴尔</key_Text>
+
+	<key_URL>http://www.dell.com.cn</key_URL>
+
+	<key_Image></key_Image>
+
+</RECORD>
+</RECORDS>

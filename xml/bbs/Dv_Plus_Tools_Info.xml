@@ -1,0 +1,975 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<ID>1</ID>
+
+	<ToolsName>转让器</ToolsName>
+
+	<ToolsInfo>可进行金币或道具的转让</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools6.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>99</SysStock>
+
+	<UserStock>1</UserStock>
+
+	<UserTicket>20</UserTicket>
+
+	<UserMoney>100</UserMoney>
+
+	<UserPost>100</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>2</ID>
+
+	<ToolsName>后悔药</ToolsName>
+
+	<ToolsInfo>发帖后可删除自已所发的帖子</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools5.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>89</SysStock>
+
+	<UserStock>11</UserStock>
+
+	<UserTicket>3</UserTicket>
+
+	<UserMoney>15</UserMoney>
+
+	<UserPost>0</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>3</ID>
+
+	<ToolsName>一级特赦令</ToolsName>
+
+	<ToolsInfo>可解除单帖屏蔽</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools19.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>99</SysStock>
+
+	<UserStock>1</UserStock>
+
+	<UserTicket>3</UserTicket>
+
+	<UserMoney>15</UserMoney>
+
+	<UserPost>0</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>4</ID>
+
+	<ToolsName>二级特赦令</ToolsName>
+
+	<ToolsInfo>可解除主题锁定</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools20.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>99</SysStock>
+
+	<UserStock>1</UserStock>
+
+	<UserTicket>5</UserTicket>
+
+	<UserMoney>25</UserMoney>
+
+	<UserPost>0</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>5</ID>
+
+	<ToolsName>三级特赦令</ToolsName>
+
+	<ToolsInfo>可解除自已的屏蔽或锁定状态</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools21.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>100</SysStock>
+
+	<UserStock>0</UserStock>
+
+	<UserTicket>40</UserTicket>
+
+	<UserMoney>200</UserMoney>
+
+	<UserPost>200</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>6</ID>
+
+	<ToolsName>吖噗鸡</ToolsName>
+
+	<ToolsInfo>可将帖子提升到该分版论坛的第一页顶部。</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools4.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>98</SysStock>
+
+	<UserStock>2</UserStock>
+
+	<UserTicket>5</UserTicket>
+
+	<UserMoney>25</UserMoney>
+
+	<UserPost>0</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>7</ID>
+
+	<ToolsName>醒目灯</ToolsName>
+
+	<ToolsInfo>可发表特殊效果的标题。</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools3.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>99</SysStock>
+
+	<UserStock>0</UserStock>
+
+	<UserTicket>5</UserTicket>
+
+	<UserMoney>25</UserMoney>
+
+	<UserPost>0</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>8</ID>
+
+	<ToolsName>水晶球</ToolsName>
+
+	<ToolsInfo>可查看帖子中用户的IP</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools2.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>90</SysStock>
+
+	<UserStock>10</UserStock>
+
+	<UserTicket>3</UserTicket>
+
+	<UserMoney>15</UserMoney>
+
+	<UserPost>0</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>9</ID>
+
+	<ToolsName>追踪器</ToolsName>
+
+	<ToolsInfo>可查看帖子中用户IP和来源</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools18.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>93</SysStock>
+
+	<UserStock>7</UserStock>
+
+	<UserTicket>5</UserTicket>
+
+	<UserMoney>25</UserMoney>
+
+	<UserPost>0</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>10</ID>
+
+	<ToolsName>一星龙珠</ToolsName>
+
+	<ToolsInfo>可将用户所有负分转为0</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools15.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>100</SysStock>
+
+	<UserStock>0</UserStock>
+
+	<UserTicket>40</UserTicket>
+
+	<UserMoney>200</UserMoney>
+
+	<UserPost>100</UserPost>
+
+	<UserWealth>-1000</UserWealth>
+
+	<UserEp>-1000</UserEp>
+
+	<UserCp>-1000</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>100,-1000,-1000,-1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>11</ID>
+
+	<ToolsName>二星龙珠</ToolsName>
+
+	<ToolsInfo>可将经验负分转为0</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools16.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>100</SysStock>
+
+	<UserStock>0</UserStock>
+
+	<UserTicket>20</UserTicket>
+
+	<UserMoney>100</UserMoney>
+
+	<UserPost>50</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>12</ID>
+
+	<ToolsName>狗仔队</ToolsName>
+
+	<ToolsInfo>让你第一时间获知朋友是否在线，可在某用户登陆时用短信通知自已。</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools8.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>90</SysStock>
+
+	<UserStock>10</UserStock>
+
+	<UserTicket>5</UserTicket>
+
+	<UserMoney>25</UserMoney>
+
+	<UserPost>0</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>13</ID>
+
+	<ToolsName>救生圈</ToolsName>
+
+	<ToolsInfo>可将帖子固顶6小时。</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools14.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>100</SysStock>
+
+	<UserStock>0</UserStock>
+
+	<UserTicket>10</UserTicket>
+
+	<UserMoney>50</UserMoney>
+
+	<UserPost>0</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>14</ID>
+
+	<ToolsName>大救生圈</ToolsName>
+
+	<ToolsInfo>可将帖子固顶12小时。</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools13.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>99</SysStock>
+
+	<UserStock>0</UserStock>
+
+	<UserTicket>20</UserTicket>
+
+	<UserMoney>100</UserMoney>
+
+	<UserPost>0</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>15</ID>
+
+	<ToolsName>时空转移机</ToolsName>
+
+	<ToolsInfo>可将自已的帖子移动到任意版面（隐含、特殊限定版面除外）。</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools9.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>-1</SysStock>
+
+	<UserStock>0</UserStock>
+
+	<UserTicket>0</UserTicket>
+
+	<UserMoney>0</UserMoney>
+
+	<UserPost>0</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>16</ID>
+
+	<ToolsName>照妖镜</ToolsName>
+
+	<ToolsInfo>可查看匿名发帖用户名。</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools17.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>-1</SysStock>
+
+	<UserStock>0</UserStock>
+
+	<UserTicket>0</UserTicket>
+
+	<UserMoney>0</UserMoney>
+
+	<UserPost>0</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>17</ID>
+
+	<ToolsName>晶体探测器</ToolsName>
+
+	<ToolsInfo>可将匿名发帖用户信息直接转为真实信息，并公开显示状态。</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools22.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>-1</SysStock>
+
+	<UserStock>0</UserStock>
+
+	<UserTicket>0</UserTicket>
+
+	<UserMoney>0</UserMoney>
+
+	<UserPost>0</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>18</ID>
+
+	<ToolsName>精灵弓</ToolsName>
+
+	<ToolsInfo>可破坏小救生圈效果，对大救生圈效果破坏1/6。</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools11.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>100</SysStock>
+
+	<UserStock>9</UserStock>
+
+	<UserTicket>3</UserTicket>
+
+	<UserMoney>15</UserMoney>
+
+	<UserPost>0</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>19</ID>
+
+	<ToolsName>水之母</ToolsName>
+
+	<ToolsInfo>可延长大小救生圈固顶效果时限的1/6。</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools12.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>100</SysStock>
+
+	<UserStock>5</UserStock>
+
+	<UserTicket>3</UserTicket>
+
+	<UserMoney>15</UserMoney>
+
+	<UserPost>0</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>20</ID>
+
+	<ToolsName>转生之炎</ToolsName>
+
+	<ToolsInfo>可将更改自已在论坛的用户名。</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools7.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>100</SysStock>
+
+	<UserStock>0</UserStock>
+
+	<UserTicket>100</UserTicket>
+
+	<UserMoney>500</UserMoney>
+
+	<UserPost>0</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>21</ID>
+
+	<ToolsName>群发器</ToolsName>
+
+	<ToolsInfo>可发送论坛短消息给所有在线用户。</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools10.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>100</SysStock>
+
+	<UserStock>0</UserStock>
+
+	<UserTicket>100</UserTicket>
+
+	<UserMoney>500</UserMoney>
+
+	<UserPost>100</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>2</BuyType>
+
+	<ToolsSetting>100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>22</ID>
+
+	<ToolsName>偷窥器</ToolsName>
+
+	<ToolsInfo>可查看会员金币、点券和道具等保密信息</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools24.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>100</SysStock>
+
+	<UserStock>0</UserStock>
+
+	<UserTicket>10</UserTicket>
+
+	<UserMoney>50</UserMoney>
+
+	<UserPost>0</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>23</ID>
+
+	<ToolsName>查税卡</ToolsName>
+
+	<ToolsInfo>可对用户的金币执行一定比例的税收，收入归使用者，比例由系统定义</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools23.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>100</SysStock>
+
+	<UserStock>0</UserStock>
+
+	<UserTicket>100</UserTicket>
+
+	<UserMoney>500</UserMoney>
+
+	<UserPost>200</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>2</BuyType>
+
+	<ToolsSetting>200,0,0,0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>24</ID>
+
+	<ToolsName>均富卡</ToolsName>
+
+	<ToolsInfo>可使使用用户的金币数和目标用户的金币数相同</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools25.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>100</SysStock>
+
+	<UserStock>0</UserStock>
+
+	<UserTicket>100</UserTicket>
+
+	<UserMoney>500</UserMoney>
+
+	<UserPost>500</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>2</BuyType>
+
+	<ToolsSetting>500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>25</ID>
+
+	<ToolsName>均贫卡</ToolsName>
+
+	<ToolsInfo>可使目标用户和使用用户金币数相同，金币数以少的一方为准</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools26.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>100</SysStock>
+
+	<UserStock>0</UserStock>
+
+	<UserTicket>100</UserTicket>
+
+	<UserMoney>500</UserMoney>
+
+	<UserPost>100</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>2</BuyType>
+
+	<ToolsSetting>100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>26</ID>
+
+	<ToolsName>抢夺卡</ToolsName>
+
+	<ToolsInfo>可随机抢夺目标用户身上1/3到1/2的卡片</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools27.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>-1</SysStock>
+
+	<UserStock>0</UserStock>
+
+	<UserTicket>0</UserTicket>
+
+	<UserMoney>0</UserMoney>
+
+	<UserPost>0</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>0,0,0,0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+<RECORD>
+	<ID>27</ID>
+
+	<ToolsName>复仇卡</ToolsName>
+
+	<ToolsInfo>当被人使用恶性道具引起损失，此道具会自动使用并惩罚所使用恶性道具方用户</ToolsInfo>
+
+	<ToolsImg>Dv_plus/Tools/pic/tools28.jpg</ToolsImg>
+
+	<IsStar>1</IsStar>
+
+	<SysStock>-1</SysStock>
+
+	<UserStock>0</UserStock>
+
+	<UserTicket>0</UserTicket>
+
+	<UserMoney>0</UserMoney>
+
+	<UserPost>0</UserPost>
+
+	<UserWealth>0</UserWealth>
+
+	<UserEp>0</UserEp>
+
+	<UserCp>0</UserCp>
+
+	<UserGroupID>1,2,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</UserGroupID>
+
+	<BoardID>11,18,2,3,4,12,23,17,24,5,6,7,8,9,26,10,31,21,25,22,29,13,14,15,16,33,19,20,32,27,28,30</BoardID>
+
+	<BuyType>3</BuyType>
+
+	<ToolsSetting>0,0,0,0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</ToolsSetting>
+
+</RECORD>
+</RECORDS>
